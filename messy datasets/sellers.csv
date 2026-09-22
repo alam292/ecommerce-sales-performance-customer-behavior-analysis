@@ -1,0 +1,1576 @@
+seller_id,seller_name,seller_city,seller_state,seller_rating,registration_date,seller_status
+SELL00001,"Shah, Merchant and Doctor",Jaipur,Odisha,1.4,2022-07-09 11:22:24.219702,Active
+SELL00002,"Chowdhury, Murthy and Kunda",Jaipur,Madhya Pradesh,2.63,2022-07-10 11:22:24.219702,Banned
+SELL00003,"Raval, Talwar and Chopra",Kolkata,Maharashtra,,2022-07-11 11:22:24.219702,Inactive
+SELL00004,Salvi-Batra,Bhopal,Maharashtra,3.06,2022-07-12 11:22:24.219702,Banned
+SELL00005,"Doctor, Dar and Mahal",Chandigarh,Tamil Nadu,2.36,2022-07-13 11:22:24.219702,Inactive
+SELL00006,"Bassi, Doctor and Raj",Hyderabad,Tamil Nadu,3.48,2022-07-14 11:22:24.219702,Active
+SELL00007,Amble-Varghese,Indore,Haryana,4.04,2022-07-15 11:22:24.219702,Banned
+SELL00008,Raghavan-Toor,Noida,Telangana,3.2,2022-07-16 11:22:24.219702,Active
+SELL00009,Ganesh-Dass,Jaipur,Gujarat,2.36,2022-07-17 11:22:24.219702,Active
+SELL00010,Sunder LLC,Lucknow,Punjab,3.49,2022-07-18 11:22:24.219702,Banned
+SELL00011,D’Alia Inc,Kolkata,West Bengal,2.02,2022-07-19 11:22:24.219702,Active
+SELL00012,Chakrabarti and Sons,Vadodara,Madhya Pradesh,2.46,2022-07-20 11:22:24.219702,Banned
+SELL00013,"Sabharwal, Vohra and Jain",Ahmedabad,Tamil Nadu,3.79,2022-07-21 11:22:24.219702,Banned
+SELL00014,"Nadig, Char and Chaudhuri",Visakhapatnam,Telangana,4.75,2022-07-22 11:22:24.219702,Inactive
+SELL00015,"Saraf, Sachdev and Tiwari",Patna,Maharashtra,3.43,2022-07-23 11:22:24.219702,Active
+SELL00016,"Balakrishnan, Chopra and Dayal",Bhopal,Kerala,3.26,2022-07-24 11:22:24.219702,Inactive
+SELL00017,Khatri-Cheema,Pune,West Bengal,3.61,2022-07-25 11:22:24.219702,Active
+SELL00018,Dugal-Sridhar,Ahmedabad,Rajasthan,3.94,2022-07-26 11:22:24.219702,Active
+SELL00019,Dar PLC,Chandigarh,Karnataka,3.6,2022-07-27 11:22:24.219702,Inactive
+SELL00020,Lata-Acharya,Mumbai,Andhra Pradesh,2.91,2022-07-28 11:22:24.219702,Banned
+SELL00021,"Loke, Srinivasan and Nagy",Bengaluru,Delhi,3.14,2022-07-29 11:22:24.219702,Banned
+SELL00022,Banik PLC,Bhopal,Kerala,3.09,2022-07-30 11:22:24.219702,Active
+SELL00023,"Atwal, Chandran and Buch",Noida,Tamil Nadu,3.33,2022-07-31 11:22:24.219702,Inactive
+SELL00024,Ahuja-Chauhan,Ahmedabad,Andhra Pradesh,4.49,2022-08-01 11:22:24.219702,Active
+SELL00025,Kohli and Sons,Chandigarh,Maharashtra,2.99,2022-08-02 11:22:24.219702,Active
+SELL00026,"Mallick, Chand and Murty",Noida,Delhi,2.86,2022-08-03 11:22:24.219702,Inactive
+SELL00027,"Pillay, Wali and Baral",Nagpur,Tamil Nadu,4.9,2022-08-04 11:22:24.219702,Inactive
+SELL00028,Tiwari-Wason,Visakhapatnam,Uttar Pradesh,1.85,2022-08-05 11:22:24.219702,Banned
+SELL00029,"Grewal, Prasad and Agate",Visakhapatnam,Karnataka,4.65,2022-08-06 11:22:24.219702,Active
+SELL00030,"Singhal, Varughese and Bobal",Nagpur,Uttar Pradesh,1.43,2022-08-07 11:22:24.219702,Banned
+SELL00031,"Loke, Dutt and Mane",Mumbai,West Bengal,,2022-08-08 11:22:24.219702,Active
+SELL00032,Oak-Dewan,Bhopal,Odisha,2.24,2022-08-09 11:22:24.219702,Banned
+SELL00033,"Kapoor, Chaudry and Uppal",Chennai,Uttar Pradesh,1.1,2022-08-10 11:22:24.219702,Active
+SELL00034,Mohan-Bhavsar,Noida,Karnataka,1.03,2022-08-11 11:22:24.219702,Banned
+SELL00035,Wali-Dutta,Delhi,Andhra Pradesh,,2022-08-12 11:22:24.219702,Inactive
+SELL00036,De PLC,Jaipur,Maharashtra,,2022-08-13 11:22:24.219702,Inactive
+SELL00037,Menon Ltd,Chennai,Delhi,3.46,2022-08-14 11:22:24.219702,Active
+SELL00038,Salvi-Sathe,Noida,Gujarat,2.43,2022-08-15 11:22:24.219702,Banned
+SELL00039,"Sur, Lad and Deo",Noida,Bihar,2.17,2022-08-16 11:22:24.219702,Inactive
+SELL00040,Virk-Bumb,Bhopal,Bihar,1.68,2022-08-17 11:22:24.219702,Active
+SELL00041,Dani Ltd,Kochi,Karnataka,2.62,2022-08-18 11:22:24.219702,Active
+SELL00042,Setty Group,Jaipur,Odisha,4.79,2022-08-19 11:22:24.219702,Active
+SELL00043,Walla and Sons,Bhopal,Telangana,3.3,2022-08-20 11:22:24.219702,Active
+SELL00044,Lall-Raj,Visakhapatnam,Uttar Pradesh,2.31,2022-08-21 11:22:24.219702,Active
+SELL00045,Sha and Sons,Delhi,Telangana,2.55,2022-08-22 11:22:24.219702,Banned
+SELL00046,Khanna-Pant,Hyderabad,Rajasthan,4.79,2022-08-23 11:22:24.219702,Inactive
+SELL00047,"Mangal, Gola and Swaminathan",Chandigarh,Odisha,1.27,2022-08-24 11:22:24.219702,Active
+SELL00048,"Viswanathan, Pant and Arora",Kochi,Gujarat,2.8,2022-08-25 11:22:24.219702,Active
+SELL00049,Virk-Wali,Chennai,Karnataka,4.89,2022-08-26 11:22:24.219702,Active
+SELL00050,Parekh PLC,Lucknow,Kerala,2.29,2022-08-27 11:22:24.219702,Active
+SELL00051,"Buch, Bhatnagar and Reddy",Kolkata,Haryana,1.66,2022-08-28 11:22:24.219702,Inactive
+SELL00052,"Uppal, Magar and Lad",Vadodara,Gujarat,4.44,2022-08-29 11:22:24.219702,Active
+SELL00053,"Chahal, Kota and Sura",Bengaluru,West Bengal,2.36,2022-08-30 11:22:24.219702,Banned
+SELL00054,Din PLC,Chennai,Telangana,3.77,2022-08-31 11:22:24.219702,Active
+SELL00055,Nigam Inc,Ahmedabad,Telangana,1.58,2022-09-01 11:22:24.219702,Inactive
+SELL00056,"Brar, Batta and Tak",Hyderabad,Bihar,,2022-09-02 11:22:24.219702,Inactive
+SELL00057,Subramanian PLC,Kolkata,Uttar Pradesh,4.8,2022-09-03 11:22:24.219702,Inactive
+SELL00058,"Shankar, Toor and Chaudhuri",Chandigarh,Maharashtra,1.65,2022-09-04 11:22:24.219702,Banned
+SELL00059,Chhabra Group,Noida,Odisha,4.11,2022-09-05 11:22:24.219702,Active
+SELL00060,Talwar Ltd,Lucknow,Punjab,4.09,2022-09-06 11:22:24.219702,Active
+SELL00061,"Bumb, Bains and Vala",Kolkata,Uttar Pradesh,1.69,2022-09-07 11:22:24.219702,Active
+SELL00062,D’Alia LLC,Lucknow,Haryana,3.55,2022-09-08 11:22:24.219702,Active
+SELL00063,"Sem, Yogi and Pandit",Chennai,Gujarat,3.6,2022-09-09 11:22:24.219702,Inactive
+SELL00064,Chaudhuri-Madan,Kolkata,Telangana,1.38,2022-09-10 11:22:24.219702,Banned
+SELL00065,Goda and Sons,Surat,Odisha,1.64,2022-09-11 11:22:24.219702,Inactive
+SELL00066,"Chokshi, Chauhan and Yadav",Ahmedabad,Punjab,6.0,2022-09-12 11:22:24.219702,Inactive
+SELL00067,Bhatnagar-Bhargava,Indore,Andhra Pradesh,1.37,2022-09-13 11:22:24.219702,Active
+SELL00068,Bumb-Loyal,Indore,Delhi,4.32,2022-09-14 11:22:24.219702,Active
+SELL00069,"Arora, Lata and Din",Delhi,Rajasthan,3.84,2022-09-15 11:22:24.219702,Active
+SELL00070,Bhagat-Saxena,Jaipur,Kerala,1.09,2022-09-16 11:22:24.219702,Banned
+SELL00071,Bahl and Sons,Patna,Haryana,9.0,2022-09-17 11:22:24.219702,Active
+SELL00072,Gala-Kulkarni,Patna,Andhra Pradesh,3.39,2022-09-18 11:22:24.219702,Banned
+SELL00073,"Pathak, Bora and Gera",Kochi,Punjab,,2022-09-19 11:22:24.219702,Banned
+SELL00074,Thakur Group,Hyderabad,West Bengal,4.66,2022-09-20 11:22:24.219702,Active
+SELL00075,"Lata, Bansal and Mishra",Kochi,Punjab,2.67,2022-09-21 11:22:24.219702,Banned
+SELL00076,Prabhu LLC,Hyderabad,West Bengal,3.28,2022-09-22 11:22:24.219702,Active
+SELL00077,"Toor, Wadhwa and Khatri",Mumbai,Maharashtra,2.33,2022-09-23 11:22:24.219702,Active
+SELL00078,"Tailor, Krishnan and Nagar",Bengaluru,Kerala,4.57,2022-09-24 11:22:24.219702,Active
+SELL00079,"Garde, Bora and Sridhar",Nagpur,Karnataka,4.68,2022-09-25 11:22:24.219702,Banned
+SELL00080,"Arora, Char and Manda",Ahmedabad,Andhra Pradesh,3.44,2022-09-26 11:22:24.219702,Banned
+SELL00081,"Bahl, Kakar and Hans",Bengaluru,Gujarat,4.63,2022-09-27 11:22:24.219702,Inactive
+SELL00082,Prakash-Bajwa,Nagpur,Karnataka,1.67,2022-09-28 11:22:24.219702,Banned
+SELL00083,Bandi Ltd,Indore,Andhra Pradesh,2.46,2022-09-29 11:22:24.219702,Inactive
+SELL00084,"Vyas, Mohan and Atwal",Bhopal,Odisha,3.81,2022-09-30 11:22:24.219702,Inactive
+SELL00085,Pandya PLC,Delhi,Uttar Pradesh,3.91,2022-10-01 11:22:24.219702,Inactive
+SELL00086,Sandal-Dugal,Pune,Uttar Pradesh,3.21,2022-10-02 11:22:24.219702,Inactive
+SELL00087,Sanghvi Ltd,Bengaluru,Karnataka,2.62,2022-10-03 11:22:24.219702,Banned
+SELL00088,"Nagi, Raghavan and Ramaswamy",Hyderabad,Karnataka,3.42,2022-10-04 11:22:24.219702,Active
+SELL00089,Varma Inc,Surat,Delhi,1.85,2022-10-05 11:22:24.219702,Inactive
+SELL00090,"Kalla, Deol and Dyal",Visakhapatnam,Rajasthan,3.87,2022-10-06 11:22:24.219702,Active
+SELL00091,"Bhatia, Dash and Jayaraman",Bengaluru,Bihar,4.47,2022-10-07 11:22:24.219702,Banned
+SELL00092,"Savant, Vohra and Bir",Surat,Haryana,1.82,2022-10-08 11:22:24.219702,Inactive
+SELL00093,"Jhaveri, Hayer and Tiwari",Bengaluru,Punjab,1.34,2022-10-09 11:22:24.219702,Inactive
+SELL00094,Baral Ltd,Bhopal,Delhi,2.83,2022-10-10 11:22:24.219702,Banned
+SELL00095,Batra Group,Chandigarh,Andhra Pradesh,2.31,2022-10-11 11:22:24.219702,Active
+SELL00096,Kant-Sankar,Vadodara,Andhra Pradesh,2.6,2022-10-12 11:22:24.219702,Active
+SELL00097,Mishra-Dalal,Patna,Kerala,4.3,2022-10-13 11:22:24.219702,Banned
+SELL00098,"Mital, Sharaf and Chakrabarti",Vadodara,Tamil Nadu,4.89,2022-10-14 11:22:24.219702,Banned
+SELL00099,"Sarin, Minhas and Vohra",Vadodara,Haryana,,2022-10-15 11:22:24.219702,Active
+SELL00100,Dhar Ltd,Bengaluru,Karnataka,1.05,2022-10-16 11:22:24.219702,Active
+SELL00101,Srivastava Ltd,Bengaluru,Maharashtra,3.47,2022-10-17 11:22:24.219702,Inactive
+SELL00102,"Kohli, Palla and Mutti",Mumbai,Odisha,3.76,2022-10-18 11:22:24.219702,Banned
+SELL00103,Loke PLC,Indore,Telangana,2.2,2022-10-19 11:22:24.219702,Inactive
+SELL00104,Varghese-Talwar,Patna,Andhra Pradesh,3.42,2022-10-20 11:22:24.219702,Inactive
+SELL00105,Kannan-Menon,Jaipur,Bihar,1.3,2022-10-21 11:22:24.219702,Banned
+SELL00106,Kadakia Inc,Vadodara,Haryana,3.98,2022-10-22 11:22:24.219702,Inactive
+SELL00107,Patla-Sahni,Jaipur,Gujarat,4.21,2022-10-23 11:22:24.219702,Active
+SELL00108,Nori Group,Kochi,Karnataka,1.64,2022-10-24 11:22:24.219702,Active
+SELL00109,Goda-Ganesh,Delhi,Odisha,2.95,2022-10-25 11:22:24.219702,Inactive
+SELL00110,"Bobal, Bhardwaj and Dora",Lucknow,Delhi,1.73,2022-10-26 11:22:24.219702,Inactive
+SELL00111,"Bobal, Muni and Srivastava",Bhopal,Tamil Nadu,2.94,2022-10-27 11:22:24.219702,Active
+SELL00112,Shetty-Apte,Pune,Telangana,3.41,2022-10-28 11:22:24.219702,Banned
+SELL00113,"Virk, More and Goda",Noida,Gujarat,1.74,2022-10-29 11:22:24.219702,Inactive
+SELL00114,Zacharia PLC,Pune,Telangana,3.03,2022-10-30 11:22:24.219702,Banned
+SELL00115,Aggarwal-Hans,Visakhapatnam,Madhya Pradesh,3.45,2022-10-31 11:22:24.219702,Inactive
+SELL00116,Dasgupta-Bassi,Indore,Uttar Pradesh,2.85,2022-11-01 11:22:24.219702,Active
+SELL00117,"Luthra, Ganguly and Sha",Noida,Andhra Pradesh,3.37,2022-11-02 11:22:24.219702,Banned
+SELL00118,"Kala, Bawa and Johal",Delhi,Odisha,3.73,2022-11-03 11:22:24.219702,Inactive
+SELL00119,"Mishra, Edwin and Sachdeva",Vadodara,Punjab,2.3,2022-11-04 11:22:24.219702,Active
+SELL00120,"Bhattacharyya, Bora and Rege",Indore,Bihar,3.59,2022-11-05 11:22:24.219702,Active
+SELL00121,"Grewal, Parmer and Handa",Kolkata,Odisha,4.85,2022-11-06 11:22:24.219702,Banned
+SELL00122,Sinha-Rattan,Kochi,Rajasthan,2.2,2022-11-07 11:22:24.219702,Inactive
+SELL00123,Joshi PLC,Pune,Rajasthan,1.87,2022-11-08 11:22:24.219702,Banned
+SELL00124,Edwin-Chokshi,Patna,Karnataka,2.08,2022-11-09 11:22:24.219702,Banned
+SELL00125,Andra-Venkataraman,Noida,Uttar Pradesh,3.25,2022-11-10 11:22:24.219702,Active
+SELL00126,Thakur-Pingle,Chandigarh,Delhi,,2022-11-11 11:22:24.219702,Active
+SELL00127,"Soni, Sane and Garde",Patna,Odisha,3.0,2022-11-12 11:22:24.219702,Active
+SELL00128,"Goyal, Suri and Srivastava",Nagpur,Gujarat,2.31,2022-11-13 11:22:24.219702,Banned
+SELL00129,Kota-Raj,Jaipur,Gujarat,1.08,2022-11-14 11:22:24.219702,Banned
+SELL00130,Bobal and Sons,Nagpur,Rajasthan,2.81,2022-11-15 11:22:24.219702,Banned
+SELL00131,"Dass, Walla and Srinivasan",Visakhapatnam,Bihar,1.97,2022-11-16 11:22:24.219702,Inactive
+SELL00132,Krishnamurthy and Sons,Nagpur,Karnataka,3.51,2022-11-17 11:22:24.219702,Banned
+SELL00133,"Gour, Pingle and Devi",Bhopal,Odisha,1.43,2022-11-18 11:22:24.219702,Active
+SELL00134,"Choudhary, Anne and Kaur",Indore,Delhi,4.25,2022-11-19 11:22:24.219702,Active
+SELL00135,"Andra, Sanghvi and Madan",Jaipur,Madhya Pradesh,,2022-11-20 11:22:24.219702,Inactive
+SELL00136,"Bhardwaj, Chanda and Sagar",Chennai,Rajasthan,2.95,2022-11-21 11:22:24.219702,Inactive
+SELL00137,"Pall, Sha and Dugar",Mumbai,Odisha,4.55,2022-11-22 11:22:24.219702,Inactive
+SELL00138,Gopal-Puri,Noida,Uttar Pradesh,2.07,2022-11-23 11:22:24.219702,Inactive
+SELL00139,"Ramakrishnan, Jain and Kota",Visakhapatnam,West Bengal,2.27,2022-11-24 11:22:24.219702,Inactive
+SELL00140,"Varty, Magar and Nayak",Jaipur,Andhra Pradesh,2.06,2022-11-25 11:22:24.219702,Active
+SELL00141,Goel PLC,Kochi,Gujarat,2.31,2022-11-26 11:22:24.219702,Active
+SELL00142,Dua-Pal,Mumbai,Delhi,3.86,2022-11-27 11:22:24.219702,Inactive
+SELL00143,Kulkarni-Patil,Bengaluru,Telangana,1.27,2022-11-28 11:22:24.219702,Inactive
+SELL00144,Bhardwaj Inc,Kochi,Haryana,2.83,2022-11-29 11:22:24.219702,Inactive
+SELL00145,"Bhargava, Nair and Thakkar",Chennai,Madhya Pradesh,4.66,2022-11-30 11:22:24.219702,Inactive
+SELL00146,Gole-Sridhar,Pune,Gujarat,1.08,2022-12-01 11:22:24.219702,Active
+SELL00147,"Nagi, Luthra and Gala",Vadodara,Maharashtra,3.5,2022-12-02 11:22:24.219702,Active
+SELL00148,Vaidya-Swamy,Kolkata,Uttar Pradesh,,2022-12-03 11:22:24.219702,Banned
+SELL00149,Ramakrishnan-Chaudhary,Nagpur,Madhya Pradesh,,2022-12-04 11:22:24.219702,Active
+SELL00150,"Chaudhari, Dani and Issac",Indore,Kerala,3.75,2022-12-05 11:22:24.219702,Active
+SELL00151,Khurana Group,Lucknow,Rajasthan,3.67,2022-12-06 11:22:24.219702,Banned
+SELL00152,"Dasgupta, Sinha and Rattan",Mumbai,Karnataka,1.18,2022-12-07 11:22:24.219702,Banned
+SELL00153,Kar-Nadkarni,Patna,Delhi,4.04,2022-12-08 11:22:24.219702,Inactive
+SELL00154,Atwal LLC,Hyderabad,Madhya Pradesh,,2022-12-09 11:22:24.219702,Inactive
+SELL00155,Rana Group,Ahmedabad,Maharashtra,4.62,2022-12-10 11:22:24.219702,Active
+SELL00156,"Srinivas, Raval and Dass",Bhopal,Andhra Pradesh,2.83,2022-12-11 11:22:24.219702,Banned
+SELL00157,"Khare, Prasad and Suresh",Chennai,Kerala,3.91,2022-12-12 11:22:24.219702,Inactive
+SELL00158,"Raman, Behl and Deshmukh",Hyderabad,Kerala,,2022-12-13 11:22:24.219702,Inactive
+SELL00159,Guha-Bose,Visakhapatnam,Karnataka,3.95,2022-12-14 11:22:24.219702,Active
+SELL00160,Chaudhary PLC,Surat,Maharashtra,1.9,2022-12-15 11:22:24.219702,Inactive
+SELL00161,Varghese Ltd,Patna,Andhra Pradesh,2.2,2022-12-16 11:22:24.219702,Banned
+SELL00162,Gulati-Kashyap,Patna,Uttar Pradesh,,2022-12-17 11:22:24.219702,Inactive
+SELL00163,Rajan-Pall,Noida,Madhya Pradesh,2.8,2022-12-18 11:22:24.219702,Active
+SELL00164,"Rout, Soman and Mandal",Patna,West Bengal,4.52,2022-12-19 11:22:24.219702,Inactive
+SELL00165,"Tripathi, Sami and Raju",Kochi,Punjab,1.93,2022-12-20 11:22:24.219702,Banned
+SELL00166,Dayal LLC,Visakhapatnam,Karnataka,2.49,2022-12-21 11:22:24.219702,Active
+SELL00167,"Choudhury, Thakur and Datta",Hyderabad,Rajasthan,2.03,2022-12-22 11:22:24.219702,Active
+SELL00168,Nanda PLC,Vadodara,Punjab,3.5,2022-12-23 11:22:24.219702,Banned
+SELL00169,"Chaudry, Keer and Basak",Jaipur,Andhra Pradesh,4.55,2022-12-24 11:22:24.219702,Active
+SELL00170,Butala Ltd,Indore,Delhi,3.15,2022-12-25 11:22:24.219702,Active
+SELL00171,Karan-Tella,Lucknow,Karnataka,4.04,2022-12-26 11:22:24.219702,Banned
+SELL00172,Kota LLC,Jaipur,Madhya Pradesh,3.2,2022-12-27 11:22:24.219702,Banned
+SELL00173,"Loyal, Sen and Patla",Lucknow,Telangana,3.2,2022-12-28 11:22:24.219702,Banned
+SELL00174,Singh-Singhal,Kochi,Punjab,9.0,2022-12-29 11:22:24.219702,Active
+SELL00175,"Vig, Saha and Merchant",Lucknow,Kerala,1.38,2022-12-30 11:22:24.219702,Inactive
+SELL00176,"Mishra, Roy and Nadig",Delhi,Tamil Nadu,3.46,2022-12-31 11:22:24.219702,Banned
+SELL00177,Dave-Narang,Bhopal,Uttar Pradesh,3.07,2023-01-01 11:22:24.219702,Banned
+SELL00178,"Khurana, Kapur and Nanda",Hyderabad,West Bengal,1.93,2023-01-02 11:22:24.219702,Inactive
+SELL00179,"Mannan, Sharma and Majumdar",Bhopal,Haryana,2.21,2023-01-03 11:22:24.219702,Inactive
+SELL00180,"Nagarajan, Memon and Master",Bhopal,Telangana,4.88,2023-01-04 11:22:24.219702,Inactive
+SELL00181,"Dora, Memon and Pingle",Vadodara,Madhya Pradesh,4.25,2023-01-05 11:22:24.219702,Active
+SELL00182,Barad Inc,Chennai,Tamil Nadu,,2023-01-06 11:22:24.219702,Banned
+SELL00183,Pandit PLC,Kolkata,Rajasthan,3.84,2023-01-07 11:22:24.219702,Active
+SELL00184,"Wadhwa, Kapadia and Mukhopadhyay",Nagpur,Punjab,3.08,2023-01-08 11:22:24.219702,Inactive
+SELL00185,Behl Ltd,Vadodara,Rajasthan,,2023-01-09 11:22:24.219702,Active
+SELL00186,"Pingle, Cherian and Mishra",Indore,Delhi,4.39,2023-01-10 11:22:24.219702,Active
+SELL00187,Batta PLC,Bhopal,Bihar,2.52,2023-01-11 11:22:24.219702,Banned
+SELL00188,"Karnik, Prashad and Gulati",Bhopal,Punjab,4.52,2023-01-12 11:22:24.219702,Banned
+SELL00189,Bajaj-Trivedi,Jaipur,Tamil Nadu,1.39,2023-01-13 11:22:24.219702,Inactive
+SELL00190,Mahajan LLC,Indore,West Bengal,2.98,2023-01-14 11:22:24.219702,Inactive
+SELL00191,Butala LLC,Kolkata,Haryana,,2023-01-15 11:22:24.219702,Inactive
+SELL00192,"Sunder, Ghose and Hans",Bhopal,Gujarat,4.99,2023-01-16 11:22:24.219702,Inactive
+SELL00193,Bakshi Group,Indore,Andhra Pradesh,2.78,2023-01-17 11:22:24.219702,Banned
+SELL00194,Garde-Tiwari,Surat,West Bengal,4.51,2023-01-18 11:22:24.219702,Inactive
+SELL00195,Goswami-Rajagopalan,Vadodara,Madhya Pradesh,3.62,2023-01-19 11:22:24.219702,Banned
+SELL00196,Krishnan Ltd,Surat,Tamil Nadu,1.23,2023-01-20 11:22:24.219702,Active
+SELL00197,Raman LLC,Chennai,Haryana,4.75,2023-01-21 11:22:24.219702,Banned
+SELL00198,Kala-Choudhry,Vadodara,Kerala,3.34,2023-01-22 11:22:24.219702,Banned
+SELL00199,Basu-Subramanian,Noida,Bihar,4.62,2023-01-23 11:22:24.219702,Active
+SELL00200,Krishna Group,Chandigarh,Uttar Pradesh,4.04,2023-01-24 11:22:24.219702,Banned
+SELL00201,Iyer Inc,Mumbai,Rajasthan,4.95,2023-01-25 11:22:24.219702,Active
+SELL00202,Kapoor-Dave,Jaipur,Punjab,4.68,2023-01-26 11:22:24.219702,Inactive
+SELL00203,Sachar LLC,Delhi,Telangana,4.24,2023-01-27 11:22:24.219702,Banned
+SELL00204,Divan LLC,Chandigarh,Rajasthan,3.9,2023-01-28 11:22:24.219702,Banned
+SELL00205,Bansal-Rana,Chennai,Punjab,,2023-01-29 11:22:24.219702,Active
+SELL00206,Acharya and Sons,Hyderabad,Telangana,2.65,2023-01-30 11:22:24.219702,Banned
+SELL00207,Radhakrishnan Inc,Noida,Kerala,2.74,2023-01-31 11:22:24.219702,Inactive
+SELL00208,Mannan-Pradhan,Nagpur,Delhi,3.89,2023-02-01 11:22:24.219702,Banned
+SELL00209,"Kota, Subramanian and Saxena",Lucknow,Gujarat,1.58,2023-02-02 11:22:24.219702,Inactive
+SELL00210,Dutt Inc,Surat,Delhi,2.31,2023-02-03 11:22:24.219702,Active
+SELL00211,Dhaliwal PLC,Hyderabad,Andhra Pradesh,1.71,2023-02-04 11:22:24.219702,Active
+SELL00212,"Mitter, Shanker and Kari",Bhopal,Maharashtra,1.58,2023-02-05 11:22:24.219702,Inactive
+SELL00213,Mukherjee-Ahluwalia,Bhopal,Karnataka,4.57,2023-02-06 11:22:24.219702,Banned
+SELL00214,Bhakta-Rajan,Noida,Delhi,2.31,2023-02-07 11:22:24.219702,Inactive
+SELL00215,Bava-Rai,Lucknow,Haryana,2.16,2023-02-08 11:22:24.219702,Inactive
+SELL00216,Mall-Yohannan,Jaipur,Karnataka,2.36,2023-02-09 11:22:24.219702,Active
+SELL00217,"Wagle, Doshi and Din",Vadodara,Bihar,3.46,2023-02-10 11:22:24.219702,Inactive
+SELL00218,Kala-Vig,Chandigarh,Karnataka,1.09,2023-02-11 11:22:24.219702,Inactive
+SELL00219,D’Alia-Bansal,Bengaluru,Kerala,4.05,2023-02-12 11:22:24.219702,Banned
+SELL00220,Thaman Inc,Noida,Tamil Nadu,1.72,2023-02-13 11:22:24.219702,Banned
+SELL00221,Narula-Issac,Patna,Andhra Pradesh,4.23,2023-02-14 11:22:24.219702,Banned
+SELL00222,"Sanghvi, Jani and Master",Surat,Rajasthan,3.96,2023-02-15 11:22:24.219702,Inactive
+SELL00223,Bhattacharyya-Purohit,Lucknow,Kerala,4.37,2023-02-16 11:22:24.219702,Active
+SELL00224,"Ramanathan, Kara and Vora",Nagpur,Maharashtra,,2023-02-17 11:22:24.219702,Banned
+SELL00225,"Pradhan, Nadig and Palla",Ahmedabad,Bihar,2.43,2023-02-18 11:22:24.219702,Active
+SELL00226,"Arora, Sarkar and Dash",Kochi,Tamil Nadu,2.72,2023-02-19 11:22:24.219702,Inactive
+SELL00227,Walia-Boase,Bengaluru,West Bengal,4.74,2023-02-20 11:22:24.219702,Inactive
+SELL00228,"Sibal, Hora and Chaudhuri",Patna,Maharashtra,2.32,2023-02-21 11:22:24.219702,Inactive
+SELL00229,Grover-Deshpande,Chandigarh,Maharashtra,1.94,2023-02-22 11:22:24.219702,Inactive
+SELL00230,Tara Inc,Jaipur,Karnataka,1.83,2023-02-23 11:22:24.219702,Active
+SELL00231,Halder Inc,Surat,Bihar,4.52,2023-02-24 11:22:24.219702,Active
+SELL00232,Chowdhury-Arora,Surat,Punjab,4.93,2023-02-25 11:22:24.219702,Active
+SELL00233,"Sule, Mammen and Dani",Bhopal,Karnataka,3.71,2023-02-26 11:22:24.219702,Banned
+SELL00234,Viswanathan PLC,Ahmedabad,Rajasthan,2.23,2023-02-27 11:22:24.219702,Banned
+SELL00235,Char LLC,Kolkata,Kerala,2.97,2023-02-28 11:22:24.219702,Inactive
+SELL00236,Sankar LLC,Kolkata,Kerala,4.92,2023-03-01 11:22:24.219702,Banned
+SELL00237,Oza-Dhingra,Mumbai,Odisha,3.88,2023-03-02 11:22:24.219702,Active
+SELL00238,"Buch, Bedi and Kadakia",Ahmedabad,Bihar,2.37,2023-03-03 11:22:24.219702,Banned
+SELL00239,"Bora, Goda and Memon",Kochi,Maharashtra,2.1,2023-03-04 11:22:24.219702,Inactive
+SELL00240,Bhardwaj-Dubey,Kochi,Delhi,10.0,2023-03-05 11:22:24.219702,Banned
+SELL00241,"Edwin, Chaudhry and Panchal",Kochi,Bihar,,2023-03-06 11:22:24.219702,Active
+SELL00242,Narayan-Dugar,Visakhapatnam,Bihar,2.59,2023-03-07 11:22:24.219702,Inactive
+SELL00243,Parikh-Gupta,Kochi,Uttar Pradesh,1.08,2023-03-08 11:22:24.219702,Inactive
+SELL00244,Hari-Raghavan,Lucknow,Madhya Pradesh,2.98,2023-03-09 11:22:24.219702,Active
+SELL00245,Chada-Chowdhury,Indore,Punjab,4.68,2023-03-10 11:22:24.219702,Active
+SELL00246,"Sarkar, Grover and Viswanathan",Delhi,Delhi,4.32,2023-03-11 11:22:24.219702,Banned
+SELL00247,"Kuruvilla, Kalla and Ratti",Surat,Karnataka,3.86,2023-03-12 11:22:24.219702,Inactive
+SELL00248,"Krish, Nayar and Morar",Mumbai,Haryana,4.51,2023-03-13 11:22:24.219702,Banned
+SELL00249,Baria-Thakur,Pune,Haryana,4.45,2023-03-14 11:22:24.219702,Banned
+SELL00250,"Kuruvilla, Dhar and Bakshi",Pune,Uttar Pradesh,1.79,2023-03-15 11:22:24.219702,Banned
+SELL00251,"Dyal, Dasgupta and Buch",Indore,Madhya Pradesh,2.58,2023-03-16 11:22:24.219702,Active
+SELL00252,Buch Inc,Mumbai,Delhi,4.46,2023-03-17 11:22:24.219702,Inactive
+SELL00253,"Biswas, Gole and Korpal",Delhi,Bihar,2.46,2023-03-18 11:22:24.219702,Inactive
+SELL00254,Chana LLC,Indore,Delhi,1.83,2023-03-19 11:22:24.219702,Inactive
+SELL00255,Balay-Hora,Patna,Karnataka,2.77,2023-03-20 11:22:24.219702,Banned
+SELL00256,"Dasgupta, Garg and Sridhar",Chennai,West Bengal,2.87,2023-03-21 11:22:24.219702,Banned
+SELL00257,Ahuja PLC,Chandigarh,Rajasthan,2.97,2023-03-22 11:22:24.219702,Inactive
+SELL00258,Barad-Oommen,Nagpur,Tamil Nadu,3.23,2023-03-23 11:22:24.219702,Inactive
+SELL00259,"Nanda, Goyal and Varghese",Pune,Gujarat,1.66,2023-03-24 11:22:24.219702,Inactive
+SELL00260,Khalsa Group,Kolkata,Andhra Pradesh,4.79,2023-03-25 11:22:24.219702,Active
+SELL00261,Pillai LLC,Pune,Karnataka,3.62,2023-03-26 11:22:24.219702,Banned
+SELL00262,Sethi Ltd,Chandigarh,Karnataka,3.39,2023-03-27 11:22:24.219702,Active
+SELL00263,Bassi PLC,Chennai,Bihar,2.63,2023-03-28 11:22:24.219702,Banned
+SELL00264,Sanghvi Group,Jaipur,Uttar Pradesh,4.8,2023-03-29 11:22:24.219702,Inactive
+SELL00265,"Bansal, Ranganathan and Nanda",Vadodara,Telangana,4.59,2023-03-30 11:22:24.219702,Banned
+SELL00266,Kala Inc,Vadodara,Telangana,4.46,2023-03-31 11:22:24.219702,Banned
+SELL00267,Ravi-Nanda,Kochi,Madhya Pradesh,3.2,2023-04-01 11:22:24.219702,Active
+SELL00268,"Puri, Mahal and Raj",Surat,Kerala,2.6,2023-04-02 11:22:24.219702,Active
+SELL00269,Banik-Bahl,Vadodara,Odisha,10.0,2023-04-03 11:22:24.219702,Inactive
+SELL00270,Korpal-Pingle,Patna,Andhra Pradesh,3.16,2023-04-04 11:22:24.219702,Active
+SELL00271,Lal LLC,Jaipur,Uttar Pradesh,4.0,2023-04-05 11:22:24.219702,Banned
+SELL00272,"Parsa, Date and Gour",Surat,Kerala,1.1,2023-04-06 11:22:24.219702,Active
+SELL00273,Bains-Rajagopalan,Vadodara,Haryana,4.34,2023-04-07 11:22:24.219702,Inactive
+SELL00274,Badami Inc,Noida,Maharashtra,,2023-04-08 11:22:24.219702,Inactive
+SELL00275,Dhaliwal PLC,Nagpur,Odisha,4.14,2023-04-09 11:22:24.219702,Inactive
+SELL00276,Varma and Sons,Kolkata,Andhra Pradesh,4.34,2023-04-10 11:22:24.219702,Active
+SELL00277,Nanda-Mutti,Kolkata,Gujarat,-1.0,2023-04-11 11:22:24.219702,Active
+SELL00278,Ghose Group,Chandigarh,Delhi,4.13,2023-04-12 11:22:24.219702,Banned
+SELL00279,Narasimhan-Thaman,Indore,Telangana,-1.0,2023-04-13 11:22:24.219702,Active
+SELL00280,Kapadia-Handa,Surat,Andhra Pradesh,4.13,2023-04-14 11:22:24.219702,Inactive
+SELL00281,Golla-Mane,Noida,Delhi,2.06,2023-04-15 11:22:24.219702,Banned
+SELL00282,Ghose-Hayer,Kochi,Uttar Pradesh,4.67,2023-04-16 11:22:24.219702,Banned
+SELL00283,Sundaram LLC,Hyderabad,Tamil Nadu,1.14,2023-04-17 11:22:24.219702,Inactive
+SELL00284,Bera-Kade,Hyderabad,Delhi,3.19,2023-04-18 11:22:24.219702,Banned
+SELL00285,"Brahmbhatt, Kale and Ghosh",Mumbai,Bihar,3.47,2023-04-19 11:22:24.219702,Active
+SELL00286,Pingle-Deshmukh,Chandigarh,Uttar Pradesh,,2023-04-20 11:22:24.219702,Inactive
+SELL00287,Wable-Kibe,Delhi,Tamil Nadu,1.74,2023-04-21 11:22:24.219702,Active
+SELL00288,Chakraborty-Mani,Kolkata,Delhi,1.08,2023-04-22 11:22:24.219702,Active
+SELL00289,Lanka and Sons,Nagpur,Andhra Pradesh,,2023-04-23 11:22:24.219702,Active
+SELL00290,Yogi-Dara,Noida,West Bengal,2.11,2023-04-24 11:22:24.219702,Active
+SELL00291,Bora PLC,Surat,Tamil Nadu,2.15,2023-04-25 11:22:24.219702,Active
+SELL00292,Chakraborty-Kala,Vadodara,West Bengal,3.74,2023-04-26 11:22:24.219702,Inactive
+SELL00293,"Ravel, Rama and Palla",Indore,Rajasthan,3.71,2023-04-27 11:22:24.219702,Banned
+SELL00294,"Pandey, Sarkar and Barman",Nagpur,Madhya Pradesh,1.64,2023-04-28 11:22:24.219702,Banned
+SELL00295,"Dada, Guha and Cheema",Nagpur,Telangana,3.84,2023-04-29 11:22:24.219702,Inactive
+SELL00296,Varty-Verma,Chandigarh,Gujarat,2.25,2023-04-30 11:22:24.219702,Inactive
+SELL00297,"Patil, Devi and Chanda",Lucknow,Delhi,4.16,2023-05-01 11:22:24.219702,Inactive
+SELL00298,"Uppal, Dhaliwal and Basak",Kolkata,Madhya Pradesh,2.53,2023-05-02 11:22:24.219702,Active
+SELL00299,Nori LLC,Mumbai,Bihar,1.84,2023-05-03 11:22:24.219702,Inactive
+SELL00300,"Bansal, Gola and Natt",Ahmedabad,Karnataka,1.04,2023-05-04 11:22:24.219702,Active
+SELL00301,Doctor-Bal,Bengaluru,Kerala,2.5,2023-05-05 11:22:24.219702,Banned
+SELL00302,Narayan and Sons,Patna,Madhya Pradesh,3.71,2023-05-06 11:22:24.219702,Banned
+SELL00303,Gala Group,Chennai,West Bengal,3.26,2023-05-07 11:22:24.219702,Active
+SELL00304,Patla-Som,Kolkata,Bihar,4.87,2023-05-08 11:22:24.219702,Active
+SELL00305,"Sampath, Barman and Merchant",Nagpur,Telangana,1.45,2023-05-09 11:22:24.219702,Inactive
+SELL00306,Sankaran PLC,Ahmedabad,Delhi,4.96,2023-05-10 11:22:24.219702,Inactive
+SELL00307,Rana-Murthy,Ahmedabad,Kerala,1.56,2023-05-11 11:22:24.219702,Inactive
+SELL00308,Halder PLC,Hyderabad,Tamil Nadu,4.99,2023-05-12 11:22:24.219702,Active
+SELL00309,Chandran PLC,Bhopal,Tamil Nadu,3.81,2023-05-13 11:22:24.219702,Active
+SELL00310,Rao Group,Lucknow,Karnataka,2.74,2023-05-14 11:22:24.219702,Banned
+SELL00311,"Choudhary, Subramanian and Bhatnagar",Mumbai,Karnataka,,2023-05-15 11:22:24.219702,Active
+SELL00312,"Bains, Shroff and Vohra",Bhopal,Punjab,6.0,2023-05-16 11:22:24.219702,Inactive
+SELL00313,Balan LLC,Vadodara,Karnataka,4.34,2023-05-17 11:22:24.219702,Banned
+SELL00314,Gulati-Walla,Surat,Bihar,2.92,2023-05-18 11:22:24.219702,Active
+SELL00315,"Vig, Bhargava and Bora",Bhopal,Punjab,1.09,2023-05-19 11:22:24.219702,Inactive
+SELL00316,Nayar-Karan,Delhi,Andhra Pradesh,3.25,2023-05-20 11:22:24.219702,Banned
+SELL00317,Tiwari Ltd,Pune,Madhya Pradesh,2.15,2023-05-21 11:22:24.219702,Active
+SELL00318,Sen-Chatterjee,Surat,Uttar Pradesh,4.84,2023-05-22 11:22:24.219702,Inactive
+SELL00319,Tara Group,Noida,Kerala,3.8,2023-05-23 11:22:24.219702,Inactive
+SELL00320,Golla PLC,Lucknow,Punjab,1.16,2023-05-24 11:22:24.219702,Inactive
+SELL00321,Mangal-Bora,Kochi,Uttar Pradesh,2.51,2023-05-25 11:22:24.219702,Banned
+SELL00322,"Sekhon, Sethi and Patla",Pune,Karnataka,3.65,2023-05-26 11:22:24.219702,Banned
+SELL00323,Upadhyay-Ravel,Bhopal,West Bengal,2.41,2023-05-27 11:22:24.219702,Banned
+SELL00324,"Raman, Boase and Mital",Bhopal,Rajasthan,3.66,2023-05-28 11:22:24.219702,Inactive
+SELL00325,"Gill, Rastogi and Basak",Kochi,Gujarat,3.61,2023-05-29 11:22:24.219702,Inactive
+SELL00326,Madan LLC,Chandigarh,Karnataka,2.48,2023-05-30 11:22:24.219702,Banned
+SELL00327,"Verma, Mandal and Sathe",Patna,Punjab,3.32,2023-05-31 11:22:24.219702,Banned
+SELL00328,"Gera, Lanka and Shankar",Lucknow,Gujarat,1.97,2023-06-01 11:22:24.219702,Active
+SELL00329,Sura Inc,Vadodara,Telangana,1.97,2023-06-02 11:22:24.219702,Inactive
+SELL00330,Raman Ltd,Chennai,Karnataka,1.28,2023-06-03 11:22:24.219702,Inactive
+SELL00331,Grover-Mital,Bhopal,Odisha,2.21,2023-06-04 11:22:24.219702,Active
+SELL00332,Dua and Sons,Visakhapatnam,Andhra Pradesh,2.89,2023-06-05 11:22:24.219702,Inactive
+SELL00333,"Banik, Hora and Swaminathan",Bhopal,Rajasthan,3.79,2023-06-06 11:22:24.219702,Banned
+SELL00334,"Gala, Vora and Kulkarni",Kochi,Punjab,2.84,2023-06-07 11:22:24.219702,Inactive
+SELL00335,"Rau, Apte and Sidhu",Vadodara,Rajasthan,1.12,2023-06-08 11:22:24.219702,Active
+SELL00336,Koshy-Bhatnagar,Chennai,Kerala,4.71,2023-06-09 11:22:24.219702,Banned
+SELL00337,Om-Sunder,Visakhapatnam,Maharashtra,2.1,2023-06-10 11:22:24.219702,Banned
+SELL00338,Bedi-Gola,Lucknow,Tamil Nadu,,2023-06-11 11:22:24.219702,Banned
+SELL00339,Mandal Ltd,Pune,Karnataka,3.5,2023-06-12 11:22:24.219702,Active
+SELL00340,Gandhi-Prashad,Patna,Maharashtra,3.64,2023-06-13 11:22:24.219702,Banned
+SELL00341,"Bhandari, Rau and Dhaliwal",Indore,Telangana,1.36,2023-06-14 11:22:24.219702,Banned
+SELL00342,Jaggi-Grover,Delhi,Tamil Nadu,4.24,2023-06-15 11:22:24.219702,Active
+SELL00343,"Vasa, Keer and Nayar",Kochi,Tamil Nadu,2.54,2023-06-16 11:22:24.219702,Active
+SELL00344,Mall-Parmar,Kochi,Maharashtra,2.13,2023-06-17 11:22:24.219702,Active
+SELL00345,Bhagat-Sule,Visakhapatnam,Maharashtra,2.1,2023-06-18 11:22:24.219702,Active
+SELL00346,"Ravel, Bose and Rama",Pune,Madhya Pradesh,1.06,2023-06-19 11:22:24.219702,Inactive
+SELL00347,"Chokshi, Kapadia and Vig",Delhi,Maharashtra,1.64,2023-06-20 11:22:24.219702,Active
+SELL00348,Prasad and Sons,Delhi,Madhya Pradesh,4.62,2023-06-21 11:22:24.219702,Banned
+SELL00349,"Maharaj, Sule and Dyal",Jaipur,Maharashtra,3.76,2023-06-22 11:22:24.219702,Active
+SELL00350,Gandhi-Roy,Jaipur,Uttar Pradesh,2.84,2023-06-23 11:22:24.219702,Inactive
+SELL00351,"Bumb, Bhat and Madan",Visakhapatnam,Uttar Pradesh,2.63,2023-06-24 11:22:24.219702,Banned
+SELL00352,Mitra and Sons,Bhopal,Andhra Pradesh,1.49,2023-06-25 11:22:24.219702,Active
+SELL00353,Buch LLC,Patna,Maharashtra,2.35,2023-06-26 11:22:24.219702,Banned
+SELL00354,"Choudhary, Viswanathan and Minhas",Chennai,Gujarat,3.79,2023-06-27 11:22:24.219702,Banned
+SELL00355,"Karnik, Upadhyay and Date",Hyderabad,Punjab,2.11,2023-06-28 11:22:24.219702,Inactive
+SELL00356,Bassi-Bhardwaj,Nagpur,Uttar Pradesh,3.98,2023-06-29 11:22:24.219702,Inactive
+SELL00357,"Sabharwal, Sunder and Kapur",Mumbai,Gujarat,,2023-06-30 11:22:24.219702,Active
+SELL00358,Venkataraman and Sons,Patna,Haryana,4.66,2023-07-01 11:22:24.219702,Inactive
+SELL00359,Chad-Ben,Visakhapatnam,Andhra Pradesh,4.73,2023-07-02 11:22:24.219702,Inactive
+SELL00360,Mander Ltd,Kochi,Delhi,1.85,2023-07-03 11:22:24.219702,Active
+SELL00361,"Barad, Raju and Sekhon",Kolkata,Kerala,3.62,2023-07-04 11:22:24.219702,Active
+SELL00362,"Barad, Manda and Gole",Indore,Madhya Pradesh,3.07,2023-07-05 11:22:24.219702,Active
+SELL00363,Bala-Tara,Bhopal,Madhya Pradesh,4.53,2023-07-06 11:22:24.219702,Inactive
+SELL00364,"Puri, Barad and Sarkar",Indore,Bihar,4.49,2023-07-07 11:22:24.219702,Banned
+SELL00365,"Keer, Ramesh and Borde",Patna,Andhra Pradesh,2.5,2023-07-08 11:22:24.219702,Active
+SELL00366,"Shankar, Vasa and Oza",Indore,Maharashtra,2.67,2023-07-09 11:22:24.219702,Banned
+SELL00367,"Badal, Mody and Chokshi",Kochi,Punjab,3.47,2023-07-10 11:22:24.219702,Banned
+SELL00368,Madan PLC,Pune,West Bengal,4.46,2023-07-11 11:22:24.219702,Banned
+SELL00369,Bali-Mukhopadhyay,Bengaluru,Tamil Nadu,2.9,2023-07-12 11:22:24.219702,Banned
+SELL00370,Pai Inc,Ahmedabad,Maharashtra,4.3,2023-07-13 11:22:24.219702,Active
+SELL00371,Sastry-Anand,Jaipur,Telangana,3.79,2023-07-14 11:22:24.219702,Banned
+SELL00372,Kala and Sons,Ahmedabad,Odisha,1.18,2023-07-15 11:22:24.219702,Inactive
+SELL00373,Loyal-Krishnan,Nagpur,Punjab,1.24,2023-07-16 11:22:24.219702,Banned
+SELL00374,Ray-Ravel,Mumbai,Karnataka,2.25,2023-07-17 11:22:24.219702,Active
+SELL00375,Dyal-Kanda,Vadodara,Rajasthan,4.83,2023-07-18 11:22:24.219702,Banned
+SELL00376,Subramanian Group,Jaipur,Delhi,4.95,2023-07-19 11:22:24.219702,Banned
+SELL00377,Behl Inc,Bhopal,Uttar Pradesh,3.53,2023-07-20 11:22:24.219702,Inactive
+SELL00378,Gaba-Gokhale,Chennai,Haryana,3.81,2023-07-21 11:22:24.219702,Active
+SELL00379,Mittal Group,Nagpur,Rajasthan,4.84,2023-07-22 11:22:24.219702,Banned
+SELL00380,Sarma-Sunder,Surat,Uttar Pradesh,3.23,2023-07-23 11:22:24.219702,Banned
+SELL00381,"Dixit, Nayak and Garde",Chandigarh,Andhra Pradesh,2.5,2023-07-24 11:22:24.219702,Banned
+SELL00382,Rama Group,Delhi,Kerala,6.0,2023-07-25 11:22:24.219702,Inactive
+SELL00383,Kuruvilla PLC,Kochi,Haryana,,2023-07-26 11:22:24.219702,Inactive
+SELL00384,Pradhan-Bhasin,Jaipur,Maharashtra,4.81,2023-07-27 11:22:24.219702,Banned
+SELL00385,"Chanda, Sama and Raja",Kochi,Telangana,1.49,2023-07-28 11:22:24.219702,Active
+SELL00386,"Agrawal, Varkey and Magar",Vadodara,Odisha,3.18,2023-07-29 11:22:24.219702,Active
+SELL00387,"Magar, Sehgal and Pathak",Pune,Haryana,3.91,2023-07-30 11:22:24.219702,Active
+SELL00388,"Deol, Barad and Hari",Delhi,Andhra Pradesh,,2023-07-31 11:22:24.219702,Banned
+SELL00389,"Mani, Bera and Chahal",Indore,Punjab,2.36,2023-08-01 11:22:24.219702,Active
+SELL00390,Halder and Sons,Visakhapatnam,Maharashtra,2.25,2023-08-02 11:22:24.219702,Banned
+SELL00391,"Butala, Kohli and Naidu",Lucknow,Bihar,2.71,2023-08-03 11:22:24.219702,Inactive
+SELL00392,Pall-Sen,Noida,Uttar Pradesh,2.47,2023-08-04 11:22:24.219702,Banned
+SELL00393,Sane-Kakar,Surat,Bihar,2.95,2023-08-05 11:22:24.219702,Banned
+SELL00394,Sarin and Sons,Nagpur,Delhi,4.43,2023-08-06 11:22:24.219702,Active
+SELL00395,Desai Inc,Noida,Andhra Pradesh,4.93,2023-08-07 11:22:24.219702,Banned
+SELL00396,"Manne, Raju and Tata",Kochi,West Bengal,2.52,2023-08-08 11:22:24.219702,Active
+SELL00397,Keer Group,Vadodara,Delhi,4.24,2023-08-09 11:22:24.219702,Inactive
+SELL00398,Kannan-Batta,Lucknow,Odisha,3.63,2023-08-10 11:22:24.219702,Banned
+SELL00399,Chada-Deshmukh,Visakhapatnam,Haryana,4.55,2023-08-11 11:22:24.219702,Inactive
+SELL00400,Subramaniam-Virk,Nagpur,Madhya Pradesh,4.55,2023-08-12 11:22:24.219702,Inactive
+SELL00401,Srinivas PLC,Visakhapatnam,West Bengal,2.25,2023-08-13 11:22:24.219702,Inactive
+SELL00402,Parsa PLC,Noida,Madhya Pradesh,2.86,2023-08-14 11:22:24.219702,Inactive
+SELL00403,Bassi and Sons,Mumbai,Telangana,1.59,2023-08-15 11:22:24.219702,Active
+SELL00404,"Sharaf, Chaudhari and Banerjee",Lucknow,Uttar Pradesh,4.99,2023-08-16 11:22:24.219702,Active
+SELL00405,Palla-Walla,Nagpur,Rajasthan,4.89,2023-08-17 11:22:24.219702,Inactive
+SELL00406,Walia-Bhakta,Noida,Bihar,1.56,2023-08-18 11:22:24.219702,Inactive
+SELL00407,Vyas-Kalita,Indore,Tamil Nadu,3.92,2023-08-19 11:22:24.219702,Inactive
+SELL00408,Pandey Inc,Bhopal,Odisha,1.62,2023-08-20 11:22:24.219702,Active
+SELL00409,Tank-Tandon,Visakhapatnam,Maharashtra,1.82,2023-08-21 11:22:24.219702,Banned
+SELL00410,Kala PLC,Indore,Maharashtra,4.0,2023-08-22 11:22:24.219702,Banned
+SELL00411,Sarin-Narayanan,Ahmedabad,Maharashtra,1.9,2023-08-23 11:22:24.219702,Banned
+SELL00412,Kunda Ltd,Chennai,Haryana,1.39,2023-08-24 11:22:24.219702,Inactive
+SELL00413,"Chand, Din and Bansal",Chennai,Madhya Pradesh,4.9,2023-08-25 11:22:24.219702,Active
+SELL00414,Pillay-Tata,Visakhapatnam,Andhra Pradesh,3.31,2023-08-26 11:22:24.219702,Active
+SELL00415,Shukla and Sons,Delhi,Andhra Pradesh,2.8,2023-08-27 11:22:24.219702,Inactive
+SELL00416,"Kapur, Doctor and Murty",Vadodara,Gujarat,3.44,2023-08-28 11:22:24.219702,Inactive
+SELL00417,Sama Group,Jaipur,Karnataka,2.49,2023-08-29 11:22:24.219702,Inactive
+SELL00418,Lata-Mistry,Hyderabad,Odisha,1.74,2023-08-30 11:22:24.219702,Banned
+SELL00419,Vora-Hora,Indore,Uttar Pradesh,2.36,2023-08-31 11:22:24.219702,Active
+SELL00420,"Bhatti, Upadhyay and Bhat",Pune,Bihar,3.38,2023-09-01 11:22:24.219702,Active
+SELL00421,"Manne, Parmer and Deep",Visakhapatnam,Odisha,3.58,2023-09-02 11:22:24.219702,Active
+SELL00422,Walia PLC,Ahmedabad,Telangana,1.05,2023-09-03 11:22:24.219702,Banned
+SELL00423,Pillai-Bora,Chennai,Andhra Pradesh,3.57,2023-09-04 11:22:24.219702,Active
+SELL00424,"Sodhi, Thakkar and Bala",Vadodara,West Bengal,2.66,2023-09-05 11:22:24.219702,Banned
+SELL00425,Garg-Mand,Surat,Uttar Pradesh,,2023-09-06 11:22:24.219702,Active
+SELL00426,Mukhopadhyay-Chauhan,Visakhapatnam,Karnataka,3.01,2023-09-07 11:22:24.219702,Banned
+SELL00427,Boase Ltd,Ahmedabad,Andhra Pradesh,1.72,2023-09-08 11:22:24.219702,Banned
+SELL00428,"Khanna, Gopal and Mannan",Vadodara,Gujarat,1.62,2023-09-09 11:22:24.219702,Inactive
+SELL00429,Sani LLC,Visakhapatnam,Haryana,2.93,2023-09-10 11:22:24.219702,Banned
+SELL00430,"Lal, Pandit and Kannan",Bhopal,Haryana,4.13,2023-09-11 11:22:24.219702,Inactive
+SELL00431,Bava-Mukherjee,Bhopal,Karnataka,1.05,2023-09-12 11:22:24.219702,Inactive
+SELL00432,Khalsa Inc,Bengaluru,Punjab,3.57,2023-09-13 11:22:24.219702,Inactive
+SELL00433,"Nayak, Soman and Narula",Chennai,Karnataka,1.33,2023-09-14 11:22:24.219702,Active
+SELL00434,Saran-Dash,Jaipur,Karnataka,,2023-09-15 11:22:24.219702,Active
+SELL00435,Pal LLC,Surat,Haryana,2.77,2023-09-16 11:22:24.219702,Active
+SELL00436,Subramaniam-Sharaf,Mumbai,Andhra Pradesh,1.33,2023-09-17 11:22:24.219702,Banned
+SELL00437,Sabharwal PLC,Jaipur,Andhra Pradesh,,2023-09-18 11:22:24.219702,Inactive
+SELL00438,Purohit-Solanki,Pune,Maharashtra,,2023-09-19 11:22:24.219702,Inactive
+SELL00439,Chakrabarti-Grewal,Indore,Rajasthan,4.36,2023-09-20 11:22:24.219702,Active
+SELL00440,Lal Group,Kochi,Kerala,3.05,2023-09-21 11:22:24.219702,Inactive
+SELL00441,"Karpe, Bhavsar and Sawhney",Hyderabad,Andhra Pradesh,1.16,2023-09-22 11:22:24.219702,Inactive
+SELL00442,Kadakia and Sons,Patna,Delhi,3.91,2023-09-23 11:22:24.219702,Active
+SELL00443,Minhas-Narain,Patna,Madhya Pradesh,3.64,2023-09-24 11:22:24.219702,Banned
+SELL00444,Sharma PLC,Bengaluru,Haryana,4.99,2023-09-25 11:22:24.219702,Inactive
+SELL00445,Dayal-Amble,Lucknow,Uttar Pradesh,5.0,2023-09-26 11:22:24.219702,Banned
+SELL00446,Bhargava LLC,Hyderabad,Odisha,,2023-09-27 11:22:24.219702,Active
+SELL00447,Murty Group,Kolkata,Punjab,3.08,2023-09-28 11:22:24.219702,Inactive
+SELL00448,"Murthy, Parikh and Setty",Chennai,Maharashtra,1.78,2023-09-29 11:22:24.219702,Active
+SELL00449,Pau-Viswanathan,Bengaluru,Odisha,2.83,2023-09-30 11:22:24.219702,Active
+SELL00450,Walia PLC,Kolkata,Bihar,3.16,2023-10-01 11:22:24.219702,Active
+SELL00451,Kumar Inc,Kolkata,Madhya Pradesh,3.01,2023-10-02 11:22:24.219702,Banned
+SELL00452,Srivastava and Sons,Vadodara,Rajasthan,2.52,2023-10-03 11:22:24.219702,Inactive
+SELL00453,Dasgupta and Sons,Patna,Rajasthan,2.14,2023-10-04 11:22:24.219702,Banned
+SELL00454,Khalsa Ltd,Nagpur,Kerala,4.35,2023-10-05 11:22:24.219702,Banned
+SELL00455,"Pandya, Buch and Wable",Visakhapatnam,Tamil Nadu,2.09,2023-10-06 11:22:24.219702,Inactive
+SELL00456,"Prabhakar, Kari and Basak",Delhi,Gujarat,1.51,2023-10-07 11:22:24.219702,Active
+SELL00457,"Pandey, Suri and Wable",Kochi,Madhya Pradesh,2.69,2023-10-08 11:22:24.219702,Banned
+SELL00458,Nagar Group,Mumbai,Uttar Pradesh,3.53,2023-10-09 11:22:24.219702,Inactive
+SELL00459,"Dhillon, Jhaveri and Chadha",Indore,Tamil Nadu,1.97,2023-10-10 11:22:24.219702,Banned
+SELL00460,Badami Inc,Chandigarh,Maharashtra,4.3,2023-10-11 11:22:24.219702,Banned
+SELL00461,Chahal-Kumer,Ahmedabad,Maharashtra,4.29,2023-10-12 11:22:24.219702,Inactive
+SELL00462,Dube and Sons,Delhi,Tamil Nadu,3.06,2023-10-13 11:22:24.219702,Inactive
+SELL00463,Dutt-Peri,Pune,Punjab,2.9,2023-10-14 11:22:24.219702,Banned
+SELL00464,"Ramanathan, Edwin and Edwin",Surat,Tamil Nadu,1.4,2023-10-15 11:22:24.219702,Banned
+SELL00465,Chada and Sons,Bengaluru,Madhya Pradesh,2.35,2023-10-16 11:22:24.219702,Active
+SELL00466,Talwar Ltd,Lucknow,Madhya Pradesh,3.67,2023-10-17 11:22:24.219702,Active
+SELL00467,"Kapoor, Kala and Deo",Bengaluru,Rajasthan,1.65,2023-10-18 11:22:24.219702,Inactive
+SELL00468,Dugar Ltd,Patna,Telangana,1.85,2023-10-19 11:22:24.219702,Banned
+SELL00469,Basu-Reddy,Mumbai,Punjab,2.14,2023-10-20 11:22:24.219702,Banned
+SELL00470,Joshi Inc,Chennai,Delhi,3.08,2023-10-21 11:22:24.219702,Active
+SELL00471,Dugar-Batta,Chennai,Madhya Pradesh,3.63,2023-10-22 11:22:24.219702,Inactive
+SELL00472,Krishnamurthy and Sons,Visakhapatnam,Delhi,1.04,2023-10-23 11:22:24.219702,Inactive
+SELL00473,"Contractor, Chaudhry and Bhatt",Bhopal,Odisha,1.19,2023-10-24 11:22:24.219702,Inactive
+SELL00474,Sarma Inc,Surat,Punjab,1.74,2023-10-25 11:22:24.219702,Active
+SELL00475,Varkey-Choudhury,Visakhapatnam,Kerala,3.03,2023-10-26 11:22:24.219702,Active
+SELL00476,Datta-Badami,Kolkata,Andhra Pradesh,2.64,2023-10-27 11:22:24.219702,Banned
+SELL00477,Reddy-Ramesh,Patna,Delhi,3.75,2023-10-28 11:22:24.219702,Active
+SELL00478,"Salvi, Manda and Babu",Patna,Bihar,1.51,2023-10-29 11:22:24.219702,Active
+SELL00479,Badal Group,Chennai,Andhra Pradesh,2.27,2023-10-30 11:22:24.219702,Active
+SELL00480,"Cheema, Swamy and Prasad",Delhi,Karnataka,1.77,2023-10-31 11:22:24.219702,Inactive
+SELL00481,"Mohanty, Kala and Issac",Bhopal,Andhra Pradesh,,2023-11-01 11:22:24.219702,Inactive
+SELL00482,Bera Inc,Visakhapatnam,Kerala,3.24,2023-11-02 11:22:24.219702,Active
+SELL00483,Guha-Sathe,Kochi,Bihar,3.6,2023-11-03 11:22:24.219702,Inactive
+SELL00484,Radhakrishnan-More,Kochi,Kerala,1.01,2023-11-04 11:22:24.219702,Banned
+SELL00485,Chowdhury-Chaudhary,Delhi,Uttar Pradesh,4.53,2023-11-05 11:22:24.219702,Banned
+SELL00486,Mann PLC,Visakhapatnam,West Bengal,3.22,2023-11-06 11:22:24.219702,Banned
+SELL00487,Amble Group,Patna,Madhya Pradesh,1.51,2023-11-07 11:22:24.219702,Inactive
+SELL00488,Sabharwal-Sen,Bengaluru,Odisha,4.64,2023-11-08 11:22:24.219702,Inactive
+SELL00489,Sibal-Ganesh,Kochi,Haryana,2.14,2023-11-09 11:22:24.219702,Active
+SELL00490,Seshadri-Barman,Bengaluru,Tamil Nadu,4.45,2023-11-10 11:22:24.219702,Active
+SELL00491,"Bhatia, Sarin and Sharaf",Chandigarh,Uttar Pradesh,1.42,2023-11-11 11:22:24.219702,Active
+SELL00492,Pillay-Varughese,Delhi,Punjab,4.22,2023-11-12 11:22:24.219702,Inactive
+SELL00493,"Kala, Dhaliwal and Din",Visakhapatnam,Andhra Pradesh,3.9,2023-11-13 11:22:24.219702,Inactive
+SELL00494,Gade and Sons,Chandigarh,Tamil Nadu,4.54,2023-11-14 11:22:24.219702,Active
+SELL00495,Bumb-Shere,Noida,Andhra Pradesh,2.97,2023-11-15 11:22:24.219702,Active
+SELL00496,"Madan, Bains and Narayan",Lucknow,Andhra Pradesh,4.68,2023-11-16 11:22:24.219702,Inactive
+SELL00497,Tripathi-Boase,Kochi,Telangana,1.78,2023-11-17 11:22:24.219702,Inactive
+SELL00498,Desai-Mangat,Visakhapatnam,Uttar Pradesh,1.7,2023-11-18 11:22:24.219702,Banned
+SELL00499,Sarin-Lala,Delhi,Punjab,3.12,2023-11-19 11:22:24.219702,Active
+SELL00500,Balay-Yogi,Bengaluru,Maharashtra,4.02,2023-11-20 11:22:24.219702,Inactive
+SELL00501,Pathak-Borah,Pune,Telangana,4.87,2023-11-21 11:22:24.219702,Inactive
+SELL00502,Hayre LLC,Chennai,Telangana,,2023-11-22 11:22:24.219702,Active
+SELL00503,Garg and Sons,Bhopal,Punjab,2.96,2023-11-23 11:22:24.219702,Active
+SELL00504,Handa-Pandit,Patna,Karnataka,3.21,2023-11-24 11:22:24.219702,Active
+SELL00505,Vasa-Malhotra,Ahmedabad,Gujarat,2.17,2023-11-25 11:22:24.219702,Active
+SELL00506,"Chauhan, Sastry and Naidu",Bhopal,Uttar Pradesh,3.41,2023-11-26 11:22:24.219702,Active
+SELL00507,Patil PLC,Vadodara,Odisha,2.73,2023-11-27 11:22:24.219702,Active
+SELL00508,Virk-Goswami,Bengaluru,Madhya Pradesh,4.77,2023-11-28 11:22:24.219702,Active
+SELL00509,Deshmukh Group,Mumbai,Rajasthan,2.85,2023-11-29 11:22:24.219702,Banned
+SELL00510,Nagar Ltd,Jaipur,Andhra Pradesh,4.13,2023-11-30 11:22:24.219702,Active
+SELL00511,"Bhargava, Palla and Ganesan",Bhopal,Gujarat,10.0,2023-12-01 11:22:24.219702,Inactive
+SELL00512,Ravel Inc,Bhopal,Uttar Pradesh,1.68,2023-12-02 11:22:24.219702,Active
+SELL00513,Srinivas Group,Chandigarh,Haryana,1.98,2023-12-03 11:22:24.219702,Inactive
+SELL00514,Dhawan LLC,Noida,Gujarat,2.06,2023-12-04 11:22:24.219702,Inactive
+SELL00515,"Kala, Tara and Raghavan",Vadodara,Maharashtra,,2023-12-05 11:22:24.219702,Active
+SELL00516,Jani and Sons,Patna,Kerala,1.99,2023-12-06 11:22:24.219702,Inactive
+SELL00517,Iyengar-Mohan,Patna,Telangana,3.43,2023-12-07 11:22:24.219702,Inactive
+SELL00518,Wali-Bhargava,Vadodara,Tamil Nadu,2.22,2023-12-08 11:22:24.219702,Active
+SELL00519,Amble-Jaggi,Chandigarh,Punjab,3.76,2023-12-09 11:22:24.219702,Active
+SELL00520,"Bhatt, Minhas and Char",Ahmedabad,Uttar Pradesh,3.29,2023-12-10 11:22:24.219702,Banned
+SELL00521,Raju Group,Noida,Uttar Pradesh,4.18,2023-12-11 11:22:24.219702,Active
+SELL00522,Gaba-Sekhon,Chennai,Telangana,2.27,2023-12-12 11:22:24.219702,Banned
+SELL00523,Sanghvi PLC,Bengaluru,Delhi,4.66,2023-12-13 11:22:24.219702,Active
+SELL00524,Jha-Saha,Indore,Andhra Pradesh,1.62,2023-12-14 11:22:24.219702,Banned
+SELL00525,"Dar, Ben and Modi",Kochi,Uttar Pradesh,4.48,2023-12-15 11:22:24.219702,Banned
+SELL00526,"Borah, Bala and Sarraf",Mumbai,Odisha,4.58,2023-12-16 11:22:24.219702,Banned
+SELL00527,Bahri and Sons,Pune,Odisha,4.28,2023-12-17 11:22:24.219702,Inactive
+SELL00528,Mody-Amble,Bhopal,Delhi,2.5,2023-12-18 11:22:24.219702,Banned
+SELL00529,Dhillon-Das,Lucknow,Odisha,1.88,2023-12-19 11:22:24.219702,Banned
+SELL00530,"Butala, Panchal and Saraf",Jaipur,Delhi,4.6,2023-12-20 11:22:24.219702,Active
+SELL00531,Sagar-Hegde,Ahmedabad,Punjab,1.94,2023-12-21 11:22:24.219702,Banned
+SELL00532,"Morar, Ben and Raj",Mumbai,Karnataka,2.32,2023-12-22 11:22:24.219702,Inactive
+SELL00533,"Minhas, Patla and Devan",Kolkata,Delhi,1.12,2023-12-23 11:22:24.219702,Banned
+SELL00534,Banerjee-Keer,Kolkata,Odisha,1.59,2023-12-24 11:22:24.219702,Active
+SELL00535,"Mangal, Bhatia and Chokshi",Patna,Madhya Pradesh,,2023-12-25 11:22:24.219702,Inactive
+SELL00536,"Roy, Singh and Lata",Indore,Rajasthan,-1.0,2023-12-26 11:22:24.219702,Active
+SELL00537,Badal Group,Ahmedabad,Rajasthan,4.0,2023-12-27 11:22:24.219702,Banned
+SELL00538,Manda-Sani,Surat,Bihar,0.0,2023-12-28 11:22:24.219702,Banned
+SELL00539,"Nanda, Shanker and Krishnamurthy",Lucknow,Gujarat,3.19,2023-12-29 11:22:24.219702,Active
+SELL00540,Seth LLC,Delhi,West Bengal,3.13,2023-12-30 11:22:24.219702,Banned
+SELL00541,Mand-Ratta,Patna,Telangana,2.08,2023-12-31 11:22:24.219702,Banned
+SELL00542,Choudhry-Prabhakar,Bengaluru,Bihar,1.23,2024-01-01 11:22:24.219702,Inactive
+SELL00543,Bava-Rama,Chandigarh,Rajasthan,2.85,2024-01-02 11:22:24.219702,Active
+SELL00544,"Walia, Varughese and Kapadia",Ahmedabad,Odisha,1.34,2024-01-03 11:22:24.219702,Banned
+SELL00545,De Ltd,Mumbai,Maharashtra,3.9,2024-01-04 11:22:24.219702,Banned
+SELL00546,Dara Inc,Pune,Karnataka,4.85,2024-01-05 11:22:24.219702,Banned
+SELL00547,Peri-Golla,Delhi,Uttar Pradesh,1.03,2024-01-06 11:22:24.219702,Inactive
+SELL00548,"Andra, Narayanan and Dora",Bengaluru,Tamil Nadu,3.32,2024-01-07 11:22:24.219702,Inactive
+SELL00549,Khurana PLC,Mumbai,Odisha,2.2,2024-01-08 11:22:24.219702,Banned
+SELL00550,Sarkar-Mannan,Surat,Maharashtra,3.2,2024-01-09 11:22:24.219702,Inactive
+SELL00551,"Majumdar, Deshpande and Saini",Nagpur,Odisha,4.89,2024-01-10 11:22:24.219702,Inactive
+SELL00552,Mand and Sons,Jaipur,Telangana,1.7,2024-01-11 11:22:24.219702,Inactive
+SELL00553,Sheth-Borra,Vadodara,Punjab,4.66,2024-01-12 11:22:24.219702,Inactive
+SELL00554,"Srinivasan, Kala and Bhalla",Chennai,Maharashtra,1.64,2024-01-13 11:22:24.219702,Inactive
+SELL00555,Nair PLC,Bhopal,Gujarat,2.43,2024-01-14 11:22:24.219702,Inactive
+SELL00556,"Setty, Chatterjee and Saran",Lucknow,Odisha,2.06,2024-01-15 11:22:24.219702,Active
+SELL00557,"Rana, Swamy and Viswanathan",Mumbai,Madhya Pradesh,3.52,2024-01-16 11:22:24.219702,Banned
+SELL00558,Kumer Ltd,Lucknow,Odisha,2.42,2024-01-17 11:22:24.219702,Inactive
+SELL00559,"Ramaswamy, Dar and Minhas",Lucknow,Gujarat,9.0,2024-01-18 11:22:24.219702,Banned
+SELL00560,Issac and Sons,Ahmedabad,Odisha,2.5,2024-01-19 11:22:24.219702,Inactive
+SELL00561,Gala-Solanki,Ahmedabad,Telangana,1.67,2024-01-20 11:22:24.219702,Active
+SELL00562,Chhabra-Singhal,Bhopal,Madhya Pradesh,1.93,2024-01-21 11:22:24.219702,Active
+SELL00563,Bath-Rastogi,Nagpur,Haryana,1.17,2024-01-22 11:22:24.219702,Active
+SELL00564,Sood-Kannan,Mumbai,Rajasthan,3.94,2024-01-23 11:22:24.219702,Inactive
+SELL00565,"Natt, Srinivas and Shetty",Vadodara,Delhi,2.81,2024-01-24 11:22:24.219702,Active
+SELL00566,Dhar LLC,Delhi,Kerala,3.52,2024-01-25 11:22:24.219702,Active
+SELL00567,"Singh, Bawa and Bhattacharyya",Visakhapatnam,Uttar Pradesh,1.17,2024-01-26 11:22:24.219702,Banned
+SELL00568,Mohanty LLC,Bengaluru,Telangana,2.63,2024-01-27 11:22:24.219702,Active
+SELL00569,Chaudhari-Guha,Vadodara,West Bengal,1.15,2024-01-28 11:22:24.219702,Banned
+SELL00570,Goyal-Lal,Kolkata,Madhya Pradesh,3.66,2024-01-29 11:22:24.219702,Active
+SELL00571,Sen-Yohannan,Ahmedabad,Haryana,4.18,2024-01-30 11:22:24.219702,Banned
+SELL00572,"Wason, Varghese and Parmer",Hyderabad,Karnataka,4.46,2024-01-31 11:22:24.219702,Inactive
+SELL00573,"Pandey, Dhillon and Sha",Surat,Gujarat,4.24,2024-02-01 11:22:24.219702,Active
+SELL00574,Gera PLC,Lucknow,Gujarat,3.35,2024-02-02 11:22:24.219702,Inactive
+SELL00575,Nair PLC,Visakhapatnam,Karnataka,2.71,2024-02-03 11:22:24.219702,Active
+SELL00576,"Cherian, Venkatesh and Wable",Kolkata,Karnataka,3.55,2024-02-04 11:22:24.219702,Banned
+SELL00577,Chander-Ramaswamy,Mumbai,Gujarat,3.51,2024-02-05 11:22:24.219702,Banned
+SELL00578,Ravel-Tank,Mumbai,Delhi,2.66,2024-02-06 11:22:24.219702,Active
+SELL00579,Shanker PLC,Patna,Maharashtra,2.44,2024-02-07 11:22:24.219702,Active
+SELL00580,Mallick-Hayre,Visakhapatnam,Bihar,3.93,2024-02-08 11:22:24.219702,Inactive
+SELL00581,Jha-Rout,Hyderabad,Telangana,1.57,2024-02-09 11:22:24.219702,Active
+SELL00582,Dutta and Sons,Lucknow,Rajasthan,1.21,2024-02-10 11:22:24.219702,Active
+SELL00583,Upadhyay-Chad,Ahmedabad,Tamil Nadu,,2024-02-11 11:22:24.219702,Banned
+SELL00584,"Jayaraman, Mahajan and Setty",Ahmedabad,Uttar Pradesh,3.63,2024-02-12 11:22:24.219702,Banned
+SELL00585,"Vyas, Anne and Ratta",Vadodara,Andhra Pradesh,2.55,2024-02-13 11:22:24.219702,Inactive
+SELL00586,"Palla, Chopra and Muni",Delhi,Madhya Pradesh,2.32,2024-02-14 11:22:24.219702,Active
+SELL00587,Rastogi Inc,Chandigarh,Andhra Pradesh,2.8,2024-02-15 11:22:24.219702,Active
+SELL00588,Garg-Mangat,Kolkata,Andhra Pradesh,3.91,2024-02-16 11:22:24.219702,Banned
+SELL00589,Mukhopadhyay-Brar,Bengaluru,Odisha,2.51,2024-02-17 11:22:24.219702,Inactive
+SELL00590,"Mahajan, Ratti and Gulati",Patna,Rajasthan,1.32,2024-02-18 11:22:24.219702,Active
+SELL00591,"Jaggi, Magar and Soni",Lucknow,Delhi,4.03,2024-02-19 11:22:24.219702,Banned
+SELL00592,Mukhopadhyay-Pandya,Pune,Delhi,4.16,2024-02-20 11:22:24.219702,Banned
+SELL00593,"Mandal, Raju and Patla",Jaipur,Karnataka,2.44,2024-02-21 11:22:24.219702,Inactive
+SELL00594,Kapoor Ltd,Hyderabad,Kerala,2.11,2024-02-22 11:22:24.219702,Active
+SELL00595,Virk Inc,Kochi,Odisha,1.35,2024-02-23 11:22:24.219702,Inactive
+SELL00596,Varma-Narain,Ahmedabad,Odisha,0.0,2024-02-24 11:22:24.219702,Inactive
+SELL00597,"Narula, Lad and Oak",Visakhapatnam,Delhi,1.9,2024-02-25 11:22:24.219702,Active
+SELL00598,Gupta-Saini,Delhi,Punjab,1.21,2024-02-26 11:22:24.219702,Inactive
+SELL00599,Saran Ltd,Mumbai,West Bengal,10.0,2024-02-27 11:22:24.219702,Banned
+SELL00600,"Sanghvi, Cheema and Kakar",Jaipur,Odisha,2.0,2024-02-28 11:22:24.219702,Active
+SELL00601,"Balakrishnan, Kumar and Gulati",Kolkata,Bihar,1.52,2024-02-29 11:22:24.219702,Banned
+SELL00602,"Kale, Mukhopadhyay and Mani",Chennai,Odisha,3.24,2024-03-01 11:22:24.219702,Inactive
+SELL00603,Bhagat PLC,Bhopal,Karnataka,2.39,2024-03-02 11:22:24.219702,Banned
+SELL00604,Bhandari-Zacharia,Jaipur,Bihar,2.56,2024-03-03 11:22:24.219702,Inactive
+SELL00605,"Malhotra, Bassi and Arora",Kochi,Punjab,3.76,2024-03-04 11:22:24.219702,Banned
+SELL00606,"Ahluwalia, Balay and Minhas",Visakhapatnam,Punjab,2.98,2024-03-05 11:22:24.219702,Inactive
+SELL00607,Thaman-Malhotra,Nagpur,Rajasthan,3.61,2024-03-06 11:22:24.219702,Active
+SELL00608,"Luthra, Date and Lata",Chennai,Maharashtra,2.09,2024-03-07 11:22:24.219702,Inactive
+SELL00609,Kaul-Vasa,Kolkata,Odisha,4.96,2024-03-08 11:22:24.219702,Inactive
+SELL00610,"Ram, Kibe and Magar",Jaipur,Odisha,1.65,2024-03-09 11:22:24.219702,Banned
+SELL00611,"Trivedi, Desai and Deshmukh",Delhi,Haryana,3.61,2024-03-10 11:22:24.219702,Banned
+SELL00612,"Pandya, Sabharwal and Pillai",Noida,Haryana,4.64,2024-03-11 11:22:24.219702,Banned
+SELL00613,"Handa, Trivedi and Goel",Surat,Bihar,1.28,2024-03-12 11:22:24.219702,Inactive
+SELL00614,Sehgal-Saha,Vadodara,Madhya Pradesh,,2024-03-13 11:22:24.219702,Inactive
+SELL00615,"Gour, Warrior and Korpal",Chandigarh,Maharashtra,4.31,2024-03-14 11:22:24.219702,Banned
+SELL00616,Gaba Group,Pune,Haryana,2.03,2024-03-15 11:22:24.219702,Inactive
+SELL00617,Chaudhari LLC,Indore,Delhi,2.85,2024-03-16 11:22:24.219702,Inactive
+SELL00618,"Nanda, Bhatti and Palla",Nagpur,West Bengal,3.8,2024-03-17 11:22:24.219702,Banned
+SELL00619,Deo-Raman,Patna,Madhya Pradesh,3.78,2024-03-18 11:22:24.219702,Active
+SELL00620,Dewan Group,Bengaluru,Andhra Pradesh,2.16,2024-03-19 11:22:24.219702,Banned
+SELL00621,"Khosla, Jani and Nayar",Noida,Telangana,2.97,2024-03-20 11:22:24.219702,Active
+SELL00622,"Aurora, Chahal and Chand",Visakhapatnam,Uttar Pradesh,1.06,2024-03-21 11:22:24.219702,Inactive
+SELL00623,Rau-Panchal,Indore,Bihar,1.02,2024-03-22 11:22:24.219702,Banned
+SELL00624,Rastogi Inc,Visakhapatnam,Odisha,1.94,2024-03-23 11:22:24.219702,Inactive
+SELL00625,Sheth LLC,Kochi,Haryana,3.83,2024-03-24 11:22:24.219702,Active
+SELL00626,"Konda, Basak and Contractor",Bhopal,Karnataka,2.67,2024-03-25 11:22:24.219702,Inactive
+SELL00627,Sarin Inc,Bengaluru,Gujarat,4.24,2024-03-26 11:22:24.219702,Banned
+SELL00628,Misra-Suri,Kolkata,Bihar,3.69,2024-03-27 11:22:24.219702,Inactive
+SELL00629,Barad Group,Vadodara,Delhi,1.72,2024-03-28 11:22:24.219702,Active
+SELL00630,"Soni, Aurora and Wali",Ahmedabad,Kerala,2.08,2024-03-29 11:22:24.219702,Active
+SELL00631,Mital-Sabharwal,Chennai,Bihar,4.27,2024-03-30 11:22:24.219702,Banned
+SELL00632,"Dubey, Parikh and Karan",Delhi,Odisha,3.42,2024-03-31 11:22:24.219702,Inactive
+SELL00633,Banik Ltd,Noida,Delhi,2.32,2024-04-01 11:22:24.219702,Banned
+SELL00634,Seshadri-Sastry,Pune,Telangana,1.29,2024-04-02 11:22:24.219702,Banned
+SELL00635,"Tak, Panchal and Deshpande",Kolkata,Delhi,4.52,2024-04-03 11:22:24.219702,Active
+SELL00636,Rajagopalan Ltd,Vadodara,Rajasthan,1.28,2024-04-04 11:22:24.219702,Banned
+SELL00637,"Choudhury, Kaul and Dave",Hyderabad,Bihar,3.48,2024-04-05 11:22:24.219702,Inactive
+SELL00638,"Gulati, Bora and Oak",Delhi,Delhi,1.04,2024-04-06 11:22:24.219702,Inactive
+SELL00639,"Baria, Parsa and Handa",Bhopal,Madhya Pradesh,1.23,2024-04-07 11:22:24.219702,Banned
+SELL00640,Baral LLC,Mumbai,West Bengal,4.36,2024-04-08 11:22:24.219702,Inactive
+SELL00641,"Saraf, Virk and Sundaram",Lucknow,Haryana,3.98,2024-04-09 11:22:24.219702,Active
+SELL00642,Raval-Parikh,Delhi,Tamil Nadu,1.03,2024-04-10 11:22:24.219702,Inactive
+SELL00643,"Dora, Jha and Gade",Surat,Karnataka,2.83,2024-04-11 11:22:24.219702,Inactive
+SELL00644,Pau-Roy,Kochi,Telangana,2.59,2024-04-12 11:22:24.219702,Inactive
+SELL00645,Prasad-Deol,Jaipur,Uttar Pradesh,3.98,2024-04-13 11:22:24.219702,Inactive
+SELL00646,Kapur-Bal,Mumbai,Maharashtra,2.47,2024-04-14 11:22:24.219702,Banned
+SELL00647,Anand Group,Bengaluru,Telangana,2.99,2024-04-15 11:22:24.219702,Banned
+SELL00648,Bora LLC,Patna,Karnataka,2.74,2024-04-16 11:22:24.219702,Banned
+SELL00649,"Ramesh, Chacko and Kadakia",Noida,Kerala,1.95,2024-04-17 11:22:24.219702,Active
+SELL00650,Upadhyay-Badal,Patna,Punjab,1.91,2024-04-18 11:22:24.219702,Inactive
+SELL00651,Merchant Inc,Surat,Rajasthan,4.1,2024-04-19 11:22:24.219702,Active
+SELL00652,Uppal-Pal,Lucknow,Madhya Pradesh,3.91,2024-04-20 11:22:24.219702,Active
+SELL00653,Dugar Ltd,Mumbai,Bihar,2.49,2024-04-21 11:22:24.219702,Banned
+SELL00654,Edwin PLC,Chandigarh,Punjab,2.0,2024-04-22 11:22:24.219702,Active
+SELL00655,Bansal-Agrawal,Bhopal,Karnataka,3.46,2024-04-23 11:22:24.219702,Banned
+SELL00656,Khalsa-Brar,Surat,Haryana,4.29,2024-04-24 11:22:24.219702,Banned
+SELL00657,"Ray, Bora and Shanker",Patna,Bihar,2.66,2024-04-25 11:22:24.219702,Inactive
+SELL00658,Nagarajan Ltd,Chennai,Delhi,1.62,2024-04-26 11:22:24.219702,Active
+SELL00659,Shankar-Salvi,Jaipur,Gujarat,4.01,2024-04-27 11:22:24.219702,Inactive
+SELL00660,Aggarwal-Rai,Pune,Kerala,2.55,2024-04-28 11:22:24.219702,Inactive
+SELL00661,Sandhu PLC,Indore,Andhra Pradesh,2.05,2024-04-29 11:22:24.219702,Inactive
+SELL00662,Agrawal-Mangat,Kolkata,Bihar,3.28,2024-04-30 11:22:24.219702,Banned
+SELL00663,Sankar Inc,Lucknow,Madhya Pradesh,1.77,2024-05-01 11:22:24.219702,Banned
+SELL00664,"Lalla, Purohit and Mammen",Hyderabad,Bihar,-1.0,2024-05-02 11:22:24.219702,Inactive
+SELL00665,"Tank, Dhillon and Biswas",Bhopal,Odisha,3.81,2024-05-03 11:22:24.219702,Banned
+SELL00666,"Saraf, Thaman and Babu",Chennai,Kerala,1.84,2024-05-04 11:22:24.219702,Active
+SELL00667,"Gupta, Choudhary and Boase",Indore,Odisha,6.0,2024-05-05 11:22:24.219702,Banned
+SELL00668,Mody and Sons,Jaipur,West Bengal,1.46,2024-05-06 11:22:24.219702,Inactive
+SELL00669,"D’Alia, More and Din",Kochi,Haryana,2.39,2024-05-07 11:22:24.219702,Active
+SELL00670,"Ghose, Ramakrishnan and Lad",Hyderabad,Delhi,1.62,2024-05-08 11:22:24.219702,Active
+SELL00671,Gupta Inc,Visakhapatnam,Odisha,3.68,2024-05-09 11:22:24.219702,Banned
+SELL00672,Ramachandran Inc,Vadodara,Madhya Pradesh,4.64,2024-05-10 11:22:24.219702,Inactive
+SELL00673,Srivastava and Sons,Noida,West Bengal,2.82,2024-05-11 11:22:24.219702,Inactive
+SELL00674,Borde Inc,Vadodara,Karnataka,,2024-05-12 11:22:24.219702,Banned
+SELL00675,Memon-Randhawa,Surat,Madhya Pradesh,1.79,2024-05-13 11:22:24.219702,Inactive
+SELL00676,Sarma Ltd,Nagpur,Bihar,3.64,2024-05-14 11:22:24.219702,Banned
+SELL00677,"Mitra, Grewal and Raju",Mumbai,West Bengal,1.31,2024-05-15 11:22:24.219702,Inactive
+SELL00678,Sant Inc,Delhi,Delhi,1.49,2024-05-16 11:22:24.219702,Active
+SELL00679,"Borra, Karan and Maharaj",Mumbai,Haryana,1.87,2024-05-17 11:22:24.219702,Banned
+SELL00680,"Balakrishnan, Chandra and D’Alia",Pune,Odisha,4.4,2024-05-18 11:22:24.219702,Banned
+SELL00681,Bajaj Inc,Pune,Odisha,4.48,2024-05-19 11:22:24.219702,Banned
+SELL00682,Grover Ltd,Vadodara,Bihar,3.49,2024-05-20 11:22:24.219702,Inactive
+SELL00683,Dhaliwal PLC,Kochi,Bihar,1.21,2024-05-21 11:22:24.219702,Inactive
+SELL00684,Sampath-Kumar,Chandigarh,Punjab,1.82,2024-05-22 11:22:24.219702,Banned
+SELL00685,Char PLC,Kochi,Bihar,1.39,2024-05-23 11:22:24.219702,Active
+SELL00686,Chad LLC,Bengaluru,Uttar Pradesh,1.13,2024-05-24 11:22:24.219702,Active
+SELL00687,Bali PLC,Pune,Rajasthan,2.7,2024-05-25 11:22:24.219702,Inactive
+SELL00688,Cherian Group,Vadodara,Bihar,2.79,2024-05-26 11:22:24.219702,Banned
+SELL00689,Sachdeva Inc,Chandigarh,Maharashtra,4.26,2024-05-27 11:22:24.219702,Banned
+SELL00690,Vasa PLC,Hyderabad,Odisha,3.71,2024-05-28 11:22:24.219702,Banned
+SELL00691,Bava and Sons,Mumbai,Gujarat,2.07,2024-05-29 11:22:24.219702,Inactive
+SELL00692,Soman LLC,Chandigarh,Madhya Pradesh,2.45,2024-05-30 11:22:24.219702,Inactive
+SELL00693,Lall Group,Surat,Kerala,4.9,2024-05-31 11:22:24.219702,Banned
+SELL00694,Kaur and Sons,Vadodara,Madhya Pradesh,3.93,2024-06-01 11:22:24.219702,Banned
+SELL00695,Bhandari Ltd,Jaipur,Tamil Nadu,,2024-06-02 11:22:24.219702,Banned
+SELL00696,Bhavsar Inc,Patna,Gujarat,4.8,2024-06-03 11:22:24.219702,Inactive
+SELL00697,"Majumdar, Nigam and Merchant",Jaipur,Gujarat,2.05,2024-06-04 11:22:24.219702,Active
+SELL00698,Contractor LLC,Chennai,Delhi,2.23,2024-06-05 11:22:24.219702,Banned
+SELL00699,"Bumb, Dewan and Sachar",Visakhapatnam,Andhra Pradesh,,2024-06-06 11:22:24.219702,Banned
+SELL00700,"Sarraf, Patla and Ranganathan",Kochi,Maharashtra,2.64,2024-06-07 11:22:24.219702,Active
+SELL00701,"Chand, Khare and Bhakta",Chennai,Maharashtra,3.69,2024-06-08 11:22:24.219702,Active
+SELL00702,"Walia, Zachariah and Sathe",Mumbai,West Bengal,4.21,2024-06-09 11:22:24.219702,Banned
+SELL00703,Handa-Rastogi,Surat,Bihar,3.33,2024-06-10 11:22:24.219702,Banned
+SELL00704,Varty-Dash,Chandigarh,Punjab,4.68,2024-06-11 11:22:24.219702,Active
+SELL00705,Verma LLC,Mumbai,Kerala,2.37,2024-06-12 11:22:24.219702,Active
+SELL00706,Talwar Group,Surat,Karnataka,4.48,2024-06-13 11:22:24.219702,Banned
+SELL00707,"Dhar, Andra and Kari",Patna,Odisha,3.18,2024-06-14 11:22:24.219702,Active
+SELL00708,"Rattan, Kulkarni and Rajan",Bhopal,Maharashtra,6.0,2024-06-15 11:22:24.219702,Active
+SELL00709,Kanda PLC,Lucknow,Uttar Pradesh,2.7,2024-06-16 11:22:24.219702,Inactive
+SELL00710,"Kalla, Devan and Chana",Jaipur,Rajasthan,1.55,2024-06-17 11:22:24.219702,Inactive
+SELL00711,"Kuruvilla, Badami and Sandal",Visakhapatnam,Madhya Pradesh,2.95,2024-06-18 11:22:24.219702,Active
+SELL00712,Shah-Mitter,Jaipur,Delhi,1.05,2024-06-19 11:22:24.219702,Active
+SELL00713,"Dalal, Chad and Chaudhari",Chandigarh,Tamil Nadu,1.45,2024-06-20 11:22:24.219702,Banned
+SELL00714,Koshy Ltd,Lucknow,Odisha,3.54,2024-06-21 11:22:24.219702,Banned
+SELL00715,"Bansal, Gulati and Tella",Ahmedabad,Uttar Pradesh,2.88,2024-06-22 11:22:24.219702,Active
+SELL00716,Ghose-Agate,Visakhapatnam,Kerala,1.47,2024-06-23 11:22:24.219702,Inactive
+SELL00717,Chauhan-Bansal,Chennai,Delhi,,2024-06-24 11:22:24.219702,Inactive
+SELL00718,Bora and Sons,Noida,Karnataka,3.97,2024-06-25 11:22:24.219702,Inactive
+SELL00719,Nath PLC,Pune,Telangana,3.08,2024-06-26 11:22:24.219702,Active
+SELL00720,Barad-Naidu,Lucknow,Delhi,3.19,2024-06-27 11:22:24.219702,Banned
+SELL00721,Hegde-Narasimhan,Bhopal,Telangana,1.56,2024-06-28 11:22:24.219702,Inactive
+SELL00722,"Bora, Mutti and Bail",Kochi,Uttar Pradesh,2.79,2024-06-29 11:22:24.219702,Active
+SELL00723,Bali Ltd,Kolkata,West Bengal,1.98,2024-06-30 11:22:24.219702,Banned
+SELL00724,Tank-Shukla,Lucknow,Rajasthan,3.47,2024-07-01 11:22:24.219702,Active
+SELL00725,Bansal Ltd,Hyderabad,Odisha,4.95,2024-07-02 11:22:24.219702,Banned
+SELL00726,Luthra-Dalal,Hyderabad,Gujarat,3.43,2024-07-03 11:22:24.219702,Active
+SELL00727,Bassi-Anand,Hyderabad,Telangana,2.71,2024-07-04 11:22:24.219702,Banned
+SELL00728,Singhal-Bahl,Surat,Delhi,4.72,2024-07-05 11:22:24.219702,Banned
+SELL00729,Wagle LLC,Pune,Haryana,1.76,2024-07-06 11:22:24.219702,Banned
+SELL00730,Bala-Madan,Indore,Telangana,1.58,2024-07-07 11:22:24.219702,Active
+SELL00731,Tak Inc,Bengaluru,Tamil Nadu,3.39,2024-07-08 11:22:24.219702,Inactive
+SELL00732,"Pandey, Mahajan and Chanda",Patna,Telangana,4.17,2024-07-09 11:22:24.219702,Inactive
+SELL00733,"Seshadri, Mitter and Hans",Jaipur,West Bengal,3.58,2024-07-10 11:22:24.219702,Active
+SELL00734,Dhar LLC,Lucknow,Rajasthan,1.09,2024-07-11 11:22:24.219702,Banned
+SELL00735,Sawhney-Tripathi,Vadodara,Maharashtra,2.63,2024-07-12 11:22:24.219702,Banned
+SELL00736,Cherian Inc,Lucknow,Punjab,,2024-07-13 11:22:24.219702,Banned
+SELL00737,Arora-Bhalla,Kolkata,Kerala,4.44,2024-07-14 11:22:24.219702,Inactive
+SELL00738,"Bansal, Kapoor and Sodhi",Visakhapatnam,Uttar Pradesh,2.45,2024-07-15 11:22:24.219702,Banned
+SELL00739,"Deshmukh, Bir and Kara",Noida,Andhra Pradesh,1.04,2024-07-16 11:22:24.219702,Inactive
+SELL00740,Bhattacharyya Inc,Hyderabad,Haryana,1.64,2024-07-17 11:22:24.219702,Inactive
+SELL00741,"Ahuja, Nagi and Dugal",Chandigarh,Telangana,4.26,2024-07-18 11:22:24.219702,Banned
+SELL00742,Nagar Group,Lucknow,Gujarat,4.74,2024-07-19 11:22:24.219702,Active
+SELL00743,"Bobal, Narasimhan and Sankar",Chennai,Andhra Pradesh,1.13,2024-07-20 11:22:24.219702,Active
+SELL00744,"Mishra, Choudhry and Golla",Indore,Andhra Pradesh,4.0,2024-07-21 11:22:24.219702,Inactive
+SELL00745,Aggarwal Group,Ahmedabad,West Bengal,1.76,2024-07-22 11:22:24.219702,Active
+SELL00746,"Thakkar, Nayar and Narang",Kolkata,Telangana,2.6,2024-07-23 11:22:24.219702,Banned
+SELL00747,Balasubramanian Ltd,Delhi,Odisha,3.82,2024-07-24 11:22:24.219702,Banned
+SELL00748,Yogi Group,Hyderabad,Gujarat,4.36,2024-07-25 11:22:24.219702,Inactive
+SELL00749,"Kumer, Sen and Anne",Lucknow,Tamil Nadu,1.09,2024-07-26 11:22:24.219702,Banned
+SELL00750,Brar-Saxena,Kochi,Kerala,4.71,2024-07-27 11:22:24.219702,Active
+SELL00751,"Seshadri, Sagar and Nanda",Patna,Uttar Pradesh,4.63,2024-07-28 11:22:24.219702,Banned
+SELL00752,"Sawhney, Chatterjee and Singh",Jaipur,Delhi,2.24,2024-07-29 11:22:24.219702,Inactive
+SELL00753,"Kapur, Nath and Om",Pune,Gujarat,3.81,2024-07-30 11:22:24.219702,Inactive
+SELL00754,Tank-Puri,Chennai,Telangana,1.76,2024-07-31 11:22:24.219702,Active
+SELL00755,Swamy PLC,Nagpur,Punjab,3.9,2024-08-01 11:22:24.219702,Active
+SELL00756,Bava Ltd,Bengaluru,Kerala,1.52,2024-08-02 11:22:24.219702,Active
+SELL00757,Banik-Dara,Kolkata,Punjab,3.79,2024-08-03 11:22:24.219702,Inactive
+SELL00758,"Ramakrishnan, Talwar and Mody",Delhi,Punjab,2.35,2024-08-04 11:22:24.219702,Banned
+SELL00759,Mistry-Mander,Kochi,Odisha,3.95,2024-08-05 11:22:24.219702,Banned
+SELL00760,Koshy-Chadha,Chandigarh,Punjab,4.43,2024-08-06 11:22:24.219702,Inactive
+SELL00761,"Koshy, Minhas and Dube",Hyderabad,Gujarat,1.39,2024-08-07 11:22:24.219702,Inactive
+SELL00762,Nori-Chandran,Patna,Uttar Pradesh,1.28,2024-08-08 11:22:24.219702,Active
+SELL00763,Kota-Bora,Lucknow,Haryana,1.69,2024-08-09 11:22:24.219702,Banned
+SELL00764,Suri-Ramanathan,Jaipur,Gujarat,2.8,2024-08-10 11:22:24.219702,Inactive
+SELL00765,Vaidya Inc,Noida,Uttar Pradesh,4.45,2024-08-11 11:22:24.219702,Inactive
+SELL00766,"Kari, Borra and Chand",Ahmedabad,Punjab,,2024-08-12 11:22:24.219702,Inactive
+SELL00767,"Palan, Pant and Venkatesh",Hyderabad,Madhya Pradesh,1.52,2024-08-13 11:22:24.219702,Inactive
+SELL00768,Kothari-Kanda,Kolkata,Bihar,1.17,2024-08-14 11:22:24.219702,Banned
+SELL00769,Dhawan and Sons,Nagpur,Andhra Pradesh,1.63,2024-08-15 11:22:24.219702,Banned
+SELL00770,"Bava, Sangha and Banik",Chandigarh,Rajasthan,2.17,2024-08-16 11:22:24.219702,Inactive
+SELL00771,Barad-Bala,Pune,Madhya Pradesh,3.64,2024-08-17 11:22:24.219702,Active
+SELL00772,"Pall, Narayan and Pal",Chennai,Tamil Nadu,4.46,2024-08-18 11:22:24.219702,Active
+SELL00773,Sibal-Borra,Chandigarh,Uttar Pradesh,3.72,2024-08-19 11:22:24.219702,Banned
+SELL00774,Deshpande-Dhar,Bhopal,Telangana,1.01,2024-08-20 11:22:24.219702,Inactive
+SELL00775,Sachdeva-Wali,Pune,Gujarat,4.02,2024-08-21 11:22:24.219702,Active
+SELL00776,Bail-Rajagopalan,Bhopal,Haryana,3.96,2024-08-22 11:22:24.219702,Active
+SELL00777,Ghosh-Joshi,Ahmedabad,Gujarat,1.08,2024-08-23 11:22:24.219702,Inactive
+SELL00778,"Dutt, Pau and Mangat",Kolkata,Rajasthan,3.26,2024-08-24 11:22:24.219702,Inactive
+SELL00779,Chopra PLC,Delhi,Gujarat,4.97,2024-08-25 11:22:24.219702,Active
+SELL00780,"Varghese, Mahajan and Basak",Bhopal,Andhra Pradesh,4.61,2024-08-26 11:22:24.219702,Inactive
+SELL00781,"Memon, Sankaran and Sankar",Noida,Haryana,2.06,2024-08-27 11:22:24.219702,Banned
+SELL00782,Doctor-Pandit,Visakhapatnam,Kerala,2.39,2024-08-28 11:22:24.219702,Banned
+SELL00783,Chaudhry-Nazareth,Noida,Karnataka,2.33,2024-08-29 11:22:24.219702,Banned
+SELL00784,Vig Inc,Jaipur,Kerala,3.94,2024-08-30 11:22:24.219702,Banned
+SELL00785,Mander-Raman,Delhi,Karnataka,1.54,2024-08-31 11:22:24.219702,Banned
+SELL00786,Master-Hans,Noida,Tamil Nadu,1.33,2024-09-01 11:22:24.219702,Active
+SELL00787,Samra-Oza,Ahmedabad,Madhya Pradesh,2.51,2024-09-02 11:22:24.219702,Banned
+SELL00788,Sangha-Lal,Bengaluru,Maharashtra,1.32,2024-09-03 11:22:24.219702,Banned
+SELL00789,"Jha, Chana and Kumar",Indore,Odisha,4.83,2024-09-04 11:22:24.219702,Banned
+SELL00790,Subramanian-Misra,Jaipur,Karnataka,1.92,2024-09-05 11:22:24.219702,Active
+SELL00791,"Trivedi, Jani and Chada",Kolkata,Uttar Pradesh,1.19,2024-09-06 11:22:24.219702,Inactive
+SELL00792,Kapoor Group,Mumbai,Gujarat,1.95,2024-09-07 11:22:24.219702,Inactive
+SELL00793,Bahri-Ghosh,Pune,West Bengal,3.48,2024-09-08 11:22:24.219702,Active
+SELL00794,Bhatt-Taneja,Kochi,Maharashtra,4.38,2024-09-09 11:22:24.219702,Inactive
+SELL00795,Kapoor Inc,Nagpur,Karnataka,1.63,2024-09-10 11:22:24.219702,Banned
+SELL00796,"Shetty, Banik and Brahmbhatt",Lucknow,Maharashtra,2.87,2024-09-11 11:22:24.219702,Banned
+SELL00797,Murty and Sons,Indore,Tamil Nadu,1.74,2024-09-12 11:22:24.219702,Inactive
+SELL00798,Wali-Taneja,Visakhapatnam,Haryana,4.26,2024-09-13 11:22:24.219702,Active
+SELL00799,"Chopra, Kakar and Saha",Mumbai,West Bengal,2.2,2024-09-14 11:22:24.219702,Banned
+SELL00800,Kant and Sons,Lucknow,Karnataka,3.05,2024-09-15 11:22:24.219702,Active
+SELL00801,Dada PLC,Chandigarh,Punjab,2.98,2024-09-16 11:22:24.219702,Inactive
+SELL00802,Sampath-Kapoor,Pune,Uttar Pradesh,1.39,2024-09-17 11:22:24.219702,Active
+SELL00803,Wadhwa-Chaudhuri,Delhi,Madhya Pradesh,1.25,2024-09-18 11:22:24.219702,Active
+SELL00804,"Devi, Krishna and Borah",Bhopal,Gujarat,3.26,2024-09-19 11:22:24.219702,Active
+SELL00805,Sundaram Ltd,Kochi,Andhra Pradesh,3.96,2024-09-20 11:22:24.219702,Active
+SELL00806,Narayanan Inc,Hyderabad,Uttar Pradesh,3.25,2024-09-21 11:22:24.219702,Active
+SELL00807,Kashyap Group,Mumbai,Gujarat,1.24,2024-09-22 11:22:24.219702,Inactive
+SELL00808,Mand-Varma,Pune,Punjab,1.22,2024-09-23 11:22:24.219702,Active
+SELL00809,"Mistry, Shetty and Chahal",Lucknow,Delhi,4.31,2024-09-24 11:22:24.219702,Banned
+SELL00810,"Yogi, Konda and Kala",Delhi,Telangana,4.6,2024-09-25 11:22:24.219702,Banned
+SELL00811,"Pradhan, Madan and Warrior",Delhi,Bihar,3.58,2024-09-26 11:22:24.219702,Banned
+SELL00812,Chopra LLC,Chennai,Delhi,1.56,2024-09-27 11:22:24.219702,Inactive
+SELL00813,Madan Group,Noida,Odisha,2.02,2024-09-28 11:22:24.219702,Active
+SELL00814,Acharya Inc,Delhi,Andhra Pradesh,4.3,2024-09-29 11:22:24.219702,Banned
+SELL00815,Sood-Munshi,Indore,West Bengal,2.09,2024-09-30 11:22:24.219702,Inactive
+SELL00816,"Mallick, Nigam and Kar",Bhopal,Odisha,3.7,2024-10-01 11:22:24.219702,Active
+SELL00817,Raju-Bala,Patna,Telangana,3.26,2024-10-02 11:22:24.219702,Banned
+SELL00818,Wable-Amble,Chandigarh,Punjab,2.95,2024-10-03 11:22:24.219702,Banned
+SELL00819,Sachar-Krishnan,Pune,Kerala,1.31,2024-10-04 11:22:24.219702,Banned
+SELL00820,"Balay, Bhakta and Char",Bengaluru,Andhra Pradesh,2.68,2024-10-05 11:22:24.219702,Active
+SELL00821,Luthra-Tata,Kochi,Tamil Nadu,3.66,2024-10-06 11:22:24.219702,Active
+SELL00822,Deol and Sons,Mumbai,Uttar Pradesh,3.06,2024-10-07 11:22:24.219702,Banned
+SELL00823,"Mannan, Banik and Saraf",Pune,Andhra Pradesh,1.71,2024-10-08 11:22:24.219702,Banned
+SELL00824,Sankaran-Swaminathan,Bhopal,West Bengal,2.03,2024-10-09 11:22:24.219702,Inactive
+SELL00825,"Nagarajan, Singh and Vohra",Surat,Punjab,3.24,2024-10-10 11:22:24.219702,Active
+SELL00826,Parmar LLC,Bengaluru,Delhi,4.43,2024-10-11 11:22:24.219702,Banned
+SELL00827,Patil PLC,Kolkata,West Bengal,2.78,2024-10-12 11:22:24.219702,Active
+SELL00828,"Chaudhary, Varty and Gola",Delhi,Haryana,3.53,2024-10-13 11:22:24.219702,Banned
+SELL00829,"Narang, Yogi and Kamdar",Kochi,Uttar Pradesh,2.42,2024-10-14 11:22:24.219702,Inactive
+SELL00830,"Prakash, Kar and Kumer",Pune,Karnataka,2.32,2024-10-15 11:22:24.219702,Banned
+SELL00831,Setty-Chaudry,Kolkata,Bihar,3.98,2024-10-16 11:22:24.219702,Banned
+SELL00832,Rout Group,Noida,Kerala,3.29,2024-10-17 11:22:24.219702,Inactive
+SELL00833,Muni-Chaudry,Chandigarh,Bihar,4.47,2024-10-18 11:22:24.219702,Inactive
+SELL00834,"Bhatt, Deol and Gill",Lucknow,Tamil Nadu,1.38,2024-10-19 11:22:24.219702,Banned
+SELL00835,"Devi, Thaman and Deshmukh",Delhi,Rajasthan,4.1,2024-10-20 11:22:24.219702,Banned
+SELL00836,Nadig-Dugar,Noida,Tamil Nadu,1.36,2024-10-21 11:22:24.219702,Inactive
+SELL00837,Balan-Savant,Indore,Uttar Pradesh,2.03,2024-10-22 11:22:24.219702,Inactive
+SELL00838,"Chopra, Dora and Deo",Surat,Telangana,4.22,2024-10-23 11:22:24.219702,Banned
+SELL00839,Kumar-D’Alia,Nagpur,Kerala,2.35,2024-10-24 11:22:24.219702,Banned
+SELL00840,"Varma, Krishna and Murthy",Nagpur,Odisha,2.79,2024-10-25 11:22:24.219702,Active
+SELL00841,Sandhu-Halder,Vadodara,Telangana,,2024-10-26 11:22:24.219702,Banned
+SELL00842,Jhaveri-Sami,Jaipur,Punjab,4.14,2024-10-27 11:22:24.219702,Inactive
+SELL00843,"Nayar, Banik and Pall",Nagpur,Haryana,4.18,2024-10-28 11:22:24.219702,Active
+SELL00844,Bhatnagar-Konda,Pune,Kerala,2.84,2024-10-29 11:22:24.219702,Active
+SELL00845,Contractor-Gour,Kolkata,Madhya Pradesh,3.56,2024-10-30 11:22:24.219702,Banned
+SELL00846,Mittal PLC,Delhi,Uttar Pradesh,2.95,2024-10-31 11:22:24.219702,Inactive
+SELL00847,Vasa-Ramanathan,Kochi,Telangana,2.08,2024-11-01 11:22:24.219702,Active
+SELL00848,Chaudhry Ltd,Patna,Andhra Pradesh,3.84,2024-11-02 11:22:24.219702,Active
+SELL00849,"Kar, Savant and Badami",Indore,Punjab,4.73,2024-11-03 11:22:24.219702,Banned
+SELL00850,Sama-Bhatia,Kochi,Madhya Pradesh,3.96,2024-11-04 11:22:24.219702,Active
+SELL00851,Gera LLC,Delhi,Andhra Pradesh,2.56,2024-11-05 11:22:24.219702,Inactive
+SELL00852,"Maharaj, Balan and Batra",Visakhapatnam,Andhra Pradesh,3.68,2024-11-06 11:22:24.219702,Inactive
+SELL00853,"Kaur, Deep and Hans",Hyderabad,Uttar Pradesh,4.16,2024-11-07 11:22:24.219702,Active
+SELL00854,Kata-Varkey,Nagpur,Gujarat,4.98,2024-11-08 11:22:24.219702,Active
+SELL00855,Sekhon PLC,Patna,Gujarat,2.06,2024-11-09 11:22:24.219702,Banned
+SELL00856,Pathak PLC,Mumbai,Punjab,-1.0,2024-11-10 11:22:24.219702,Active
+SELL00857,Sathe-Trivedi,Mumbai,Haryana,2.8,2024-11-11 11:22:24.219702,Banned
+SELL00858,"Mody, Shetty and Viswanathan",Chennai,Maharashtra,4.32,2024-11-12 11:22:24.219702,Active
+SELL00859,Borah-Vala,Surat,Kerala,3.48,2024-11-13 11:22:24.219702,Active
+SELL00860,"Thaman, Prashad and Sarma",Mumbai,West Bengal,1.69,2024-11-14 11:22:24.219702,Active
+SELL00861,Sami-Dutt,Visakhapatnam,Haryana,4.64,2024-11-15 11:22:24.219702,Banned
+SELL00862,Swaminathan-Padmanabhan,Surat,West Bengal,3.13,2024-11-16 11:22:24.219702,Active
+SELL00863,"Chana, Iyengar and Ray",Surat,Uttar Pradesh,4.63,2024-11-17 11:22:24.219702,Banned
+SELL00864,"Ramaswamy, Desai and Pall",Bhopal,Gujarat,4.88,2024-11-18 11:22:24.219702,Active
+SELL00865,Kala-Deshmukh,Mumbai,Haryana,2.7,2024-11-19 11:22:24.219702,Banned
+SELL00866,"Bir, Chowdhury and Shukla",Pune,Tamil Nadu,1.89,2024-11-20 11:22:24.219702,Inactive
+SELL00867,"Korpal, Sane and Bhasin",Delhi,Uttar Pradesh,3.76,2024-11-21 11:22:24.219702,Banned
+SELL00868,Mangat Ltd,Indore,Andhra Pradesh,1.9,2024-11-22 11:22:24.219702,Banned
+SELL00869,Pal-Kapoor,Nagpur,Andhra Pradesh,3.28,2024-11-23 11:22:24.219702,Inactive
+SELL00870,Hayer-Jain,Kochi,Punjab,4.52,2024-11-24 11:22:24.219702,Banned
+SELL00871,Sarna-Bajaj,Nagpur,Odisha,1.58,2024-11-25 11:22:24.219702,Inactive
+SELL00872,Sachar-Patel,Indore,Madhya Pradesh,,2024-11-26 11:22:24.219702,Inactive
+SELL00873,"Yohannan, Iyengar and Bobal",Chennai,Odisha,2.05,2024-11-27 11:22:24.219702,Inactive
+SELL00874,"Lall, Basak and Lata",Visakhapatnam,Rajasthan,3.04,2024-11-28 11:22:24.219702,Active
+SELL00875,"Sem, Srinivas and Saxena",Mumbai,Kerala,1.24,2024-11-29 11:22:24.219702,Inactive
+SELL00876,"Viswanathan, Ratti and Khatri",Kolkata,Maharashtra,1.22,2024-11-30 11:22:24.219702,Active
+SELL00877,Sibal LLC,Visakhapatnam,Rajasthan,2.74,2024-12-01 11:22:24.219702,Active
+SELL00878,Koshy-Kara,Lucknow,Odisha,3.61,2024-12-02 11:22:24.219702,Inactive
+SELL00879,Padmanabhan PLC,Delhi,Rajasthan,4.69,2024-12-03 11:22:24.219702,Inactive
+SELL00880,"Mutti, Behl and Joshi",Hyderabad,Uttar Pradesh,4.13,2024-12-04 11:22:24.219702,Banned
+SELL00881,"Gala, Choudhury and Mistry",Surat,Maharashtra,1.33,2024-12-05 11:22:24.219702,Inactive
+SELL00882,"Sani, Rai and Sahni",Noida,Haryana,2.01,2024-12-06 11:22:24.219702,Banned
+SELL00883,Shankar-Loyal,Hyderabad,Madhya Pradesh,4.21,2024-12-07 11:22:24.219702,Inactive
+SELL00884,Halder LLC,Pune,Uttar Pradesh,2.85,2024-12-08 11:22:24.219702,Inactive
+SELL00885,"Nadkarni, Vasa and Kala",Surat,Andhra Pradesh,3.16,2024-12-09 11:22:24.219702,Banned
+SELL00886,"Ahuja, Dhawan and Babu",Kolkata,Delhi,3.92,2024-12-10 11:22:24.219702,Inactive
+SELL00887,Bhakta Inc,Chennai,Kerala,4.63,2024-12-11 11:22:24.219702,Inactive
+SELL00888,"Boase, Chakrabarti and Kurian",Mumbai,Haryana,1.84,2024-12-12 11:22:24.219702,Active
+SELL00889,Das-Grover,Vadodara,Gujarat,4.74,2024-12-13 11:22:24.219702,Inactive
+SELL00890,Patel-Dua,Lucknow,Gujarat,1.74,2024-12-14 11:22:24.219702,Banned
+SELL00891,"Kunda, Khanna and Rai",Kochi,Telangana,2.18,2024-12-15 11:22:24.219702,Banned
+SELL00892,Karnik-Issac,Vadodara,Maharashtra,2.08,2024-12-16 11:22:24.219702,Inactive
+SELL00893,"Srinivas, Anand and Bhatia",Vadodara,Rajasthan,1.14,2024-12-17 11:22:24.219702,Inactive
+SELL00894,"Korpal, Shankar and Sem",Delhi,Maharashtra,3.12,2024-12-18 11:22:24.219702,Inactive
+SELL00895,Sarraf and Sons,Indore,Telangana,1.29,2024-12-19 11:22:24.219702,Inactive
+SELL00896,"Mani, Badal and Sura",Indore,Uttar Pradesh,1.05,2024-12-20 11:22:24.219702,Active
+SELL00897,Zachariah-Dar,Jaipur,Gujarat,3.13,2024-12-21 11:22:24.219702,Banned
+SELL00898,Bhargava-Dutta,Kochi,Madhya Pradesh,1.46,2024-12-22 11:22:24.219702,Active
+SELL00899,Barad LLC,Indore,Bihar,3.4,2024-12-23 11:22:24.219702,Banned
+SELL00900,Pall-Sachdev,Nagpur,Uttar Pradesh,1.66,2024-12-24 11:22:24.219702,Inactive
+SELL00901,Dyal-Konda,Delhi,Gujarat,1.45,2024-12-25 11:22:24.219702,Banned
+SELL00902,Suri-Choudhry,Pune,Haryana,4.48,2024-12-26 11:22:24.219702,Banned
+SELL00903,"Devi, Swaminathan and Prabhu",Mumbai,Punjab,4.28,2024-12-27 11:22:24.219702,Inactive
+SELL00904,Morar-Varma,Kochi,Kerala,1.32,2024-12-28 11:22:24.219702,Banned
+SELL00905,Din LLC,Lucknow,Tamil Nadu,2.46,2024-12-29 11:22:24.219702,Active
+SELL00906,Subramanian-Dua,Kochi,Punjab,1.48,2024-12-30 11:22:24.219702,Active
+SELL00907,"Din, Sachdev and Balakrishnan",Bhopal,Tamil Nadu,3.24,2024-12-31 11:22:24.219702,Banned
+SELL00908,"Batra, Sinha and Mammen",Bhopal,Tamil Nadu,1.17,2025-01-01 11:22:24.219702,Inactive
+SELL00909,Mutti LLC,Jaipur,Karnataka,3.74,2025-01-02 11:22:24.219702,Inactive
+SELL00910,Barad-Rout,Pune,Punjab,,2025-01-03 11:22:24.219702,Active
+SELL00911,Kanda-Bhakta,Visakhapatnam,Karnataka,4.59,2025-01-04 11:22:24.219702,Banned
+SELL00912,More-Bhagat,Bhopal,Telangana,1.28,2025-01-05 11:22:24.219702,Inactive
+SELL00913,Kaul-Dhingra,Jaipur,Delhi,4.5,2025-01-06 11:22:24.219702,Active
+SELL00914,Mall Group,Noida,West Bengal,1.05,2025-01-07 11:22:24.219702,Banned
+SELL00915,Bahl Group,Visakhapatnam,Gujarat,2.79,2025-01-08 11:22:24.219702,Banned
+SELL00916,"Soman, Jain and Sood",Jaipur,Odisha,4.25,2025-01-09 11:22:24.219702,Inactive
+SELL00917,Kala-Uppal,Vadodara,Uttar Pradesh,1.79,2025-01-10 11:22:24.219702,Active
+SELL00918,Ben-Sahota,Delhi,West Bengal,3.65,2025-01-11 11:22:24.219702,Active
+SELL00919,"Vora, Sarkar and Dash",Indore,Rajasthan,3.22,2025-01-12 11:22:24.219702,Inactive
+SELL00920,Bansal Group,Indore,Punjab,3.76,2025-01-13 11:22:24.219702,Banned
+SELL00921,"Kunda, Chakrabarti and Bhagat",Mumbai,Gujarat,-1.0,2025-01-14 11:22:24.219702,Inactive
+SELL00922,Handa-Bala,Kochi,Maharashtra,1.17,2025-01-15 11:22:24.219702,Inactive
+SELL00923,"Nanda, Gandhi and Ahuja",Bhopal,Karnataka,3.54,2025-01-16 11:22:24.219702,Active
+SELL00924,Contractor-Bakshi,Mumbai,Bihar,2.18,2025-01-17 11:22:24.219702,Active
+SELL00925,Behl-Soni,Noida,Telangana,2.26,2025-01-18 11:22:24.219702,Banned
+SELL00926,"Cherian, Rao and Nagar",Hyderabad,Madhya Pradesh,,2025-01-19 11:22:24.219702,Banned
+SELL00927,"Choudhary, Korpal and Mistry",Vadodara,Telangana,1.14,2025-01-20 11:22:24.219702,Inactive
+SELL00928,"Kalita, Mital and Kale",Indore,Andhra Pradesh,2.29,2025-01-21 11:22:24.219702,Inactive
+SELL00929,"Basu, Vohra and Bera",Bengaluru,Haryana,4.05,2025-01-22 11:22:24.219702,Inactive
+SELL00930,Kamdar-Narayan,Lucknow,Telangana,,2025-01-23 11:22:24.219702,Banned
+SELL00931,Bhatnagar-Sami,Surat,Rajasthan,3.87,2025-01-24 11:22:24.219702,Inactive
+SELL00932,"Sur, Sagar and Prashad",Nagpur,Punjab,1.32,2025-01-25 11:22:24.219702,Active
+SELL00933,"Kari, Shan and Kala",Nagpur,Andhra Pradesh,1.81,2025-01-26 11:22:24.219702,Inactive
+SELL00934,"Chaudhari, Hayre and Hans",Jaipur,Rajasthan,1.32,2025-01-27 11:22:24.219702,Banned
+SELL00935,Saha LLC,Delhi,Bihar,3.36,2025-01-28 11:22:24.219702,Banned
+SELL00936,Bhatti-Ahluwalia,Nagpur,Telangana,2.46,2025-01-29 11:22:24.219702,Active
+SELL00937,Ganesh PLC,Nagpur,Madhya Pradesh,,2025-01-30 11:22:24.219702,Banned
+SELL00938,Dave-Sachdev,Chennai,Maharashtra,1.93,2025-01-31 11:22:24.219702,Active
+SELL00939,"Saraf, Nanda and Aurora",Delhi,Punjab,,2025-02-01 11:22:24.219702,Inactive
+SELL00940,"Jayaraman, Chand and Sampath",Hyderabad,Haryana,4.5,2025-02-02 11:22:24.219702,Inactive
+SELL00941,Cheema PLC,Delhi,Punjab,4.45,2025-02-03 11:22:24.219702,Active
+SELL00942,Bali LLC,Hyderabad,Punjab,1.35,2025-02-04 11:22:24.219702,Active
+SELL00943,Purohit-Bhatti,Ahmedabad,Andhra Pradesh,2.94,2025-02-05 11:22:24.219702,Banned
+SELL00944,Patel-Sur,Chennai,Maharashtra,3.49,2025-02-06 11:22:24.219702,Inactive
+SELL00945,Chana-Date,Ahmedabad,Madhya Pradesh,3.01,2025-02-07 11:22:24.219702,Banned
+SELL00946,"Jain, Prashad and Shah",Visakhapatnam,Gujarat,4.52,2025-02-08 11:22:24.219702,Inactive
+SELL00947,Grover-Wali,Ahmedabad,Maharashtra,-1.0,2025-02-09 11:22:24.219702,Banned
+SELL00948,"Pandey, Oak and Chanda",Noida,Bihar,1.78,2025-02-10 11:22:24.219702,Inactive
+SELL00949,Mitra LLC,Ahmedabad,Delhi,1.47,2025-02-11 11:22:24.219702,Banned
+SELL00950,"Dhar, Rajagopalan and Sura",Chandigarh,Rajasthan,3.86,2025-02-12 11:22:24.219702,Inactive
+SELL00951,"Bath, Yadav and Dugar",Indore,Madhya Pradesh,2.42,2025-02-13 11:22:24.219702,Active
+SELL00952,Bhavsar Ltd,Indore,Madhya Pradesh,2.16,2025-02-14 11:22:24.219702,Active
+SELL00953,"Bedi, Sarma and Iyengar",Indore,Kerala,4.9,2025-02-15 11:22:24.219702,Active
+SELL00954,Deep Group,Hyderabad,Gujarat,2.69,2025-02-16 11:22:24.219702,Banned
+SELL00955,Dubey-Hari,Kochi,Bihar,4.8,2025-02-17 11:22:24.219702,Inactive
+SELL00956,"Varty, Walia and Sawhney",Bhopal,West Bengal,1.61,2025-02-18 11:22:24.219702,Inactive
+SELL00957,Gara-Jha,Lucknow,Andhra Pradesh,3.1,2025-02-19 11:22:24.219702,Inactive
+SELL00958,Grewal Ltd,Lucknow,Rajasthan,2.54,2025-02-20 11:22:24.219702,Banned
+SELL00959,Ram-Ratti,Jaipur,Karnataka,3.54,2025-02-21 11:22:24.219702,Inactive
+SELL00960,Kalla-Parmer,Patna,Punjab,4.75,2025-02-22 11:22:24.219702,Active
+SELL00961,Khare-Sarna,Chennai,Madhya Pradesh,1.21,2025-02-23 11:22:24.219702,Inactive
+SELL00962,Pathak-Khare,Kochi,Tamil Nadu,4.8,2025-02-24 11:22:24.219702,Inactive
+SELL00963,Kala-Sami,Chandigarh,Bihar,1.04,2025-02-25 11:22:24.219702,Active
+SELL00964,"Natarajan, Bhatt and Parekh",Surat,Rajasthan,1.63,2025-02-26 11:22:24.219702,Inactive
+SELL00965,Raval-Dara,Delhi,West Bengal,4.8,2025-02-27 11:22:24.219702,Banned
+SELL00966,Tara-Koshy,Kochi,Uttar Pradesh,2.66,2025-02-28 11:22:24.219702,Active
+SELL00967,"Bajaj, Nadkarni and Ganguly",Mumbai,Maharashtra,3.64,2025-03-01 11:22:24.219702,Active
+SELL00968,Dash-Dugal,Bengaluru,Kerala,2.55,2025-03-02 11:22:24.219702,Active
+SELL00969,Bhatti-Borah,Jaipur,Odisha,3.17,2025-03-03 11:22:24.219702,Banned
+SELL00970,Chaudhary and Sons,Noida,West Bengal,3.11,2025-03-04 11:22:24.219702,Active
+SELL00971,Choudhary Inc,Ahmedabad,Gujarat,2.07,2025-03-05 11:22:24.219702,Inactive
+SELL00972,Sama-Raman,Visakhapatnam,Rajasthan,4.18,2025-03-06 11:22:24.219702,Banned
+SELL00973,"Sarma, Nadkarni and Deo",Nagpur,Andhra Pradesh,3.64,2025-03-07 11:22:24.219702,Active
+SELL00974,Chawla-Gupta,Nagpur,Maharashtra,3.16,2025-03-08 11:22:24.219702,Active
+SELL00975,Srinivasan-Rana,Lucknow,West Bengal,4.12,2025-03-09 11:22:24.219702,Inactive
+SELL00976,"Chakrabarti, Prabhakar and Char",Indore,Telangana,3.93,2025-03-10 11:22:24.219702,Active
+SELL00977,Modi Group,Hyderabad,Rajasthan,4.47,2025-03-11 11:22:24.219702,Inactive
+SELL00978,Ravi LLC,Bengaluru,Andhra Pradesh,2.73,2025-03-12 11:22:24.219702,Inactive
+SELL00979,Thakkar-Sekhon,Delhi,Bihar,3.17,2025-03-13 11:22:24.219702,Active
+SELL00980,"Bajaj, Buch and Solanki",Noida,Delhi,1.3,2025-03-14 11:22:24.219702,Inactive
+SELL00981,Agate-Sandal,Chandigarh,Madhya Pradesh,9.0,2025-03-15 11:22:24.219702,Active
+SELL00982,Badal LLC,Patna,Odisha,2.51,2025-03-16 11:22:24.219702,Active
+SELL00983,Sura and Sons,Nagpur,Delhi,1.63,2025-03-17 11:22:24.219702,Active
+SELL00984,Nori LLC,Vadodara,Telangana,2.7,2025-03-18 11:22:24.219702,Inactive
+SELL00985,Gaba Group,Pune,Tamil Nadu,1.08,2025-03-19 11:22:24.219702,Active
+SELL00986,"Lalla, Balan and Dewan",Chandigarh,Punjab,3.66,2025-03-20 11:22:24.219702,Banned
+SELL00987,Chakrabarti PLC,Kochi,Andhra Pradesh,3.79,2025-03-21 11:22:24.219702,Banned
+SELL00988,"Goda, Ahluwalia and Pai",Lucknow,Uttar Pradesh,4.68,2025-03-22 11:22:24.219702,Inactive
+SELL00989,Agarwal LLC,Bengaluru,Delhi,4.37,2025-03-23 11:22:24.219702,Inactive
+SELL00990,"Wason, Iyengar and Goyal",Indore,Odisha,1.23,2025-03-24 11:22:24.219702,Banned
+SELL00991,Bahri and Sons,Vadodara,Tamil Nadu,3.86,2025-03-25 11:22:24.219702,Active
+SELL00992,Bhatt Ltd,Hyderabad,Andhra Pradesh,1.36,2025-03-26 11:22:24.219702,Banned
+SELL00993,"Dada, Dhillon and Bose",Nagpur,Punjab,1.35,2025-03-27 11:22:24.219702,Active
+SELL00994,"Kade, Patil and Prabhu",Chandigarh,Kerala,1.02,2025-03-28 11:22:24.219702,Banned
+SELL00995,Devi-Srinivasan,Bhopal,Haryana,1.51,2025-03-29 11:22:24.219702,Banned
+SELL00996,Dhar-Bhavsar,Delhi,Karnataka,1.3,2025-03-30 11:22:24.219702,Banned
+SELL00997,Thaman LLC,Chandigarh,Kerala,4.08,2025-03-31 11:22:24.219702,Inactive
+SELL00998,Madan PLC,Bhopal,Karnataka,1.43,2025-04-01 11:22:24.219702,Banned
+SELL00999,"Sidhu, Halder and Krishnan",Indore,Telangana,3.77,2025-04-02 11:22:24.219702,Banned
+SELL01000,Date-Chad,Patna,Gujarat,2.32,2025-04-03 11:22:24.219702,Active
+SELL01001,"Atwal, Dewan and Chada",Delhi,Delhi,2.18,2025-04-04 11:22:24.219702,Banned
+SELL01002,Krishnan-Nagar,Chandigarh,Odisha,1.95,2025-04-05 11:22:24.219702,Inactive
+SELL01003,"Vala, Trivedi and Ranganathan",Mumbai,Kerala,4.77,2025-04-06 11:22:24.219702,Inactive
+SELL01004,"Sarraf, Kale and Grewal",Vadodara,Tamil Nadu,2.41,2025-04-07 11:22:24.219702,Banned
+SELL01005,"Dass, Khanna and Ramaswamy",Chandigarh,Punjab,2.98,2025-04-08 11:22:24.219702,Active
+SELL01006,"Nori, Rout and Raju",Noida,Karnataka,,2025-04-09 11:22:24.219702,Inactive
+SELL01007,Balay-Mistry,Bhopal,Odisha,3.04,2025-04-10 11:22:24.219702,Active
+SELL01008,Sangha Group,Lucknow,Karnataka,3.06,2025-04-11 11:22:24.219702,Banned
+SELL01009,Seth-Guha,Indore,Uttar Pradesh,4.38,2025-04-12 11:22:24.219702,Banned
+SELL01010,"Ahluwalia, Sha and Lal",Surat,Tamil Nadu,3.47,2025-04-13 11:22:24.219702,Banned
+SELL01011,Edwin PLC,Kochi,Telangana,4.2,2025-04-14 11:22:24.219702,Banned
+SELL01012,Bera-Singhal,Hyderabad,Tamil Nadu,3.84,2025-04-15 11:22:24.219702,Inactive
+SELL01013,Bir-Barad,Visakhapatnam,Kerala,2.39,2025-04-16 11:22:24.219702,Inactive
+SELL01014,Ahluwalia-Sarma,Lucknow,Karnataka,3.82,2025-04-17 11:22:24.219702,Inactive
+SELL01015,"Shetty, Samra and Kar",Lucknow,Uttar Pradesh,2.63,2025-04-18 11:22:24.219702,Inactive
+SELL01016,Tella and Sons,Mumbai,Gujarat,4.31,2025-04-19 11:22:24.219702,Banned
+SELL01017,"Tata, Bose and Nadig",Bhopal,Karnataka,1.82,2025-04-20 11:22:24.219702,Banned
+SELL01018,Keer-Andra,Pune,Odisha,1.86,2025-04-21 11:22:24.219702,Banned
+SELL01019,Datta PLC,Chandigarh,Madhya Pradesh,1.84,2025-04-22 11:22:24.219702,Banned
+SELL01020,Garg-Dada,Vadodara,Maharashtra,4.12,2025-04-23 11:22:24.219702,Inactive
+SELL01021,Balakrishnan-Bassi,Noida,Gujarat,2.71,2025-04-24 11:22:24.219702,Inactive
+SELL01022,"Bail, Om and Pillay",Surat,Punjab,4.17,2025-04-25 11:22:24.219702,Active
+SELL01023,"Dugar, Ravel and Bhatt",Lucknow,Rajasthan,4.37,2025-04-26 11:22:24.219702,Inactive
+SELL01024,Nayak Ltd,Kolkata,Haryana,4.82,2025-04-27 11:22:24.219702,Inactive
+SELL01025,Amble Ltd,Bhopal,Telangana,3.18,2025-04-28 11:22:24.219702,Inactive
+SELL01026,Munshi-Manda,Chandigarh,Odisha,2.06,2025-04-29 11:22:24.219702,Active
+SELL01027,Chakraborty Ltd,Bengaluru,Delhi,2.62,2025-04-30 11:22:24.219702,Banned
+SELL01028,"Sethi, Vohra and Prakash",Chennai,Delhi,4.96,2025-05-01 11:22:24.219702,Banned
+SELL01029,Taneja-Sankar,Vadodara,Kerala,9.0,2025-05-02 11:22:24.219702,Banned
+SELL01030,"Sahota, Madan and Setty",Bengaluru,Delhi,2.07,2025-05-03 11:22:24.219702,Active
+SELL01031,Muni PLC,Noida,Andhra Pradesh,3.08,2025-05-04 11:22:24.219702,Inactive
+SELL01032,Lanka LLC,Noida,Delhi,3.68,2025-05-05 11:22:24.219702,Banned
+SELL01033,Ramakrishnan-Barad,Jaipur,Tamil Nadu,4.81,2025-05-06 11:22:24.219702,Inactive
+SELL01034,Tank-Dara,Kochi,Bihar,3.92,2025-05-07 11:22:24.219702,Active
+SELL01035,Apte PLC,Lucknow,Madhya Pradesh,2.85,2025-05-08 11:22:24.219702,Inactive
+SELL01036,Toor-Pillai,Delhi,West Bengal,3.81,2025-05-09 11:22:24.219702,Inactive
+SELL01037,Roy Ltd,Bhopal,Telangana,3.36,2025-05-10 11:22:24.219702,Banned
+SELL01038,"Borah, Behl and Srivastava",Indore,Tamil Nadu,3.89,2025-05-11 11:22:24.219702,Banned
+SELL01039,"Prakash, Sekhon and Shenoy",Chandigarh,Madhya Pradesh,4.97,2025-05-12 11:22:24.219702,Inactive
+SELL01040,Dubey-Prabhakar,Kochi,West Bengal,,2025-05-13 11:22:24.219702,Active
+SELL01041,"Khurana, Bora and Sama",Noida,Odisha,4.92,2025-05-14 11:22:24.219702,Inactive
+SELL01042,Chaudhuri PLC,Visakhapatnam,Odisha,4.3,2025-05-15 11:22:24.219702,Active
+SELL01043,Arya Ltd,Kochi,Bihar,3.89,2025-05-16 11:22:24.219702,Active
+SELL01044,Parsa-Choudhry,Vadodara,Maharashtra,2.65,2025-05-17 11:22:24.219702,Active
+SELL01045,Khare LLC,Hyderabad,Punjab,2.0,2025-05-18 11:22:24.219702,Active
+SELL01046,Chandra-Varkey,Vadodara,Gujarat,4.91,2025-05-19 11:22:24.219702,Inactive
+SELL01047,Devan-Kohli,Pune,Bihar,4.26,2025-05-20 11:22:24.219702,Active
+SELL01048,Uppal PLC,Surat,Tamil Nadu,10.0,2025-05-21 11:22:24.219702,Inactive
+SELL01049,Barad-Parekh,Jaipur,Delhi,3.48,2025-05-22 11:22:24.219702,Inactive
+SELL01050,"Kalla, Chowdhury and Parekh",Visakhapatnam,Rajasthan,2.86,2025-05-23 11:22:24.219702,Inactive
+SELL01051,Walla-Ram,Indore,Andhra Pradesh,4.93,2025-05-24 11:22:24.219702,Active
+SELL01052,Balakrishnan-Choudhury,Chandigarh,Gujarat,3.77,2025-05-25 11:22:24.219702,Inactive
+SELL01053,Peri-Dubey,Kolkata,Kerala,1.17,2025-05-26 11:22:24.219702,Inactive
+SELL01054,Varghese-Amble,Hyderabad,Andhra Pradesh,4.99,2025-05-27 11:22:24.219702,Inactive
+SELL01055,Mahajan and Sons,Nagpur,Haryana,4.95,2025-05-28 11:22:24.219702,Active
+SELL01056,Seshadri-Dash,Patna,Andhra Pradesh,3.67,2025-05-29 11:22:24.219702,Inactive
+SELL01057,Mann Group,Kochi,Kerala,3.08,2025-05-30 11:22:24.219702,Inactive
+SELL01058,Das-De,Ahmedabad,West Bengal,1.58,2025-05-31 11:22:24.219702,Inactive
+SELL01059,"Dada, Divan and Salvi",Jaipur,Uttar Pradesh,1.21,2025-06-01 11:22:24.219702,Banned
+SELL01060,Sarkar Inc,Chennai,Andhra Pradesh,3.28,2025-06-02 11:22:24.219702,Banned
+SELL01061,Mutti Ltd,Chandigarh,Kerala,4.62,2025-06-03 11:22:24.219702,Active
+SELL01062,"Pant, Shah and Vasa",Indore,Karnataka,,2025-06-04 11:22:24.219702,Inactive
+SELL01063,Sane-Vaidya,Nagpur,Madhya Pradesh,2.85,2025-06-05 11:22:24.219702,Active
+SELL01064,Pai-Kant,Jaipur,Karnataka,2.58,2025-06-06 11:22:24.219702,Inactive
+SELL01065,"Mane, Oak and Hans",Vadodara,Odisha,1.67,2025-06-07 11:22:24.219702,Active
+SELL01066,Pradhan LLC,Vadodara,Gujarat,4.51,2025-06-08 11:22:24.219702,Active
+SELL01067,Nath LLC,Bengaluru,Delhi,2.35,2025-06-09 11:22:24.219702,Banned
+SELL01068,Krishnan-Dani,Delhi,West Bengal,5.0,2025-06-10 11:22:24.219702,Inactive
+SELL01069,"Bhat, Ahuja and Prakash",Chennai,Kerala,1.76,2025-06-11 11:22:24.219702,Active
+SELL01070,"Brahmbhatt, Kapadia and Goswami",Visakhapatnam,Punjab,4.8,2025-06-12 11:22:24.219702,Inactive
+SELL01071,Kala PLC,Delhi,Rajasthan,3.97,2025-06-13 11:22:24.219702,Banned
+SELL01072,"Wable, Ramanathan and Padmanabhan",Bengaluru,Andhra Pradesh,4.8,2025-06-14 11:22:24.219702,Inactive
+SELL01073,Bhandari-Deshmukh,Nagpur,Punjab,2.99,2025-06-15 11:22:24.219702,Active
+SELL01074,Narayanan-Golla,Noida,Punjab,4.46,2025-06-16 11:22:24.219702,Inactive
+SELL01075,"Chacko, Goswami and Lal",Bengaluru,Kerala,1.53,2025-06-17 11:22:24.219702,Banned
+SELL01076,Bera PLC,Pune,Bihar,1.22,2025-06-18 11:22:24.219702,Banned
+SELL01077,Vohra and Sons,Bhopal,Uttar Pradesh,2.69,2025-06-19 11:22:24.219702,Active
+SELL01078,"Grover, Sani and Krishnan",Noida,Karnataka,4.63,2025-06-20 11:22:24.219702,Banned
+SELL01079,Zacharia-Maharaj,Delhi,Rajasthan,2.59,2025-06-21 11:22:24.219702,Banned
+SELL01080,Pradhan-Sibal,Indore,Rajasthan,4.08,2025-06-22 11:22:24.219702,Active
+SELL01081,"Dada, Sami and Warrior",Chandigarh,Tamil Nadu,2.86,2025-06-23 11:22:24.219702,Banned
+SELL01082,"Kamdar, Setty and Lall",Patna,Rajasthan,2.4,2025-06-24 11:22:24.219702,Active
+SELL01083,Om PLC,Lucknow,West Bengal,2.52,2025-06-25 11:22:24.219702,Active
+SELL01084,"Kar, Nath and Palla",Kolkata,Punjab,1.07,2025-06-26 11:22:24.219702,Inactive
+SELL01085,Dass-Sethi,Jaipur,Gujarat,1.19,2025-06-27 11:22:24.219702,Inactive
+SELL01086,Kala and Sons,Indore,Gujarat,2.45,2025-06-28 11:22:24.219702,Inactive
+SELL01087,Behl Group,Vadodara,Telangana,2.17,2025-06-29 11:22:24.219702,Active
+SELL01088,"Lal, Saxena and Mistry",Delhi,Punjab,2.01,2025-06-30 11:22:24.219702,Active
+SELL01089,Khanna-Mitter,Patna,West Bengal,2.63,2025-07-01 11:22:24.219702,Inactive
+SELL01090,"Mishra, Reddy and Mukhopadhyay",Bengaluru,Odisha,1.06,2025-07-02 11:22:24.219702,Active
+SELL01091,Shan-Saraf,Kolkata,Tamil Nadu,4.54,2025-07-03 11:22:24.219702,Inactive
+SELL01092,Dube-Bal,Indore,Delhi,3.61,2025-07-04 11:22:24.219702,Inactive
+SELL01093,Chadha-Khurana,Bengaluru,West Bengal,1.44,2025-07-05 11:22:24.219702,Banned
+SELL01094,Misra-Kala,Jaipur,Rajasthan,3.74,2025-07-06 11:22:24.219702,Active
+SELL01095,"Pau, Mital and Sachdev",Lucknow,Haryana,2.05,2025-07-07 11:22:24.219702,Inactive
+SELL01096,"Wason, Patil and Barman",Chennai,Karnataka,2.33,2025-07-08 11:22:24.219702,Inactive
+SELL01097,Pai-Setty,Bhopal,Rajasthan,2.7,2025-07-09 11:22:24.219702,Banned
+SELL01098,"Pradhan, Nadig and Chatterjee",Mumbai,Bihar,3.29,2025-07-10 11:22:24.219702,Inactive
+SELL01099,"Bhattacharyya, Ahuja and Randhawa",Delhi,Odisha,1.05,2025-07-11 11:22:24.219702,Active
+SELL01100,"Warrior, Narang and Narasimhan",Kolkata,Punjab,3.81,2025-07-12 11:22:24.219702,Banned
+SELL01101,Sarma Inc,Indore,Haryana,3.87,2025-07-13 11:22:24.219702,Inactive
+SELL01102,Vala-Varghese,Bengaluru,Maharashtra,1.09,2025-07-14 11:22:24.219702,Active
+SELL01103,Manda-Bandi,Bhopal,Kerala,1.56,2025-07-15 11:22:24.219702,Inactive
+SELL01104,"Bhatti, Chaudhari and De",Lucknow,Bihar,2.41,2025-07-16 11:22:24.219702,Banned
+SELL01105,Sandhu-Raman,Kochi,Madhya Pradesh,1.25,2025-07-17 11:22:24.219702,Active
+SELL01106,Sethi-Raghavan,Indore,Uttar Pradesh,2.8,2025-07-18 11:22:24.219702,Active
+SELL01107,Ratti-Raju,Noida,Madhya Pradesh,2.76,2025-07-19 11:22:24.219702,Banned
+SELL01108,Prakash-Nayak,Hyderabad,Punjab,2.63,2025-07-20 11:22:24.219702,Banned
+SELL01109,"Jaggi, Sekhon and Cheema",Chandigarh,Tamil Nadu,1.51,2025-07-21 11:22:24.219702,Banned
+SELL01110,Chaudhuri LLC,Lucknow,Gujarat,4.86,2025-07-22 11:22:24.219702,Banned
+SELL01111,Shanker-Balay,Patna,Haryana,2.31,2025-07-23 11:22:24.219702,Banned
+SELL01112,Prashad Group,Lucknow,Delhi,4.11,2025-07-24 11:22:24.219702,Active
+SELL01113,Nagarajan-Mangal,Bhopal,Tamil Nadu,1.09,2025-07-25 11:22:24.219702,Banned
+SELL01114,"Comar, Bedi and Gandhi",Bengaluru,Punjab,1.59,2025-07-26 11:22:24.219702,Banned
+SELL01115,"Bandi, Chanda and Panchal",Bengaluru,Haryana,2.01,2025-07-27 11:22:24.219702,Banned
+SELL01116,"Palla, Om and Batra",Kolkata,Punjab,3.17,2025-07-28 11:22:24.219702,Active
+SELL01117,Raman Group,Visakhapatnam,Andhra Pradesh,4.0,2025-07-29 11:22:24.219702,Banned
+SELL01118,"Pingle, Nori and Mitra",Indore,Kerala,4.61,2025-07-30 11:22:24.219702,Inactive
+SELL01119,Chana-Saran,Kochi,Telangana,4.83,2025-07-31 11:22:24.219702,Inactive
+SELL01120,Dass Group,Visakhapatnam,Telangana,4.45,2025-08-01 11:22:24.219702,Active
+SELL01121,Bava PLC,Patna,Andhra Pradesh,1.95,2025-08-02 11:22:24.219702,Inactive
+SELL01122,Grover-Bajwa,Chennai,Kerala,4.05,2025-08-03 11:22:24.219702,Banned
+SELL01123,"Bala, Barman and Thaker",Chandigarh,West Bengal,2.46,2025-08-04 11:22:24.219702,Inactive
+SELL01124,"Bhalla, Parekh and Sarna",Chennai,Odisha,4.53,2025-08-05 11:22:24.219702,Active
+SELL01125,Batta Inc,Bhopal,Haryana,4.94,2025-08-06 11:22:24.219702,Banned
+SELL01126,"Butala, Sagar and Aggarwal",Delhi,Punjab,2.78,2025-08-07 11:22:24.219702,Inactive
+SELL01127,Khanna and Sons,Lucknow,Tamil Nadu,4.33,2025-08-08 11:22:24.219702,Active
+SELL01128,Sankaran Inc,Chandigarh,Telangana,3.54,2025-08-09 11:22:24.219702,Active
+SELL01129,"Kapadia, Kaur and Sahni",Mumbai,Odisha,3.52,2025-08-10 11:22:24.219702,Inactive
+SELL01130,Chadha-Shanker,Hyderabad,Uttar Pradesh,2.38,2025-08-11 11:22:24.219702,Inactive
+SELL01131,Jhaveri Group,Delhi,Rajasthan,1.43,2025-08-12 11:22:24.219702,Active
+SELL01132,"Dasgupta, Mander and Kant",Hyderabad,Odisha,,2025-08-13 11:22:24.219702,Inactive
+SELL01133,Dalal-Acharya,Bengaluru,Punjab,1.94,2025-08-14 11:22:24.219702,Inactive
+SELL01134,Raju PLC,Nagpur,Bihar,1.11,2025-08-15 11:22:24.219702,Inactive
+SELL01135,Tak Group,Patna,Bihar,3.67,2025-08-16 11:22:24.219702,Banned
+SELL01136,"Bhardwaj, Ranganathan and Dhillon",Jaipur,Punjab,3.13,2025-08-17 11:22:24.219702,Active
+SELL01137,Dua-Chandran,Visakhapatnam,Maharashtra,1.54,2025-08-18 11:22:24.219702,Inactive
+SELL01138,Saha and Sons,Delhi,Kerala,2.35,2025-08-19 11:22:24.219702,Inactive
+SELL01139,Doshi-Raja,Lucknow,Maharashtra,3.58,2025-08-20 11:22:24.219702,Inactive
+SELL01140,"Lalla, Chaudhry and Goswami",Pune,Odisha,2.06,2025-08-21 11:22:24.219702,Active
+SELL01141,"Balay, Kakar and Master",Surat,Delhi,3.34,2025-08-22 11:22:24.219702,Inactive
+SELL01142,Oza-Gupta,Nagpur,Punjab,3.66,2025-08-23 11:22:24.219702,Inactive
+SELL01143,Sampath LLC,Visakhapatnam,Tamil Nadu,2.24,2025-08-24 11:22:24.219702,Banned
+SELL01144,Tailor PLC,Pune,Maharashtra,3.26,2025-08-25 11:22:24.219702,Inactive
+SELL01145,Ratta Group,Surat,Bihar,3.54,2025-08-26 11:22:24.219702,Inactive
+SELL01146,"Arya, Solanki and Kanda",Mumbai,Telangana,3.01,2025-08-27 11:22:24.219702,Banned
+SELL01147,Sinha LLC,Bengaluru,Maharashtra,1.05,2025-08-28 11:22:24.219702,Banned
+SELL01148,Sachar Ltd,Pune,Uttar Pradesh,1.36,2025-08-29 11:22:24.219702,Active
+SELL01149,"Mutti, Sur and Mann",Lucknow,Gujarat,4.08,2025-08-30 11:22:24.219702,Active
+SELL01150,"Ramaswamy, Prabhakar and Varty",Delhi,Telangana,2.27,2025-08-31 11:22:24.219702,Active
+SELL01151,Solanki-Roy,Jaipur,Telangana,3.28,2025-09-01 11:22:24.219702,Banned
+SELL01152,Basu-Varma,Mumbai,Gujarat,2.61,2025-09-02 11:22:24.219702,Active
+SELL01153,Virk-Deshmukh,Jaipur,Delhi,4.8,2025-09-03 11:22:24.219702,Inactive
+SELL01154,Ganesan-Ranganathan,Vadodara,Uttar Pradesh,1.51,2025-09-04 11:22:24.219702,Banned
+SELL01155,Kunda PLC,Visakhapatnam,Tamil Nadu,1.42,2025-09-05 11:22:24.219702,Inactive
+SELL01156,"Sampath, Datta and Mangal",Vadodara,Odisha,1.96,2025-09-06 11:22:24.219702,Active
+SELL01157,Nadkarni-Parsa,Vadodara,West Bengal,1.79,2025-09-07 11:22:24.219702,Active
+SELL01158,"Dugal, Bhagat and Goda",Patna,Madhya Pradesh,3.03,2025-09-08 11:22:24.219702,Active
+SELL01159,Naidu-Mander,Indore,Tamil Nadu,2.46,2025-09-09 11:22:24.219702,Inactive
+SELL01160,Comar-Bir,Lucknow,Haryana,3.94,2025-09-10 11:22:24.219702,Banned
+SELL01161,Mangat-Batta,Vadodara,Delhi,4.1,2025-09-11 11:22:24.219702,Banned
+SELL01162,"Tandon, De and Halder",Hyderabad,Maharashtra,4.57,2025-09-12 11:22:24.219702,Active
+SELL01163,"Sarma, Sheth and Issac",Chandigarh,West Bengal,1.21,2025-09-13 11:22:24.219702,Banned
+SELL01164,"Lalla, Bhatia and Devi",Bengaluru,Uttar Pradesh,1.58,2025-09-14 11:22:24.219702,Active
+SELL01165,Sankaran PLC,Lucknow,Madhya Pradesh,1.15,2025-09-15 11:22:24.219702,Active
+SELL01166,Nayar Inc,Jaipur,Andhra Pradesh,3.21,2025-09-16 11:22:24.219702,Inactive
+SELL01167,Tella-Bawa,Surat,Uttar Pradesh,2.7,2025-09-17 11:22:24.219702,Active
+SELL01168,Halder-Apte,Patna,Maharashtra,4.97,2025-09-18 11:22:24.219702,Inactive
+SELL01169,Edwin LLC,Pune,Haryana,4.09,2025-09-19 11:22:24.219702,Inactive
+SELL01170,"Ramesh, Ram and Choudhury",Ahmedabad,Bihar,4.87,2025-09-20 11:22:24.219702,Active
+SELL01171,Subramanian-Tara,Nagpur,Haryana,2.5,2025-09-21 11:22:24.219702,Active
+SELL01172,Subramanian LLC,Visakhapatnam,Delhi,2.61,2025-09-22 11:22:24.219702,Banned
+SELL01173,Srivastava-Bhargava,Chandigarh,Uttar Pradesh,2.94,2025-09-23 11:22:24.219702,Active
+SELL01174,"Mishra, Barad and Ravi",Lucknow,Madhya Pradesh,3.77,2025-09-24 11:22:24.219702,Banned
+SELL01175,"Sagar, Batra and Salvi",Kolkata,Rajasthan,4.46,2025-09-25 11:22:24.219702,Banned
+SELL01176,Basak-Narayan,Kochi,Gujarat,2.54,2025-09-26 11:22:24.219702,Banned
+SELL01177,Lata Group,Jaipur,Rajasthan,4.76,2025-09-27 11:22:24.219702,Banned
+SELL01178,Datta Ltd,Jaipur,Rajasthan,4.88,2025-09-28 11:22:24.219702,Active
+SELL01179,"Dey, Mall and Sabharwal",Indore,Tamil Nadu,4.01,2025-09-29 11:22:24.219702,Active
+SELL01180,Mohan-Naik,Ahmedabad,Karnataka,3.24,2025-09-30 11:22:24.219702,Active
+SELL01181,Gulati-Kalla,Lucknow,Maharashtra,4.24,2025-10-01 11:22:24.219702,Inactive
+SELL01182,Ravi-Saha,Chennai,Tamil Nadu,2.33,2025-10-02 11:22:24.219702,Active
+SELL01183,Sarna Ltd,Bengaluru,Odisha,3.05,2025-10-03 11:22:24.219702,Active
+SELL01184,Banerjee Ltd,Surat,Odisha,4.56,2025-10-04 11:22:24.219702,Banned
+SELL01185,Zachariah-Aggarwal,Ahmedabad,Madhya Pradesh,2.53,2025-10-05 11:22:24.219702,Inactive
+SELL01186,Anand-Hora,Nagpur,Delhi,,2025-10-06 11:22:24.219702,Active
+SELL01187,Ravel Group,Mumbai,Andhra Pradesh,1.56,2025-10-07 11:22:24.219702,Banned
+SELL01188,"Rau, Chatterjee and Walia",Kochi,Uttar Pradesh,3.67,2025-10-08 11:22:24.219702,Inactive
+SELL01189,Mall-Chad,Delhi,Karnataka,,2025-10-09 11:22:24.219702,Active
+SELL01190,Varkey LLC,Lucknow,West Bengal,1.91,2025-10-10 11:22:24.219702,Banned
+SELL01191,"Kumar, Sawhney and Nagar",Lucknow,Madhya Pradesh,4.44,2025-10-11 11:22:24.219702,Banned
+SELL01192,"Madan, Mall and Kohli",Lucknow,Andhra Pradesh,3.7,2025-10-12 11:22:24.219702,Banned
+SELL01193,"Sibal, Palan and Walia",Noida,Delhi,0.0,2025-10-13 11:22:24.219702,Banned
+SELL01194,Dhillon-Shere,Kolkata,Gujarat,2.88,2025-10-14 11:22:24.219702,Inactive
+SELL01195,"Agrawal, Nanda and Amble",Kolkata,Rajasthan,1.75,2025-10-15 11:22:24.219702,Banned
+SELL01196,"Bansal, Manda and Tella",Chandigarh,West Bengal,1.71,2025-10-16 11:22:24.219702,Banned
+SELL01197,Kuruvilla-Virk,Delhi,Gujarat,1.88,2025-10-17 11:22:24.219702,Banned
+SELL01198,"Borah, Shukla and Virk",Delhi,Delhi,4.75,2025-10-18 11:22:24.219702,Banned
+SELL01199,Kaur PLC,Delhi,Punjab,1.88,2025-10-19 11:22:24.219702,Inactive
+SELL01200,Bassi-Jhaveri,Mumbai,Madhya Pradesh,4.73,2025-10-20 11:22:24.219702,Active
+SELL01201,"Pathak, Kapur and Mukherjee",Bengaluru,Bihar,3.54,2025-10-21 11:22:24.219702,Active
+SELL01202,Vala Ltd,Delhi,Andhra Pradesh,2.65,2025-10-22 11:22:24.219702,Banned
+SELL01203,Loke Ltd,Indore,Bihar,1.64,2025-10-23 11:22:24.219702,Active
+SELL01204,Kannan-Boase,Nagpur,Uttar Pradesh,3.02,2025-10-24 11:22:24.219702,Inactive
+SELL01205,"Kumar, Mohanty and Bera",Kolkata,Maharashtra,,2025-10-25 11:22:24.219702,Inactive
+SELL01206,Agate-Sarkar,Noida,Uttar Pradesh,4.34,2025-10-26 11:22:24.219702,Active
+SELL01207,Dugar Ltd,Lucknow,Andhra Pradesh,1.69,2025-10-27 11:22:24.219702,Banned
+SELL01208,Natt-Ranganathan,Chennai,Odisha,2.79,2025-10-28 11:22:24.219702,Banned
+SELL01209,Kamdar-Sant,Lucknow,Tamil Nadu,1.1,2025-10-29 11:22:24.219702,Active
+SELL01210,Nagar LLC,Surat,Kerala,2.59,2025-10-30 11:22:24.219702,Inactive
+SELL01211,"Kulkarni, Vohra and Bajaj",Hyderabad,Uttar Pradesh,,2025-10-31 11:22:24.219702,Banned
+SELL01212,"Varughese, Subramaniam and Sami",Chennai,Gujarat,3.63,2025-11-01 11:22:24.219702,Banned
+SELL01213,"Dugar, Yadav and Krishnan",Jaipur,Kerala,,2025-11-02 11:22:24.219702,Active
+SELL01214,Ravi-Nagy,Chandigarh,Karnataka,,2025-11-03 11:22:24.219702,Banned
+SELL01215,Vyas-Krishna,Bengaluru,Odisha,4.35,2025-11-04 11:22:24.219702,Inactive
+SELL01216,Lata and Sons,Mumbai,Uttar Pradesh,3.11,2025-11-05 11:22:24.219702,Banned
+SELL01217,"Balasubramanian, Sen and Sandal",Kolkata,Odisha,1.62,2025-11-06 11:22:24.219702,Active
+SELL01218,"Kohli, Mitter and Modi",Nagpur,Madhya Pradesh,1.77,2025-11-07 11:22:24.219702,Banned
+SELL01219,Bandi and Sons,Visakhapatnam,Punjab,3.81,2025-11-08 11:22:24.219702,Banned
+SELL01220,"Sen, Sangha and Sami",Surat,Karnataka,4.69,2025-11-09 11:22:24.219702,Banned
+SELL01221,"Manne, Kala and Brahmbhatt",Delhi,Andhra Pradesh,2.6,2025-11-10 11:22:24.219702,Inactive
+SELL01222,Arora-Boase,Kochi,Kerala,3.86,2025-11-11 11:22:24.219702,Active
+SELL01223,Kashyap Ltd,Surat,Tamil Nadu,3.52,2025-11-12 11:22:24.219702,Banned
+SELL01224,"Datta, Wali and Sani",Delhi,Uttar Pradesh,3.79,2025-11-13 11:22:24.219702,Inactive
+SELL01225,"Batra, Wason and Basak",Pune,Odisha,3.46,2025-11-14 11:22:24.219702,Active
+SELL01226,"Gola, Wadhwa and Kale",Pune,Odisha,4.07,2025-11-15 11:22:24.219702,Active
+SELL01227,Tak PLC,Vadodara,Bihar,1.01,2025-11-16 11:22:24.219702,Active
+SELL01228,"Chand, Raja and Rege",Surat,Telangana,2.38,2025-11-17 11:22:24.219702,Active
+SELL01229,Garde-Oza,Bengaluru,Punjab,,2025-11-18 11:22:24.219702,Active
+SELL01230,Thakur Group,Jaipur,Bihar,1.57,2025-11-19 11:22:24.219702,Banned
+SELL01231,"Ramakrishnan, Pal and Memon",Bhopal,Kerala,2.53,2025-11-20 11:22:24.219702,Inactive
+SELL01232,"Oak, Vig and Sani",Nagpur,Tamil Nadu,2.2,2025-11-21 11:22:24.219702,Active
+SELL01233,Rout-Khatri,Chennai,Delhi,2.69,2025-11-22 11:22:24.219702,Active
+SELL01234,Basu-Mammen,Patna,Delhi,1.05,2025-11-23 11:22:24.219702,Active
+SELL01235,Dutt-Patla,Lucknow,Maharashtra,,2025-11-24 11:22:24.219702,Inactive
+SELL01236,Dutta-Mital,Delhi,Andhra Pradesh,1.92,2025-11-25 11:22:24.219702,Active
+SELL01237,Pall-Gandhi,Indore,Madhya Pradesh,4.03,2025-11-26 11:22:24.219702,Active
+SELL01238,Arya-Chowdhury,Bhopal,Maharashtra,1.03,2025-11-27 11:22:24.219702,Banned
+SELL01239,Munshi-Dube,Indore,West Bengal,2.53,2025-11-28 11:22:24.219702,Active
+SELL01240,Sagar LLC,Kolkata,Telangana,2.81,2025-11-29 11:22:24.219702,Inactive
+SELL01241,Mahajan-Shankar,Nagpur,Bihar,2.45,2025-11-30 11:22:24.219702,Banned
+SELL01242,Rastogi-Banik,Jaipur,Delhi,4.28,2025-12-01 11:22:24.219702,Banned
+SELL01243,"Dhaliwal, Srivastava and Luthra",Lucknow,Telangana,4.64,2025-12-02 11:22:24.219702,Banned
+SELL01244,Naik-Chada,Patna,Delhi,3.2,2025-12-03 11:22:24.219702,Banned
+SELL01245,Roy-Master,Chennai,Haryana,1.26,2025-12-04 11:22:24.219702,Banned
+SELL01246,Chanda-Ratta,Bhopal,Karnataka,2.07,2025-12-05 11:22:24.219702,Inactive
+SELL01247,Bhakta LLC,Kolkata,Tamil Nadu,1.5,2025-12-06 11:22:24.219702,Inactive
+SELL01248,"Radhakrishnan, Thakkar and Contractor",Kolkata,Odisha,4.25,2025-12-07 11:22:24.219702,Banned
+SELL01249,Kulkarni-Borah,Visakhapatnam,Bihar,1.25,2025-12-08 11:22:24.219702,Banned
+SELL01250,Sridhar LLC,Hyderabad,Kerala,4.48,2025-12-09 11:22:24.219702,Banned
+SELL01251,Sharaf-Ranganathan,Kolkata,Maharashtra,3.85,2025-12-10 11:22:24.219702,Active
+SELL01252,Uppal and Sons,Delhi,Bihar,3.66,2025-12-11 11:22:24.219702,Inactive
+SELL01253,"Mahal, Sastry and Dewan",Patna,Andhra Pradesh,2.7,2025-12-12 11:22:24.219702,Inactive
+SELL01254,Oza-Das,Bengaluru,Haryana,1.33,2025-12-13 11:22:24.219702,Banned
+SELL01255,Zacharia-Sahota,Bhopal,Rajasthan,2.99,2025-12-14 11:22:24.219702,Active
+SELL01256,Nair and Sons,Jaipur,Telangana,1.31,2025-12-15 11:22:24.219702,Active
+SELL01257,Vohra Inc,Lucknow,Odisha,4.35,2025-12-16 11:22:24.219702,Inactive
+SELL01258,Lad Ltd,Mumbai,Bihar,2.38,2025-12-17 11:22:24.219702,Banned
+SELL01259,"Nayar, Chad and Dhillon",Lucknow,Telangana,3.05,2025-12-18 11:22:24.219702,Inactive
+SELL01260,Butala-Gulati,Lucknow,Kerala,2.93,2025-12-19 11:22:24.219702,Inactive
+SELL01261,Lad Ltd,Pune,Kerala,,2025-12-20 11:22:24.219702,Inactive
+SELL01262,Munshi Inc,Noida,Rajasthan,3.03,2025-12-21 11:22:24.219702,Inactive
+SELL01263,Kata-Pant,Delhi,West Bengal,1.73,2025-12-22 11:22:24.219702,Active
+SELL01264,"Chad, Karan and Palla",Jaipur,Odisha,3.94,2025-12-23 11:22:24.219702,Banned
+SELL01265,Mander-Nath,Visakhapatnam,Tamil Nadu,4.23,2025-12-24 11:22:24.219702,Active
+SELL01266,Behl-Chad,Lucknow,Gujarat,3.78,2025-12-25 11:22:24.219702,Active
+SELL01267,"Mohan, Nagarajan and Guha",Vadodara,Bihar,3.68,2025-12-26 11:22:24.219702,Banned
+SELL01268,"Khanna, Loke and Wagle",Jaipur,Odisha,,2025-12-27 11:22:24.219702,Inactive
+SELL01269,Saha-Patel,Kochi,Maharashtra,2.48,2025-12-28 11:22:24.219702,Banned
+SELL01270,"Brahmbhatt, Sane and Ravel",Chandigarh,Uttar Pradesh,1.75,2025-12-29 11:22:24.219702,Banned
+SELL01271,"Iyengar, Kant and Bandi",Kolkata,Uttar Pradesh,2.18,2025-12-30 11:22:24.219702,Inactive
+SELL01272,"Loke, Patel and Chand",Kolkata,Maharashtra,3.08,2025-12-31 11:22:24.219702,Banned
+SELL01273,"Bala, Chandran and Sodhi",Noida,Karnataka,4.02,2026-01-01 11:22:24.219702,Active
+SELL01274,Patla-Hayer,Vadodara,Bihar,1.8,2026-01-02 11:22:24.219702,Inactive
+SELL01275,Munshi and Sons,Visakhapatnam,Karnataka,4.33,2026-01-03 11:22:24.219702,Banned
+SELL01276,"Varkey, Bera and Aurora",Vadodara,Delhi,2.75,2026-01-04 11:22:24.219702,Banned
+SELL01277,"Kakar, Palan and Dada",Chennai,Telangana,2.03,2026-01-05 11:22:24.219702,Active
+SELL01278,Dugar LLC,Kolkata,Madhya Pradesh,3.62,2026-01-06 11:22:24.219702,Active
+SELL01279,Balakrishnan-Sridhar,Visakhapatnam,Bihar,2.1,2026-01-07 11:22:24.219702,Active
+SELL01280,Mahal LLC,Bengaluru,Odisha,2.33,2026-01-08 11:22:24.219702,Banned
+SELL01281,Gole LLC,Visakhapatnam,Delhi,2.67,2026-01-09 11:22:24.219702,Active
+SELL01282,Chakrabarti LLC,Chennai,Madhya Pradesh,3.07,2026-01-10 11:22:24.219702,Banned
+SELL01283,Dey Group,Mumbai,Gujarat,3.42,2026-01-11 11:22:24.219702,Active
+SELL01284,Sandal-Vasa,Kolkata,Delhi,2.5,2026-01-12 11:22:24.219702,Active
+SELL01285,Sibal-Vaidya,Indore,Telangana,1.05,2026-01-13 11:22:24.219702,Inactive
+SELL01286,"Rajan, Memon and Ramanathan",Lucknow,Maharashtra,2.43,2026-01-14 11:22:24.219702,Inactive
+SELL01287,"Amble, Banerjee and Radhakrishnan",Bengaluru,West Bengal,,2026-01-15 11:22:24.219702,Inactive
+SELL01288,Som and Sons,Kolkata,West Bengal,1.88,2026-01-16 11:22:24.219702,Banned
+SELL01289,Sankaran-Ghosh,Kolkata,Delhi,1.56,2026-01-17 11:22:24.219702,Banned
+SELL01290,Shanker-Kaur,Ahmedabad,Uttar Pradesh,2.55,2026-01-18 11:22:24.219702,Inactive
+SELL01291,Nayar PLC,Noida,Delhi,4.14,2026-01-19 11:22:24.219702,Active
+SELL01292,Bail Ltd,Bhopal,Karnataka,1.11,2026-01-20 11:22:24.219702,Active
+SELL01293,Gulati-Chacko,Vadodara,Rajasthan,2.85,2026-01-21 11:22:24.219702,Inactive
+SELL01294,"Dua, Chaudry and Edwin",Nagpur,Madhya Pradesh,,2026-01-22 11:22:24.219702,Banned
+SELL01295,Ramesh Inc,Chandigarh,Punjab,2.52,2026-01-23 11:22:24.219702,Banned
+SELL01296,"Parmer, Hayer and Bhargava",Visakhapatnam,Bihar,3.41,2026-01-24 11:22:24.219702,Banned
+SELL01297,"Kannan, Lanka and Puri",Patna,Rajasthan,1.59,2026-01-25 11:22:24.219702,Active
+SELL01298,Dugar-Deshpande,Chandigarh,Uttar Pradesh,1.12,2026-01-26 11:22:24.219702,Active
+SELL01299,Mahajan Group,Chennai,Telangana,1.46,2026-01-27 11:22:24.219702,Banned
+SELL01300,"Bose, Chakraborty and Deo",Pune,Maharashtra,1.89,2026-01-28 11:22:24.219702,Active
+SELL01301,"Bains, Shan and Bajaj",Chennai,Gujarat,1.75,2026-01-29 11:22:24.219702,Inactive
+SELL01302,Bakshi LLC,Ahmedabad,Odisha,1.39,2026-01-30 11:22:24.219702,Banned
+SELL01303,"Vyas, Murty and Chaudhary",Nagpur,West Bengal,3.87,2026-01-31 11:22:24.219702,Banned
+SELL01304,"Raval, Bali and Borra",Kolkata,Odisha,3.66,2026-02-01 11:22:24.219702,Active
+SELL01305,Soni Ltd,Indore,Delhi,3.29,2026-02-02 11:22:24.219702,Active
+SELL01306,Sem-Karnik,Noida,Delhi,4.17,2026-02-03 11:22:24.219702,Banned
+SELL01307,Chowdhury Ltd,Patna,Madhya Pradesh,1.61,2026-02-04 11:22:24.219702,Inactive
+SELL01308,"Vohra, Kohli and Mital",Lucknow,Tamil Nadu,1.34,2026-02-05 11:22:24.219702,Banned
+SELL01309,Pant-Krishnamurthy,Surat,Kerala,3.56,2026-02-06 11:22:24.219702,Banned
+SELL01310,Chopra-Keer,Pune,Uttar Pradesh,2.43,2026-02-07 11:22:24.219702,Inactive
+SELL01311,Date Inc,Delhi,Rajasthan,2.86,2026-02-08 11:22:24.219702,Inactive
+SELL01312,"Nigam, Sehgal and Sur",Vadodara,Kerala,3.56,2026-02-09 11:22:24.219702,Banned
+SELL01313,Rajan-Date,Nagpur,Gujarat,3.12,2026-02-10 11:22:24.219702,Inactive
+SELL01314,Oak Inc,Noida,Karnataka,3.81,2026-02-11 11:22:24.219702,Banned
+SELL01315,Varghese-Basak,Surat,Bihar,1.89,2026-02-12 11:22:24.219702,Banned
+SELL01316,"Swamy, Ahluwalia and Shetty",Vadodara,Rajasthan,3.88,2026-02-13 11:22:24.219702,Inactive
+SELL01317,Dalal and Sons,Bhopal,Odisha,4.94,2026-02-14 11:22:24.219702,Banned
+SELL01318,Hayer PLC,Mumbai,Maharashtra,3.42,2026-02-15 11:22:24.219702,Banned
+SELL01319,"Singhal, Luthra and Rao",Indore,Odisha,4.24,2026-02-16 11:22:24.219702,Inactive
+SELL01320,"Pradhan, Prabhakar and Tiwari",Vadodara,Haryana,2.23,2026-02-17 11:22:24.219702,Banned
+SELL01321,Krishnan Ltd,Bhopal,Odisha,3.43,2026-02-18 11:22:24.219702,Inactive
+SELL01322,Kari-Parekh,Noida,Rajasthan,2.27,2026-02-19 11:22:24.219702,Active
+SELL01323,"Anand, Varma and Mukhopadhyay",Jaipur,Delhi,1.1,2026-02-20 11:22:24.219702,Banned
+SELL01324,Mahal Inc,Chennai,Kerala,2.56,2026-02-21 11:22:24.219702,Inactive
+SELL01325,"Merchant, Yadav and Bahri",Kochi,Uttar Pradesh,3.01,2026-02-22 11:22:24.219702,Banned
+SELL01326,Kumar Ltd,Patna,Uttar Pradesh,1.1,2026-02-23 11:22:24.219702,Banned
+SELL01327,"Bakshi, Balakrishnan and Kanda",Delhi,Madhya Pradesh,1.02,2026-02-24 11:22:24.219702,Active
+SELL01328,Raju-Thakkar,Nagpur,Andhra Pradesh,2.12,2026-02-25 11:22:24.219702,Active
+SELL01329,Kadakia PLC,Lucknow,Bihar,1.61,2026-02-26 11:22:24.219702,Banned
+SELL01330,Ramanathan-Wagle,Vadodara,Uttar Pradesh,4.86,2026-02-27 11:22:24.219702,Active
+SELL01331,Majumdar Group,Hyderabad,Kerala,3.82,2026-02-28 11:22:24.219702,Inactive
+SELL01332,"Mammen, Bath and Ram",Vadodara,Tamil Nadu,1.74,2026-03-01 11:22:24.219702,Active
+SELL01333,"Varma, Acharya and Seth",Vadodara,West Bengal,2.73,2026-03-02 11:22:24.219702,Inactive
+SELL01334,Memon Group,Kolkata,Uttar Pradesh,2.52,2026-03-03 11:22:24.219702,Inactive
+SELL01335,Palla PLC,Lucknow,Delhi,4.19,2026-03-04 11:22:24.219702,Banned
+SELL01336,"Kade, Shan and Koshy",Nagpur,Gujarat,2.14,2026-03-05 11:22:24.219702,Inactive
+SELL01337,Bhat Ltd,Lucknow,Delhi,4.5,2026-03-06 11:22:24.219702,Inactive
+SELL01338,Jaggi-Om,Surat,Rajasthan,1.04,2026-03-07 11:22:24.219702,Inactive
+SELL01339,Guha Inc,Nagpur,Bihar,1.21,2026-03-08 11:22:24.219702,Banned
+SELL01340,Rout PLC,Chandigarh,Madhya Pradesh,4.67,2026-03-09 11:22:24.219702,Active
+SELL01341,Madan-Buch,Visakhapatnam,Haryana,4.73,2026-03-10 11:22:24.219702,Inactive
+SELL01342,Kala and Sons,Indore,Rajasthan,2.57,2026-03-11 11:22:24.219702,Banned
+SELL01343,Butala and Sons,Mumbai,Kerala,1.03,2026-03-12 11:22:24.219702,Banned
+SELL01344,Kant Inc,Mumbai,Telangana,4.22,2026-03-13 11:22:24.219702,Banned
+SELL01345,Karnik-Dutta,Kochi,West Bengal,,2026-03-14 11:22:24.219702,Active
+SELL01346,"Vyas, Ratti and Naidu",Nagpur,Haryana,1.25,2026-03-15 11:22:24.219702,Active
+SELL01347,Sangha-Mannan,Pune,Uttar Pradesh,3.61,2026-03-16 11:22:24.219702,Active
+SELL01348,Chander-Ghose,Hyderabad,Kerala,1.61,2026-03-17 11:22:24.219702,Inactive
+SELL01349,Borah-Bhardwaj,Chandigarh,Delhi,3.12,2026-03-18 11:22:24.219702,Banned
+SELL01350,Handa Ltd,Visakhapatnam,Delhi,3.48,2026-03-19 11:22:24.219702,Active
+SELL01351,Nagi Inc,Delhi,Punjab,4.61,2026-03-20 11:22:24.219702,Banned
+SELL01352,"Pandya, Narayan and Ramanathan",Lucknow,Maharashtra,1.28,2026-03-21 11:22:24.219702,Banned
+SELL01353,Goel PLC,Hyderabad,Tamil Nadu,4.09,2026-03-22 11:22:24.219702,Active
+SELL01354,Lanka PLC,Mumbai,Bihar,4.77,2026-03-23 11:22:24.219702,Inactive
+SELL01355,Ben-Mammen,Pune,Andhra Pradesh,2.29,2026-03-24 11:22:24.219702,Banned
+SELL01356,Choudhary LLC,Patna,Maharashtra,2.97,2026-03-25 11:22:24.219702,Banned
+SELL01357,Kade-Kanda,Kolkata,Rajasthan,1.11,2026-03-26 11:22:24.219702,Banned
+SELL01358,Dalal PLC,Chennai,Gujarat,4.65,2026-03-27 11:22:24.219702,Inactive
+SELL01359,Datta-Bhattacharyya,Surat,Karnataka,2.98,2026-03-28 11:22:24.219702,Inactive
+SELL01360,Walia-Pandya,Pune,Madhya Pradesh,2.47,2026-03-29 11:22:24.219702,Inactive
+SELL01361,"Upadhyay, Pall and Naik",Nagpur,Haryana,3.06,2026-03-30 11:22:24.219702,Inactive
+SELL01362,"Bandi, Soni and Sethi",Surat,Odisha,3.06,2026-03-31 11:22:24.219702,Active
+SELL01363,Narain Ltd,Delhi,Odisha,4.35,2026-04-01 11:22:24.219702,Inactive
+SELL01364,Saraf-Bajaj,Vadodara,Odisha,3.92,2026-04-02 11:22:24.219702,Active
+SELL01365,"Basak, Babu and Balay",Patna,Kerala,4.51,2026-04-03 11:22:24.219702,Inactive
+SELL01366,"Magar, Sahni and Gulati",Delhi,Haryana,3.22,2026-04-04 11:22:24.219702,Inactive
+SELL01367,Chaudhuri Ltd,Chandigarh,Andhra Pradesh,1.53,2026-04-05 11:22:24.219702,Inactive
+SELL01368,"Lanka, Atwal and Rajan",Chennai,Andhra Pradesh,2.02,2026-04-06 11:22:24.219702,Active
+SELL01369,Garg PLC,Ahmedabad,Maharashtra,2.48,2026-04-07 11:22:24.219702,Inactive
+SELL01370,Merchant-Venkatesh,Kolkata,Maharashtra,,2026-04-08 11:22:24.219702,Inactive
+SELL01371,Mohanty-Maharaj,Visakhapatnam,Tamil Nadu,3.32,2026-04-09 11:22:24.219702,Active
+SELL01372,Sahota-Palan,Lucknow,Karnataka,3.42,2026-04-10 11:22:24.219702,Banned
+SELL01373,Sen and Sons,Pune,Delhi,2.64,2026-04-11 11:22:24.219702,Banned
+SELL01374,"Om, Bains and Thakkar",Delhi,Madhya Pradesh,3.27,2026-04-12 11:22:24.219702,Inactive
+SELL01375,"Deshpande, Prasad and Chada",Kolkata,Karnataka,3.66,2026-04-13 11:22:24.219702,Banned
+SELL01376,"Dugar, Puri and Banik",Hyderabad,Rajasthan,1.17,2026-04-14 11:22:24.219702,Banned
+SELL01377,Nair-Cheema,Bhopal,West Bengal,4.65,2026-04-15 11:22:24.219702,Banned
+SELL01378,Chopra-Pingle,Indore,Maharashtra,2.73,2026-04-16 11:22:24.219702,Banned
+SELL01379,"Manne, Lalla and Desai",Visakhapatnam,Uttar Pradesh,2.79,2026-04-17 11:22:24.219702,Banned
+SELL01380,Reddy Inc,Vadodara,Maharashtra,9.0,2026-04-18 11:22:24.219702,Banned
+SELL01381,Verma-Bhargava,Vadodara,Kerala,2.76,2026-04-19 11:22:24.219702,Banned
+SELL01382,"Sood, Saha and Mane",Chandigarh,Rajasthan,3.56,2026-04-20 11:22:24.219702,Active
+SELL01383,"Kurian, Goel and Grewal",Lucknow,Uttar Pradesh,3.99,2026-04-21 11:22:24.219702,Active
+SELL01384,Bhat and Sons,Surat,Haryana,4.36,2026-04-22 11:22:24.219702,Active
+SELL01385,Bora-Chaudhuri,Lucknow,Bihar,4.89,2026-04-23 11:22:24.219702,Active
+SELL01386,"Sahota, Chana and Konda",Visakhapatnam,Telangana,4.09,2026-04-24 11:22:24.219702,Banned
+SELL01387,Sampath-Bhargava,Nagpur,Tamil Nadu,3.16,2026-04-25 11:22:24.219702,Active
+SELL01388,"Ahluwalia, Sarna and D’Alia",Kochi,Punjab,1.96,2026-04-26 11:22:24.219702,Banned
+SELL01389,Chhabra-Tiwari,Noida,West Bengal,3.97,2026-04-27 11:22:24.219702,Banned
+SELL01390,"Buch, Chana and Ganesh",Chennai,Maharashtra,3.14,2026-04-28 11:22:24.219702,Banned
+SELL01391,Toor-Atwal,Kolkata,Uttar Pradesh,4.25,2026-04-29 11:22:24.219702,Banned
+SELL01392,Aggarwal-Balakrishnan,Jaipur,Haryana,2.53,2026-04-30 11:22:24.219702,Banned
+SELL01393,Raja-Balakrishnan,Nagpur,Bihar,3.99,2026-05-01 11:22:24.219702,Active
+SELL01394,"Das, Singh and Arora",Visakhapatnam,Uttar Pradesh,1.62,2026-05-02 11:22:24.219702,Inactive
+SELL01395,Bajwa Inc,Visakhapatnam,West Bengal,2.47,2026-05-03 11:22:24.219702,Banned
+SELL01396,"Seshadri, Grewal and Oak",Visakhapatnam,Tamil Nadu,3.52,2026-05-04 11:22:24.219702,Active
+SELL01397,Gole LLC,Noida,Telangana,4.24,2026-05-05 11:22:24.219702,Banned
+SELL01398,Suresh Inc,Surat,Bihar,3.17,2026-05-06 11:22:24.219702,Banned
+SELL01399,"Prakash, Chawla and Chawla",Lucknow,Odisha,4.16,2026-05-07 11:22:24.219702,Inactive
+SELL01400,Desai LLC,Bhopal,Odisha,,2026-05-08 11:22:24.219702,Active
+SELL01401,"Nayar, Pingle and Sur",Chennai,Haryana,3.97,2026-05-09 11:22:24.219702,Active
+SELL01402,Bhandari-Chatterjee,Bengaluru,Bihar,3.13,2026-05-10 11:22:24.219702,Active
+SELL01403,Gala-Singh,Kolkata,Delhi,1.43,2026-05-11 11:22:24.219702,Active
+SELL01404,Pau-Bains,Kolkata,Telangana,1.6,2026-05-12 11:22:24.219702,Inactive
+SELL01405,"Kala, Soni and Talwar",Jaipur,Bihar,2.9,2026-05-13 11:22:24.219702,Inactive
+SELL01406,Raghavan-Luthra,Delhi,Maharashtra,2.98,2026-05-14 11:22:24.219702,Inactive
+SELL01407,Patla and Sons,Surat,Maharashtra,1.97,2026-05-15 11:22:24.219702,Active
+SELL01408,Karnik PLC,Indore,Uttar Pradesh,2.49,2026-05-16 11:22:24.219702,Inactive
+SELL01409,"Basu, Sekhon and Varkey",Indore,Bihar,4.76,2026-05-17 11:22:24.219702,Inactive
+SELL01410,Chawla PLC,Vadodara,Uttar Pradesh,3.17,2026-05-18 11:22:24.219702,Inactive
+SELL01411,"Jain, Parmer and Mand",Surat,Gujarat,1.09,2026-05-19 11:22:24.219702,Inactive
+SELL01412,Apte-Som,Noida,Punjab,3.99,2026-05-20 11:22:24.219702,Banned
+SELL01413,Patla-Swamy,Bengaluru,Tamil Nadu,1.8,2026-05-21 11:22:24.219702,Banned
+SELL01414,Anne-Balakrishnan,Noida,Tamil Nadu,1.43,2026-05-22 11:22:24.219702,Active
+SELL01415,"Devi, Khanna and Sem",Indore,Karnataka,3.57,2026-05-23 11:22:24.219702,Banned
+SELL01416,Ray LLC,Hyderabad,Tamil Nadu,1.94,2026-05-24 11:22:24.219702,Banned
+SELL01417,Pingle-Varughese,Hyderabad,Uttar Pradesh,4.42,2026-05-25 11:22:24.219702,Inactive
+SELL01418,Kala-Date,Mumbai,Punjab,6.0,2026-05-26 11:22:24.219702,Inactive
+SELL01419,Thaker-Patel,Surat,Delhi,4.72,2026-05-27 11:22:24.219702,Inactive
+SELL01420,"Rama, Chandran and Dave",Vadodara,Rajasthan,1.6,2026-05-28 11:22:24.219702,Banned
+SELL01421,"Pillay, Kata and Borah",Pune,Tamil Nadu,3.1,2026-05-29 11:22:24.219702,Banned
+SELL01422,"Choudhury, Mangat and Sekhon",Hyderabad,Andhra Pradesh,4.31,2026-05-30 11:22:24.219702,Active
+SELL01423,Shukla Inc,Noida,Rajasthan,1.2,2026-05-31 11:22:24.219702,Banned
+SELL01424,Narang-Dave,Visakhapatnam,Karnataka,3.97,2026-06-01 11:22:24.219702,Banned
+SELL01425,"Savant, Upadhyay and Kannan",Chandigarh,Odisha,2.87,2026-06-02 11:22:24.219702,Banned
+SELL01426,Kant-Bath,Ahmedabad,Madhya Pradesh,3.2,2026-06-03 11:22:24.219702,Active
+SELL01427,Peri-Gandhi,Chennai,Delhi,4.15,2026-06-04 11:22:24.219702,Inactive
+SELL01428,Gole-Sehgal,Nagpur,Odisha,1.75,2026-06-05 11:22:24.219702,Inactive
+SELL01429,"Chaudry, Desai and Shanker",Hyderabad,Karnataka,1.43,2026-06-06 11:22:24.219702,Active
+SELL01430,Nanda-Saxena,Indore,Kerala,2.45,2026-06-07 11:22:24.219702,Active
+SELL01431,"Aggarwal, Ramakrishnan and Ranganathan",Vadodara,Madhya Pradesh,1.31,2026-06-08 11:22:24.219702,Inactive
+SELL01432,Wason-Saini,Nagpur,Tamil Nadu,4.52,2026-06-09 11:22:24.219702,Active
+SELL01433,Ramesh-Raghavan,Lucknow,Andhra Pradesh,4.46,2026-06-10 11:22:24.219702,Banned
+SELL01434,Chana-Basak,Surat,Gujarat,1.57,2026-06-11 11:22:24.219702,Inactive
+SELL01435,Tripathi-Tandon,Bhopal,Odisha,3.97,2026-06-12 11:22:24.219702,Inactive
+SELL01436,Rai and Sons,Kochi,Kerala,2.43,2026-06-13 11:22:24.219702,Inactive
+SELL01437,Divan Inc,Noida,Maharashtra,1.68,2026-06-14 11:22:24.219702,Active
+SELL01438,Sastry-Viswanathan,Hyderabad,West Bengal,3.15,2026-06-15 11:22:24.219702,Inactive
+SELL01439,Subramanian and Sons,Kolkata,Andhra Pradesh,2.57,2026-06-16 11:22:24.219702,Inactive
+SELL01440,Butala-Shankar,Chandigarh,Madhya Pradesh,2.89,2026-06-17 11:22:24.219702,Banned
+SELL01441,"Misra, Chahal and Prasad",Hyderabad,Kerala,2.25,2026-06-18 11:22:24.219702,Inactive
+SELL01442,"Kota, Ratta and Swaminathan",Kochi,West Bengal,2.42,2026-06-19 11:22:24.219702,Inactive
+SELL01443,Sibal-Kurian,Hyderabad,Karnataka,2.41,2026-06-20 11:22:24.219702,Inactive
+SELL01444,"Doshi, Mangal and Dhillon",Kolkata,Karnataka,1.4,2026-06-21 11:22:24.219702,Inactive
+SELL01445,Bahl-Rana,Chandigarh,Maharashtra,3.31,2026-06-22 11:22:24.219702,Banned
+SELL01446,Tak-Shah,Ahmedabad,Gujarat,1.27,2026-06-23 11:22:24.219702,Active
+SELL01447,"Sabharwal, Tata and Babu",Noida,Odisha,1.29,2026-06-24 11:22:24.219702,Banned
+SELL01448,"Luthra, Johal and Loyal",Lucknow,Gujarat,3.69,2026-06-25 11:22:24.219702,Active
+SELL01449,"Majumdar, Kurian and Kala",Pune,Tamil Nadu,3.99,2026-06-26 11:22:24.219702,Banned
+SELL01450,Memon-Sridhar,Noida,Karnataka,3.91,2026-06-27 11:22:24.219702,Inactive
+SELL01451,Cheema Inc,Lucknow,West Bengal,3.98,2026-06-28 11:22:24.219702,Banned
+SELL01452,Sood LLC,Bhopal,Andhra Pradesh,2.86,2026-06-29 11:22:24.219702,Banned
+SELL01453,Kannan and Sons,Chennai,Karnataka,2.93,2026-06-30 11:22:24.219702,Active
+SELL01454,Modi Group,Surat,Haryana,4.68,2026-07-01 11:22:24.219702,Banned
+SELL01455,Balakrishnan-Nori,Chennai,Rajasthan,3.93,2026-07-02 11:22:24.219702,Banned
+SELL01456,"Raman, Jain and Saxena",Pune,Madhya Pradesh,,2026-07-03 11:22:24.219702,Active
+SELL01457,"Gole, Choudhary and Rattan",Bengaluru,Kerala,2.1,2026-07-04 11:22:24.219702,Active
+SELL01458,"Dugal, Seshadri and Chandra",Chennai,Delhi,2.43,2026-07-05 11:22:24.219702,Banned
+SELL01459,"Tiwari, Zacharia and Nagar",Pune,Haryana,2.13,2026-07-06 11:22:24.219702,Inactive
+SELL01460,"Gupta, Chahal and Dyal",Lucknow,Haryana,3.92,2026-07-07 11:22:24.219702,Inactive
+SELL01461,Rattan-Dube,Delhi,Punjab,4.39,2026-07-08 11:22:24.219702,Inactive
+SELL01462,Chahal-Dhar,Jaipur,Telangana,1.01,2026-07-09 11:22:24.219702,Active
+SELL01463,Hari-Bal,Vadodara,Haryana,2.62,2026-07-10 11:22:24.219702,Active
+SELL01464,Parmar-Palla,Noida,Uttar Pradesh,4.76,2026-07-11 11:22:24.219702,Inactive
+SELL01465,Vig Group,Delhi,Tamil Nadu,2.9,2026-07-12 11:22:24.219702,Inactive
+SELL01466,Ranganathan-Raman,Chennai,Punjab,4.9,2026-07-13 11:22:24.219702,Banned
+SELL01467,Kulkarni-Chand,Lucknow,Uttar Pradesh,4.88,2026-07-14 11:22:24.219702,Inactive
+SELL01468,Parsa PLC,Indore,Bihar,3.95,2026-07-15 11:22:24.219702,Active
+SELL01469,Rastogi-Kohli,Delhi,Tamil Nadu,1.85,2026-07-16 11:22:24.219702,Banned
+SELL01470,Vala Ltd,Mumbai,Maharashtra,3.92,2026-07-17 11:22:24.219702,Inactive
+SELL01471,Prabhakar-Krishna,Patna,Tamil Nadu,,2026-07-18 11:22:24.219702,Inactive
+SELL01472,"Devan, Brar and Dubey",Kochi,Madhya Pradesh,4.89,2026-07-19 11:22:24.219702,Banned
+SELL01473,"Chadha, Dubey and Sankaran",Kolkata,Odisha,1.57,2026-07-20 11:22:24.219702,Inactive
+SELL01474,Madan-Khalsa,Vadodara,Kerala,1.83,2026-07-21 11:22:24.219702,Inactive
+SELL01475,Mutti Ltd,Chennai,Kerala,,2026-07-22 11:22:24.219702,Inactive
+SELL01476,Jha LLC,Surat,Madhya Pradesh,3.28,2026-07-23 11:22:24.219702,Inactive
+SELL01477,Oza Group,Bengaluru,Kerala,3.25,2026-07-24 11:22:24.219702,Banned
+SELL01478,Khatri PLC,Vadodara,Haryana,2.44,2026-07-25 11:22:24.219702,Inactive
+SELL01479,Date-Randhawa,Lucknow,Bihar,3.7,2026-07-26 11:22:24.219702,Banned
+SELL01480,"Upadhyay, Wali and Vyas",Surat,Bihar,2.17,2026-07-27 11:22:24.219702,Inactive
+SELL01481,Deep Inc,Lucknow,Tamil Nadu,3.49,2026-07-28 11:22:24.219702,Inactive
+SELL01482,Ganesh-Das,Ahmedabad,Delhi,3.68,2026-07-29 11:22:24.219702,Banned
+SELL01483,Sharaf Inc,Bhopal,Odisha,4.75,2026-07-30 11:22:24.219702,Active
+SELL01484,"Goyal, Varghese and Modi",Pune,Karnataka,6.0,2026-07-31 11:22:24.219702,Inactive
+SELL01485,Raval Group,Kolkata,Kerala,2.51,2026-08-01 11:22:24.219702,Active
+SELL01486,Karpe Group,Delhi,Uttar Pradesh,4.54,2026-08-02 11:22:24.219702,Banned
+SELL01487,Sampath-Divan,Indore,Rajasthan,2.07,2026-08-03 11:22:24.219702,Banned
+SELL01488,"Kar, Rao and Halder",Kochi,Punjab,3.68,2026-08-04 11:22:24.219702,Inactive
+SELL01489,Bir-Soman,Bengaluru,Gujarat,4.56,2026-08-05 11:22:24.219702,Inactive
+SELL01490,"Goda, Khalsa and Bose",Mumbai,Haryana,1.29,2026-08-06 11:22:24.219702,Active
+SELL01491,Kumer-Upadhyay,Vadodara,Haryana,1.98,2026-08-07 11:22:24.219702,Banned
+SELL01492,"Venkataraman, Kaur and Kothari",Mumbai,Haryana,3.12,2026-08-08 11:22:24.219702,Inactive
+SELL01493,Date and Sons,Nagpur,Gujarat,3.69,2026-08-09 11:22:24.219702,Inactive
+SELL01494,Mall-Balakrishnan,Visakhapatnam,Delhi,3.47,2026-08-10 11:22:24.219702,Banned
+SELL01495,"Mitra, Kumar and Sidhu",Kochi,Punjab,,2026-08-11 11:22:24.219702,Inactive
+SELL01496,Naik and Sons,Surat,Telangana,4.42,2026-08-12 11:22:24.219702,Inactive
+SELL01497,Agate PLC,Kochi,Bihar,1.77,2026-08-13 11:22:24.219702,Banned
+SELL01498,Suresh LLC,Delhi,Odisha,1.04,2026-08-14 11:22:24.219702,Active
+SELL01499,"Bava, Chauhan and Devi",Chandigarh,Kerala,2.85,2026-08-15 11:22:24.219702,Active
+SELL01500,Sur-Tata,Surat,Madhya Pradesh,4.87,2026-08-16 11:22:24.219702,Banned
+SELL01501,"Chatterjee, Yohannan and Chaudhuri",Chennai,Madhya Pradesh,2.77,2026-08-17 11:22:24.219702,Active
+SELL01502,Dixit LLC,Mumbai,Maharashtra,3.89,2026-08-18 11:22:24.219702,Inactive
+SELL01503,"Devi, Koshy and Handa",Patna,Madhya Pradesh,4.72,2026-08-19 11:22:24.219702,Active
+SELL01504,"Luthra, Banik and Ratti",Surat,West Bengal,3.8,2026-08-20 11:22:24.219702,Banned
+SELL01505,"Bal, Dhar and Kapadia",Noida,Tamil Nadu,2.0,2026-08-21 11:22:24.219702,Active
+SELL01506,Bawa-Chacko,Bengaluru,Karnataka,1.06,2026-08-22 11:22:24.219702,Banned
+SELL01507,Garg PLC,Kolkata,Kerala,4.12,2026-08-23 11:22:24.219702,Active
+SELL01508,"Sanghvi, Manda and Narain",Kolkata,Kerala,4.67,2026-08-24 11:22:24.219702,Banned
+SELL01509,"Balasubramanian, Mukhopadhyay and Garde",Kochi,Andhra Pradesh,1.46,2026-08-25 11:22:24.219702,Banned
+SELL01510,"Arora, Kata and Jain",Noida,Karnataka,4.38,2026-08-26 11:22:24.219702,Active
+SELL01511,Thakur PLC,Noida,Bihar,4.15,2026-08-27 11:22:24.219702,Inactive
+SELL01512,"Setty, Sane and Sarna",Indore,Punjab,3.36,2026-08-28 11:22:24.219702,Inactive
+SELL01513,Bahl LLC,Jaipur,Kerala,3.61,2026-08-29 11:22:24.219702,Active
+SELL01514,Gopal Ltd,Noida,Kerala,4.48,2026-08-30 11:22:24.219702,Active
+SELL01515,Sawhney-De,Bengaluru,Haryana,,2026-08-31 11:22:24.219702,Inactive
+SELL01516,"Master, Wadhwa and Toor",Ahmedabad,Maharashtra,1.83,2026-09-01 11:22:24.219702,Active
+SELL01517,Atwal Inc,Ahmedabad,Gujarat,3.11,2026-09-02 11:22:24.219702,Active
+SELL01518,Hans Inc,Bengaluru,Karnataka,2.4,2026-09-03 11:22:24.219702,Active
+SELL01519,Aggarwal Ltd,Bhopal,Rajasthan,10.0,2026-09-04 11:22:24.219702,Banned
+SELL01520,Kumar-Varkey,Indore,Bihar,2.69,2026-09-05 11:22:24.219702,Active
+SELL01521,Balasubramanian Inc,Hyderabad,Delhi,1.65,2026-09-06 11:22:24.219702,Banned
+SELL01522,"Raman, Gokhale and Shenoy",Surat,Tamil Nadu,4.2,2026-09-07 11:22:24.219702,Inactive
+SELL01523,Sarma-Bhatia,Jaipur,Karnataka,4.33,2026-09-08 11:22:24.219702,Banned
+SELL01524,Bir Inc,Lucknow,Haryana,1.57,2026-09-09 11:22:24.219702,Active
+SELL01525,"Rau, Kannan and Sahni",Kochi,Bihar,4.21,2026-09-10 11:22:24.219702,Inactive
+SELL01526,"Pau, Thakkar and Karpe",Surat,Gujarat,1.51,2026-09-11 11:22:24.219702,Inactive
+SELL01527,"Agate, Bhandari and Oak",Jaipur,Andhra Pradesh,2.11,2026-09-12 11:22:24.219702,Active
+SELL01528,"Ramakrishnan, Bassi and Walla",Hyderabad,Punjab,9.0,2026-09-13 11:22:24.219702,Inactive
+SELL01529,Batta PLC,Noida,Kerala,4.05,2026-09-14 11:22:24.219702,Inactive
+SELL01530,Buch-Bora,Chennai,Tamil Nadu,1.77,2026-09-15 11:22:24.219702,Inactive
+SELL01531,Nayar Ltd,Ahmedabad,Bihar,4.32,2026-09-16 11:22:24.219702,Active
+SELL01532,Grewal-Chanda,Ahmedabad,West Bengal,1.86,2026-09-17 11:22:24.219702,Inactive
+SELL01533,"Khurana, Lata and Chakraborty",Patna,Andhra Pradesh,1.45,2026-09-18 11:22:24.219702,Inactive
+SELL01534,"Patel, Mammen and Deol",Pune,Maharashtra,3.4,2026-09-19 11:22:24.219702,Banned
+SELL01535,Tara Inc,Hyderabad,Bihar,2.48,2026-09-20 11:22:24.219702,Active
+SELL01536,Pillay Ltd,Pune,Andhra Pradesh,4.27,2026-09-21 11:22:24.219702,Banned
+SELL01537,Grover and Sons,Vadodara,Kerala,4.23,2026-09-22 11:22:24.219702,Banned
+SELL01160,Comar-Bir,Lucknow,Haryana,3.94,2025-09-10 11:22:24.219702,Banned
+SELL00077,"Toor, Wadhwa and Khatri",Mumbai,Maharashtra,2.33,2022-09-23 11:22:24.219702,Active
+SELL00317,Tiwari Ltd,Pune,Madhya Pradesh,2.15,2023-05-21 11:22:24.219702,Active
+SELL01041,"Khurana, Bora and Sama",Noida,Odisha,4.92,2025-05-14 11:22:24.219702,Inactive
+SELL01358,Dalal PLC,Chennai,Gujarat,4.65,2026-03-27 11:22:24.219702,Inactive
+SELL00925,Behl-Soni,Noida,Telangana,2.26,2025-01-18 11:22:24.219702,Banned
+SELL00758,"Ramakrishnan, Talwar and Mody",Delhi,Punjab,2.35,2024-08-04 11:22:24.219702,Banned
+SELL01507,Garg PLC,Kolkata,Kerala,4.12,2026-08-23 11:22:24.219702,Active
+SELL00965,Raval-Dara,Delhi,West Bengal,4.8,2025-02-27 11:22:24.219702,Banned
+SELL01198,"Borah, Shukla and Virk",Delhi,Delhi,4.75,2025-10-18 11:22:24.219702,Banned
+SELL01088,"Lal, Saxena and Mistry",Delhi,Punjab,2.01,2025-06-30 11:22:24.219702,Active
+SELL00679,"Borra, Karan and Maharaj",Mumbai,Haryana,1.87,2024-05-17 11:22:24.219702,Banned
+SELL00372,Kala and Sons,Ahmedabad,Odisha,1.18,2023-07-15 11:22:24.219702,Inactive
+SELL01488,"Kar, Rao and Halder",Kochi,Punjab,3.68,2026-08-04 11:22:24.219702,Inactive
+SELL01158,"Dugal, Bhagat and Goda",Patna,Madhya Pradesh,3.03,2025-09-08 11:22:24.219702,Active
+SELL01533,"Khurana, Lata and Chakraborty",Patna,Andhra Pradesh,1.45,2026-09-18 11:22:24.219702,Inactive
+SELL01002,Krishnan-Nagar,Chandigarh,Odisha,1.95,2025-04-05 11:22:24.219702,Inactive
+SELL00031,"Loke, Dutt and Mane",Mumbai,West Bengal,,2022-08-08 11:22:24.219702,Active
+SELL00050,Parekh PLC,Lucknow,Kerala,2.29,2022-08-27 11:22:24.219702,Active
+SELL00241,"Edwin, Chaudhry and Panchal",Kochi,Bihar,,2023-03-06 11:22:24.219702,Active
+SELL00310,Rao Group,Lucknow,Karnataka,2.74,2023-05-14 11:22:24.219702,Banned
+SELL00354,"Choudhary, Viswanathan and Minhas",Chennai,Gujarat,3.79,2023-06-27 11:22:24.219702,Banned
+SELL00125,Andra-Venkataraman,Noida,Uttar Pradesh,3.25,2022-11-10 11:22:24.219702,Active
+SELL00382,Rama Group,Delhi,Kerala,6.0,2023-07-25 11:22:24.219702,Inactive
+SELL01023,"Dugar, Ravel and Bhatt",Lucknow,Rajasthan,4.37,2025-04-26 11:22:24.219702,Inactive
+SELL00071,Bahl and Sons,Patna,Haryana,9.0,2022-09-17 11:22:24.219702,Active
+SELL01126,"Butala, Sagar and Aggarwal",Delhi,Punjab,2.78,2025-08-07 11:22:24.219702,Inactive
+SELL00705,Verma LLC,Mumbai,Kerala,2.37,2024-06-12 11:22:24.219702,Active
+SELL00942,Bali LLC,Hyderabad,Punjab,1.35,2025-02-04 11:22:24.219702,Active
+SELL00989,Agarwal LLC,Bengaluru,Delhi,4.37,2025-03-23 11:22:24.219702,Inactive
+SELL00571,Sen-Yohannan,Ahmedabad,Haryana,4.18,2024-01-30 11:22:24.219702,Banned
+SELL00893,"Srinivas, Anand and Bhatia",Vadodara,Rajasthan,1.14,2024-12-17 11:22:24.219702,Inactive
+SELL00576,"Cherian, Venkatesh and Wable",Kolkata,Karnataka,3.55,2024-02-04 11:22:24.219702,Banned
+SELL00586,"Palla, Chopra and Muni",Delhi,Madhya Pradesh,2.32,2024-02-14 11:22:24.219702,Active
+SELL01484,"Goyal, Varghese and Modi",Pune,Karnataka,6.0,2026-07-31 11:22:24.219702,Inactive
+SELL01175,"Sagar, Batra and Salvi",Kolkata,Rajasthan,4.46,2025-09-25 11:22:24.219702,Banned
+SELL00622,"Aurora, Chahal and Chand",Visakhapatnam,Uttar Pradesh,1.06,2024-03-21 11:22:24.219702,Inactive
+SELL00670,"Ghose, Ramakrishnan and Lad",Hyderabad,Delhi,1.62,2024-05-08 11:22:24.219702,Active
