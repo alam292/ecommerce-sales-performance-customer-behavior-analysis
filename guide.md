@@ -4,6 +4,70 @@ This guide follows a structured approach to solving e-commerce business problems
 
 ---
 
+## 🗺️ Project Workflow Overview
+
+```text
+                    E-COMMERCE BUSINESS
+                           ↓
+                    1. DATA COLLECTION
+                           ↓
+                    2. DATA UNDERSTANDING
+                           ↓
+                    3. DATA CLEANING
+                           ↓
+                    4. DATA VALIDATION / DATA QUALITY
+                           ↓
+                    5. DATA TRANSFORMATION / ETL
+                           ↓
+                    6. EXPLORATORY DATA ANALYSIS (EDA)
+                           ↓
+                    7. SQL BUSINESS ANALYSIS
+                           ↓
+                    8. ADVANCED ANALYTICS
+                       ├── Customer Segmentation
+                       ├── RFM Analysis
+                       ├── Cohort Analysis
+                       ├── A/B Testing
+                       ├── Churn Analysis
+                       └── Customer Lifetime Value
+                           ↓
+                    9. DATA MODELING
+                           ↓
+                   10. POWER BI
+                       ├── Data Model
+                       ├── DAX
+                       └── KPI Dashboard
+                           ↓
+                   11. DATA STORYTELLING
+                           ↓
+                   12. BUSINESS INSIGHTS
+                           ↓
+                   13. BUSINESS RECOMMENDATIONS
+                           ↓
+                   14. BUSINESS DECISION
+```
+
+### Workflow Details
+
+| Step | What you do | Why | Output |
+| :--- | :--- | :--- | :--- |
+| **1. Data Collection** | Collect orders, customers, products, payments, returns | Get raw business data | Raw datasets |
+| **2. Data Understanding** | Inspect columns, rows, data types, distributions | Understand what the data contains | Data dictionary + initial findings |
+| **3. Data Cleaning** | Handle missing values, duplicates, incorrect formats, outliers | Make data reliable | Clean dataset |
+| **4. Data Validation** | Check uniqueness, nulls, ranges, relationships, business rules | Ensure data is trustworthy | Data-quality report |
+| **5. ETL / Transformation** | Create calculated fields, standardize categories, aggregate data | Prepare data for analysis | Analysis-ready dataset |
+| **6. EDA** | Analyze sales, customers, products, trends | Discover patterns | Exploratory findings |
+| **7. SQL Analysis** | JOIN, GROUP BY, CTE, subqueries, window functions | Answer business questions | SQL insights |
+| **8. Advanced Analytics** | RFM, churn, A/B testing, cohorts, segmentation | Go beyond basic reporting | Advanced insights |
+| **9. Data Modeling** | Build fact/dimension relationships | Create analytical structure | Star schema |
+| **10. Power BI** | KPIs, DAX, charts, filters, dashboard | Communicate performance | Interactive dashboard |
+| **11. Storytelling** | Convert numbers into a logical business story | Explain what happened and why | Data story |
+| **12. Business Insights** | Identify important findings | Understand business impact | Actionable insights |
+| **13. Recommendations** | Suggest actions based on evidence | Improve business performance | Action plan |
+| **14. Decision** | Management takes action | Generate business value | Business outcome |
+
+---
+
 ## 1. Business Problem
 
 *   **What?** 
